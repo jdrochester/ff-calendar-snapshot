@@ -19,39 +19,59 @@ jobs:
           curl -A "Mozilla/5.0" https://nfs.faireconomy.media/ff_calendar_thisweek.xml -o thisweek.xml
           curl -A "Mozilla/5.0" https://nfs.faireconomy.media/ff_calendar_nextweek.xml -o nextweek.xml
 
-      - name: Convert XML → JSON
-        run: |
-          python3 << 'EOF'
-          import xml.etree.ElementTree as ET
-          import json
-          from datetime import datetime
+      - - name: Convert XML → JSON
+  run: |
+    python3 << 'EOF'
+    import json
+    import xml.etree.ElementTree as ET
+    from pathlib import Path
 
-          def parse(path):
-              root = ET.parse(path).getroot()
-              out = []
-              for ev in root.findall('event'):
-                  out.append({
-                      "title": ev.findtext('title'),
-                      "country": ev.findtext('country'),
-                      "impact": ev.findtext('impact'),
-                      "date": ev.findtext('date'),
-                      "time": ev.findtext('time'),
-                      "forecast": ev.findtext('forecast'),
-                      "previous": ev.findtext('previous'),
-                      "actual": ev.findtext('actual')
-                  })
-              return out
+    def safe_parse(path):
+        try:
+            text = path.read_text(encoding="utf-8", errors="ignore")
 
-          events = parse('thisweek.xml') + parse('nextweek.xml')
+            # Basic sanity check — HTML or empty responses
+            if "<html" in text.lower() or not text.strip().startswith("<"):
+                print(f"⚠️ Skipping non-XML response: {path.name}")
+                return None
 
-          data = {
-              "last_updated": datetime.utcnow().isoformat() + "Z",
-              "events": events
-          }
+            root = ET.fromstring(text)
+            events = []
 
-          with open('data/calendar.json', 'w') as f:
-              json.dump(data, f, indent=2)
-          EOF
+            for ev in root.findall(".//event"):
+                events.append({
+                    "title": ev.findtext("title"),
+                    "country": ev.findtext("country"),
+                    "currency": ev.findtext("currency"),
+                    "impact": ev.findtext("impact"),
+                    "date": ev.findtext("date"),
+                    "time": ev.findtext("time"),
+                    "forecast": ev.findtext("forecast"),
+                    "previous": ev.findtext("previous"),
+                    "actual": ev.findtext("actual"),
+                })
+
+            return events
+
+        except Exception as e:
+            print(f"❌ Failed parsing {path.name}: {e}")
+            return None
+
+    all_events = []
+
+    for xml_file in Path(".").glob("*.xml"):
+        parsed = safe_parse(xml_file)
+        if parsed:
+            all_events.extend(parsed)
+
+    Path("calendar.json").write_text(
+        json.dumps(all_events, indent=2),
+        encoding="utf-8"
+    )
+
+    print(f"✅ Parsed {len(all_events)} events successfully")
+    EOF
+
 
       - name: Commit updates
         run: |
