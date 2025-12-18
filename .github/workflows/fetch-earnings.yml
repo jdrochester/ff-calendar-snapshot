@@ -1,0 +1,72 @@
+name: Fetch Stock Earnings Calendar
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"   # 3am UTC ≈ before your 5am ET window
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch earnings calendar
+        env:
+          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+        run: |
+          python3 << 'EOF'
+          import json
+          import requests
+          from datetime import datetime, timedelta
+
+          API_KEY = "${ewasfCrDDlw0j4uSnZqyibxbtBcs28LH}"
+          BASE_URL = "https://financialmodelingprep.com/api/v3/earning_calendar"
+
+          tickers = json.load(open("tickers.json"))
+          all_events = []
+
+          today = datetime.utcnow().date()
+          end = today + timedelta(days=45)
+
+          for ticker in tickers:
+              url = f"{BASE_URL}?symbol={ticker}&apikey={API_KEY}"
+              try:
+                  data = requests.get(url, timeout=10).json()
+              except Exception as e:
+                  print(f"❌ Failed fetch {ticker}: {e}")
+                  continue
+
+              for ev in data:
+                  date = ev.get("date")
+                  if not date:
+                      continue
+
+                  d = datetime.strptime(date, "%Y-%m-%d").date()
+                  if d < today or d > end:
+                      continue
+
+                  all_events.append({
+                      "ticker": ticker,
+                      "date": date,
+                      "time": ev.get("time", ""),  # BMO / AMC
+                      "exchange": ev.get("exchange", ""),
+                      "eps_estimate": ev.get("epsEstimated"),
+                      "revenue_estimate": ev.get("revenueEstimated")
+                  })
+
+          with open("StockEarningsCal.json", "w") as f:
+              json.dump(all_events, f, indent=2)
+
+          print(f"✅ Parsed {len(all_events)} earnings events")
+          EOF
+
+      - name: Commit earnings calendar
+        run: |
+          git config user.name "earnings-bot"
+          git config user.email "bot@github.com"
+          git add StockEarningsCal.json
+          git commit -m "Update stock earnings calendar" || echo "No changes to commit"
+          git push
