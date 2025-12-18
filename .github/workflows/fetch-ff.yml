@@ -1,1 +1,62 @@
+name: Fetch ForexFactory Calendar
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every 6 hours
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch ForexFactory feeds
+        run: |
+          curl -A "Mozilla/5.0" https://nfs.faireconomy.media/ff_calendar_thisweek.xml -o thisweek.xml
+          curl -A "Mozilla/5.0" https://nfs.faireconomy.media/ff_calendar_nextweek.xml -o nextweek.xml
+
+      - name: Convert XML → JSON
+        run: |
+          python3 << 'EOF'
+          import xml.etree.ElementTree as ET
+          import json
+          from datetime import datetime
+
+          def parse(path):
+              root = ET.parse(path).getroot()
+              out = []
+              for ev in root.findall('event'):
+                  out.append({
+                      "title": ev.findtext('title'),
+                      "country": ev.findtext('country'),
+                      "impact": ev.findtext('impact'),
+                      "date": ev.findtext('date'),
+                      "time": ev.findtext('time'),
+                      "forecast": ev.findtext('forecast'),
+                      "previous": ev.findtext('previous'),
+                      "actual": ev.findtext('actual')
+                  })
+              return out
+
+          events = parse('thisweek.xml') + parse('nextweek.xml')
+
+          data = {
+              "last_updated": datetime.utcnow().isoformat() + "Z",
+              "events": events
+          }
+
+          with open('data/calendar.json', 'w') as f:
+              json.dump(data, f, indent=2)
+          EOF
+
+      - name: Commit updates
+        run: |
+          git config user.name "ff-bot"
+          git config user.email "ff-bot@users.noreply.github.com"
+          git add data/calendar.json
+          git commit -m "Update ForexFactory calendar snapshot" || echo "No changes"
+          git push
 
