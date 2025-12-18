@@ -20,7 +20,7 @@ jobs:
           curl -s https://nfs.faireconomy.media/ff_calendar_thisweek.xml -o thisweek.xml || true
           curl -s https://nfs.faireconomy.media/ff_calendar_nextweek.xml -o nextweek.xml || true
 
-      - name: Convert XML → JSON
+      - name: Convert XML to JSON
         run: |
           python3 << 'EOF'
           import json
