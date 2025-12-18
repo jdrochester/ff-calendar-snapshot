@@ -15,7 +15,7 @@ jobs:
 
       - name: Fetch earnings calendar
         env:
-          FMP_API_KEY: ${{ secrets.ewasfCrDDlw0j4uSnZqyibxbtBcs28LH}}
+          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
         run: |
           set -e
           python3 - << 'EOF'
