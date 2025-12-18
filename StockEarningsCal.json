@@ -1,11 +1,5 @@
 [
   {
-    "ticker": "BIRK",
-    "date": "2025-12-18",
-    "time": "time-pre-market",
-    "eps_estimate": "$0.40"
-  },
-  {
     "ticker": "JPM",
     "date": "2026-01-13",
     "time": "time-pre-market",
