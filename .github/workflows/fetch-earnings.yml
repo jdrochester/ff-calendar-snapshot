@@ -1,65 +1,104 @@
-python3 << 'EOF'
-import json
-import requests
-from datetime import datetime, timedelta, timezone
-from pathlib import Path
+name: Fetch Stock Earnings Calendar
 
-API_KEY = "${FMP_API_KEY}"
-BASE_URL = "https://financialmodelingprep.com/api/v3/earning_calendar"
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"
 
-# Load tickers
-tickers = json.load(open("tickers.json"))
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
 
-all_events = []
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-today = datetime.now(timezone.utc).date()
-end = today + timedelta(days=45)
+      - name: Fetch earnings calendar
+        env:
+          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+        run: |
+          set -e
+          python3 - << 'EOF'
+          import os
+          import json
+          import requests
+          from datetime import datetime, timedelta, timezone
+          from pathlib import Path
 
-for ticker in tickers:
-    url = f"{BASE_URL}?symbol={ticker}&apikey={API_KEY}"
-    print(f"🔎 Fetching {ticker}")
+          api_key = os.environ.get("FMP_API_KEY", "").strip()
+          if not api_key:
+              raise SystemExit("Missing FMP_API_KEY (set it in repo secrets).")
 
-    try:
-        resp = requests.get(url, timeout=10)
-        data = resp.json()
-    except Exception as e:
-        print(f"❌ HTTP error for {ticker}: {e}")
-        continue
+          base_url = "https://financialmodelingprep.com/api/v3/earning_calendar"
 
-    # Defensive checks
-    if not isinstance(data, list):
-        print(f"⚠️ Non-list response for {ticker}: {data}")
-        continue
+          tickers_path = Path("tickers.json")
+          if not tickers_path.exists():
+              raise SystemExit("Missing tickers.json in repo root.")
 
-    for ev in data:
-        if not isinstance(ev, dict):
-            continue
+          tickers = json.loads(tickers_path.read_text(encoding="utf-8"))
+          if not isinstance(tickers, list) or not tickers:
+              raise SystemExit("tickers.json must be a non-empty JSON array of tickers.")
 
-        date = ev.get("date")
-        if not date:
-            continue
+          all_events = []
+          today = datetime.now(timezone.utc).date()
+          end = today + timedelta(days=45)
 
-        try:
-            d = datetime.strptime(date, "%Y-%m-%d").date()
-        except Exception:
-            continue
+          for ticker in tickers:
+              ticker = str(ticker).strip()
+              if not ticker:
+                  continue
 
-        if d < today or d > end:
-            continue
+              url = f"{base_url}?symbol={ticker}&apikey={api_key}"
+              print("Fetching", ticker)
 
-        all_events.append({
-            "ticker": ticker,
-            "date": date,
-            "time": ev.get("time", ""),
-            "exchange": ev.get("exchange", ""),
-            "eps_estimate": ev.get("epsEstimated"),
-            "revenue_estimate": ev.get("revenueEstimated")
-        })
+              try:
+                  resp = requests.get(url, timeout=10)
+                  data = resp.json()
+              except Exception as e:
+                  print("HTTP/JSON error for", ticker, ":", e)
+                  continue
 
-Path("StockEarningsCal.json").write_text(
-    json.dumps(all_events, indent=2),
-    encoding="utf-8"
-)
+              if not isinstance(data, list):
+                  print("Non-list response for", ticker, ":", data)
+                  continue
 
-print(f"✅ Parsed {len(all_events)} earnings events")
-EOF
+              for ev in data:
+                  if not isinstance(ev, dict):
+                      continue
+
+                  date = ev.get("date")
+                  if not date:
+                      continue
+
+                  try:
+                      d = datetime.strptime(date, "%Y-%m-%d").date()
+                  except Exception:
+                      continue
+
+                  if d < today or d > end:
+                      continue
+
+                  all_events.append({
+                      "ticker": ticker,
+                      "date": date,
+                      "time": ev.get("time", ""),
+                      "exchange": ev.get("exchange", ""),
+                      "eps_estimate": ev.get("epsEstimated"),
+                      "revenue_estimate": ev.get("revenueEstimated")
+                  })
+
+          Path("StockEarningsCal.json").write_text(
+              json.dumps(all_events, indent=2),
+              encoding="utf-8"
+          )
+
+          print("Parsed", len(all_events), "earnings events")
+          EOF
+
+      - name: Commit earnings calendar
+        run: |
+          git config user.name "earnings-bot"
+          git config user.email "bot@github.com"
+          git add StockEarningsCal.json
+          git commit -m "Update stock earnings calendar" || echo "No changes to commit"
+          git push
