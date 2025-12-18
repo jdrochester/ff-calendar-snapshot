@@ -1,9 +1,9 @@
 name: Fetch ForexFactory Calendar
 
 on:
-  schedule:
-    - cron: '0 */6 * * *'   # every 6 hours
   workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
 
 jobs:
   fetch:
@@ -15,6 +15,7 @@ jobs:
 
       - name: Fetch ForexFactory feeds
         run: |
+          mkdir -p data
           curl -A "Mozilla/5.0" https://nfs.faireconomy.media/ff_calendar_thisweek.xml -o thisweek.xml
           curl -A "Mozilla/5.0" https://nfs.faireconomy.media/ff_calendar_nextweek.xml -o nextweek.xml
 
@@ -59,4 +60,3 @@ jobs:
           git add data/calendar.json
           git commit -m "Update ForexFactory calendar snapshot" || echo "No changes"
           git push
-
