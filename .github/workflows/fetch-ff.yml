@@ -3,80 +3,93 @@ name: Fetch ForexFactory Calendar
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"
+    # Runs every day at 06:00 UTC
+    - cron: "0 6 * * *"
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
 
     steps:
+      # ─────────────────────────────────────────────
+      # 1. Checkout repo
+      # ─────────────────────────────────────────────
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      # ─────────────────────────────────────────────
+      # 2. Fetch ForexFactory feeds
+      #    (weekly + next week to approximate rolling month)
+      # ─────────────────────────────────────────────
       - name: Fetch ForexFactory feeds
         run: |
-          mkdir -p data
-          curl -A "Mozilla/5.0" https://nfs.faireconomy.media/ff_calendar_thisweek.xml -o thisweek.xml
-          curl -A "Mozilla/5.0" https://nfs.faireconomy.media/ff_calendar_nextweek.xml -o nextweek.xml
+          set -e
+          curl -s https://nfs.faireconomy.media/ff_calendar_thisweek.xml -o thisweek.xml || true
+          curl -s https://nfs.faireconomy.media/ff_calendar_nextweek.xml -o nextweek.xml || true
 
-      - - name: Convert XML → JSON
-  run: |
-    python3 << 'EOF'
-    import json
-    import xml.etree.ElementTree as ET
-    from pathlib import Path
-
-    def safe_parse(path):
-        try:
-            text = path.read_text(encoding="utf-8", errors="ignore")
-
-            # Basic sanity check — HTML or empty responses
-            if "<html" in text.lower() or not text.strip().startswith("<"):
-                print(f"⚠️ Skipping non-XML response: {path.name}")
-                return None
-
-            root = ET.fromstring(text)
-            events = []
-
-            for ev in root.findall(".//event"):
-                events.append({
-                    "title": ev.findtext("title"),
-                    "country": ev.findtext("country"),
-                    "currency": ev.findtext("currency"),
-                    "impact": ev.findtext("impact"),
-                    "date": ev.findtext("date"),
-                    "time": ev.findtext("time"),
-                    "forecast": ev.findtext("forecast"),
-                    "previous": ev.findtext("previous"),
-                    "actual": ev.findtext("actual"),
-                })
-
-            return events
-
-        except Exception as e:
-            print(f"❌ Failed parsing {path.name}: {e}")
-            return None
-
-    all_events = []
-
-    for xml_file in Path(".").glob("*.xml"):
-        parsed = safe_parse(xml_file)
-        if parsed:
-            all_events.extend(parsed)
-
-    Path("calendar.json").write_text(
-        json.dumps(all_events, indent=2),
-        encoding="utf-8"
-    )
-
-    print(f"✅ Parsed {len(all_events)} events successfully")
-    EOF
-
-
-      - name: Commit updates
+      # ─────────────────────────────────────────────
+      # 3. Convert XML → JSON (DEFENSIVE)
+      # ─────────────────────────────────────────────
+      - name: Convert XML → JSON
         run: |
-          git config user.name "ff-bot"
-          git config user.email "ff-bot@users.noreply.github.com"
-          git add data/calendar.json
-          git commit -m "Update ForexFactory calendar snapshot" || echo "No changes"
+          python3 << 'EOF'
+          import json
+          import xml.etree.ElementTree as ET
+          from pathlib import Path
+
+          def safe_parse(path):
+              try:
+                  text = path.read_text(encoding="utf-8", errors="ignore")
+
+                  # Skip HTML / bot / malformed responses
+                  if "<html" in text.lower() or not text.strip().startswith("<"):
+                      print(f"⚠️ Skipping non-XML response: {path.name}")
+                      return []
+
+                  root = ET.fromstring(text)
+                  events = []
+
+                  for ev in root.findall(".//event"):
+                      events.append({
+                          "title": ev.findtext("title"),
+                          "country": ev.findtext("country"),
+                          "currency": ev.findtext("currency"),
+                          "impact": ev.findtext("impact"),
+                          "date": ev.findtext("date"),
+                          "time": ev.findtext("time"),
+                          "forecast": ev.findtext("forecast"),
+                          "previous": ev.findtext("previous"),
+                          "actual": ev.findtext("actual"),
+                      })
+
+                  return events
+
+              except Exception as e:
+                  print(f"❌ Failed parsing {path.name}: {e}")
+                  return []
+
+          all_events = []
+
+          for xml_file in ["thisweek.xml", "nextweek.xml"]:
+              path = Path(xml_file)
+              if path.exists():
+                  all_events.extend(safe_parse(path))
+
+          Path("calendar.json").write_text(
+              json.dumps(all_events, indent=2),
+              encoding="utf-8"
+          )
+
+          print(f"✅ Parsed {len(all_events)} total events")
+          EOF
+
+      # ─────────────────────────────────────────────
+      # 4. Commit updates (idempotent)
+      # ─────────────────────────────────────────────
+      - name: Commit calendar snapshot
+        run: |
+          git config user.name "ff-calendar-bot"
+          git config user.email "bot@github.com"
+          git add calendar.json
+          git commit -m "Update ForexFactory calendar snapshot" || echo "No changes to commit"
           git push
