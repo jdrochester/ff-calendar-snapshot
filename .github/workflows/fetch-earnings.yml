@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Fetch earnings from Nasdaq
+      - name: Fetch earnings from Nasdaq (date-based)
         run: |
           set -e
           python3 - << 'EOF'
@@ -30,67 +30,62 @@ jobs:
               "Referer": "https://www.nasdaq.com/market-activity/earnings"
           }
 
-          tickers_path = Path("tickers.json")
-          if not tickers_path.exists():
-              raise SystemExit("Missing tickers.json in repo root.")
-
-          tickers = json.loads(tickers_path.read_text(encoding="utf-8"))
-          if not isinstance(tickers, list) or not tickers:
-              raise SystemExit("tickers.json must be a non-empty JSON array.")
+          tickers = set(
+              t.strip().upper()
+              for t in json.loads(Path("tickers.json").read_text())
+              if t.strip()
+          )
 
           today = datetime.now(timezone.utc).date()
           end = today + timedelta(days=45)
 
           all_events = []
 
-          for ticker in tickers:
-              ticker = str(ticker).strip().upper()
-              if not ticker:
-                  continue
-
-              print("Fetching", ticker)
+          cur = today
+          while cur <= end:
+              date_str = cur.isoformat()
+              print("Fetching earnings for", date_str)
 
               try:
                   r = requests.get(
                       BASE_URL,
-                      params={"symbol": ticker},
+                      params={"date": date_str},
                       headers=HEADERS,
                       timeout=10
                   )
                   data = r.json()
               except Exception as e:
-                  print("HTTP/JSON error for", ticker, ":", e)
+                  print("HTTP/JSON error for", date_str, ":", e)
+                  cur += timedelta(days=1)
                   continue
 
               payload = data.get("data")
               if not isinstance(payload, dict):
-                  print("No earnings payload for", ticker)
+                  cur += timedelta(days=1)
                   continue
 
               rows = payload.get("rows", [])
-              if not isinstance(rows, list) or not rows:
-                  print("No earnings rows for", ticker)
+              if not isinstance(rows, list):
+                  cur += timedelta(days=1)
                   continue
 
               for ev in rows:
-                  date_str = ev.get("earningsDate")
-                  if not date_str:
+                  symbol = ev.get("symbol")
+                  if not symbol:
                       continue
 
-                  try:
-                      d = datetime.strptime(date_str[:10], "%Y-%m-%d").date()
-                  except Exception:
-                      continue
-
-                  if d < today or d > end:
+                  symbol = symbol.upper()
+                  if symbol not in tickers:
                       continue
 
                   all_events.append({
-                      "ticker": ticker,
-                      "date": d.isoformat(),
+                      "ticker": symbol,
+                      "date": date_str,
                       "time": ev.get("time", ""),   # BMO / AMC / empty
                       "eps_estimate": ev.get("epsForecast")
                   })
+
+              cur += timedelta(days=1)
 
           Path("StockEarningsCal.json").write_text(
               json.dumps(all_events, indent=2),
