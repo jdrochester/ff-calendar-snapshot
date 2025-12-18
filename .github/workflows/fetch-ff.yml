@@ -3,7 +3,7 @@ name: Fetch ForexFactory Calendar
 on:
   workflow_dispatch:
   schedule:
-    # Runs every day at 06:00 UTC
+    # Runs every day early enough to be ready before 5am NY
     - cron: "0 4 * * *"
 
 jobs:
@@ -19,14 +19,14 @@ jobs:
 
       # ─────────────────────────────────────────────
       # 2. Fetch ForexFactory feeds
-      #    (weekly + next week to approximate rolling month)
+      #    (last + this + next week for full coverage)
       # ─────────────────────────────────────────────
-- name: Fetch ForexFactory feeds
-  run: |
-    set -e
-    curl -s https://nfs.faireconomy.media/ff_calendar_lastweek.xml -o lastweek.xml || true
-    curl -s https://nfs.faireconomy.media/ff_calendar_thisweek.xml -o thisweek.xml || true
-    curl -s https://nfs.faireconomy.media/ff_calendar_nextweek.xml -o nextweek.xml || true
+      - name: Fetch ForexFactory feeds
+        run: |
+          set -e
+          curl -s https://nfs.faireconomy.media/ff_calendar_lastweek.xml -o lastweek.xml || true
+          curl -s https://nfs.faireconomy.media/ff_calendar_thisweek.xml -o thisweek.xml || true
+          curl -s https://nfs.faireconomy.media/ff_calendar_nextweek.xml -o nextweek.xml || true
 
       # ─────────────────────────────────────────────
       # 3. Convert XML → JSON (DEFENSIVE)
@@ -71,11 +71,10 @@ jobs:
 
           all_events = []
 
-for xml_file in ["lastweek.xml", "thisweek.xml", "nextweek.xml"]:
-    path = Path(xml_file)
-    if path.exists():
-        all_events.extend(safe_parse(path))
-
+          for xml_file in ["lastweek.xml", "thisweek.xml", "nextweek.xml"]:
+              path = Path(xml_file)
+              if path.exists():
+                  all_events.extend(safe_parse(path))
 
           Path("calendar.json").write_text(
               json.dumps(all_events, indent=2),
