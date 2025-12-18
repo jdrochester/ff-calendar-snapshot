@@ -3,7 +3,7 @@ name: Fetch Stock Earnings Calendar
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 3 * * *"   # 3am UTC (~11pm ET previous day)
 
 jobs:
   fetch:
@@ -13,23 +13,22 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Fetch earnings calendar
-        env:
-          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+      - name: Fetch earnings from Nasdaq
         run: |
           set -e
           python3 - << 'EOF'
-          import os
           import json
           import requests
           from datetime import datetime, timedelta, timezone
           from pathlib import Path
 
-          api_key = os.environ.get("FMP_API_KEY", "").strip()
-          if not api_key:
-              raise SystemExit("Missing FMP_API_KEY (set it in repo secrets).")
+          BASE_URL = "https://api.nasdaq.com/api/calendar/earnings"
 
-          base_url = "https://financialmodelingprep.com/api/v3/earning_calendar"
+          HEADERS = {
+              "User-Agent": "Mozilla/5.0",
+              "Accept": "application/json",
+              "Referer": "https://www.nasdaq.com/market-activity/earnings"
+          }
 
           tickers_path = Path("tickers.json")
           if not tickers_path.exists():
@@ -37,41 +36,44 @@ jobs:
 
           tickers = json.loads(tickers_path.read_text(encoding="utf-8"))
           if not isinstance(tickers, list) or not tickers:
-              raise SystemExit("tickers.json must be a non-empty JSON array of tickers.")
+              raise SystemExit("tickers.json must be a non-empty JSON array.")
 
-          all_events = []
           today = datetime.now(timezone.utc).date()
           end = today + timedelta(days=45)
 
+          all_events = []
+
           for ticker in tickers:
-              ticker = str(ticker).strip()
+              ticker = str(ticker).strip().upper()
               if not ticker:
                   continue
 
-              url = f"{base_url}?symbol={ticker}&apikey={api_key}"
               print("Fetching", ticker)
 
               try:
-                  resp = requests.get(url, timeout=10)
-                  data = resp.json()
+                  r = requests.get(
+                      BASE_URL,
+                      params={"symbol": ticker},
+                      headers=HEADERS,
+                      timeout=10
+                  )
+                  data = r.json()
               except Exception as e:
                   print("HTTP/JSON error for", ticker, ":", e)
                   continue
 
-              if not isinstance(data, list):
-                  print("Non-list response for", ticker, ":", data)
+              rows = data.get("data", {}).get("rows", [])
+              if not isinstance(rows, list):
+                  print("No earnings rows for", ticker)
                   continue
 
-              for ev in data:
-                  if not isinstance(ev, dict):
-                      continue
-
-                  date = ev.get("date")
-                  if not date:
+              for ev in rows:
+                  date_str = ev.get("earningsDate")
+                  if not date_str:
                       continue
 
                   try:
-                      d = datetime.strptime(date, "%Y-%m-%d").date()
+                      d = datetime.strptime(date_str[:10], "%Y-%m-%d").date()
                   except Exception:
                       continue
 
@@ -80,11 +82,9 @@ jobs:
 
                   all_events.append({
                       "ticker": ticker,
-                      "date": date,
-                      "time": ev.get("time", ""),
-                      "exchange": ev.get("exchange", ""),
-                      "eps_estimate": ev.get("epsEstimated"),
-                      "revenue_estimate": ev.get("revenueEstimated")
+                      "date": d.isoformat(),
+                      "time": ev.get("time", ""),     # BMO / AMC / empty
+                      "eps_estimate": ev.get("epsForecast")
                   })
 
           Path("StockEarningsCal.json").write_text(
