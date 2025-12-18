@@ -3,7 +3,7 @@ name: Fetch ForexFactory Calendar
 on:
   workflow_dispatch:
   schedule:
-    # Runs every day early enough to be ready before 5am NY
+    # Runs early enough to always be ready before 5am NY
     - cron: "0 4 * * *"
 
 jobs:
@@ -19,7 +19,7 @@ jobs:
 
       # ─────────────────────────────────────────────
       # 2. Fetch ForexFactory feeds
-      #    (last + this + next week for full coverage)
+      #    (last + this + next week for boundary safety)
       # ─────────────────────────────────────────────
       - name: Fetch ForexFactory feeds
         run: |
@@ -29,7 +29,7 @@ jobs:
           curl -s https://nfs.faireconomy.media/ff_calendar_nextweek.xml -o nextweek.xml || true
 
       # ─────────────────────────────────────────────
-      # 3. Convert XML → JSON (DEFENSIVE)
+      # 3. Convert XML → JSON (DEFENSIVE + LOGGED)
       # ─────────────────────────────────────────────
       - name: Convert XML → JSON
         run: |
@@ -73,15 +73,21 @@ jobs:
 
           for xml_file in ["lastweek.xml", "thisweek.xml", "nextweek.xml"]:
               path = Path(xml_file)
-              if path.exists():
-                  all_events.extend(safe_parse(path))
+
+              if not path.exists():
+                  print(f"⚠️ Missing file: {xml_file}")
+                  continue
+
+              events = safe_parse(path)
+              print(f"📄 {xml_file}: {len(events)} events")
+              all_events.extend(events)
 
           Path("calendar.json").write_text(
               json.dumps(all_events, indent=2),
               encoding="utf-8"
           )
 
-          print(f"✅ Parsed {len(all_events)} total events")
+          print(f"✅ Parsed {len(all_events)} total events written to calendar.json")
           EOF
 
       # ─────────────────────────────────────────────
