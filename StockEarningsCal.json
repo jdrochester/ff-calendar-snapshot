@@ -3,12 +3,18 @@
     "ticker": "JPM",
     "date": "2026-01-13",
     "time": "time-pre-market",
-    "eps_estimate": "$4.93"
+    "eps_estimate": "$4.96"
   },
   {
     "ticker": "AAPL",
     "date": "2026-01-29",
     "time": "time-not-supplied",
     "eps_estimate": "$2.65"
+  },
+  {
+    "ticker": "GOOGL",
+    "date": "2026-02-03",
+    "time": "time-not-supplied",
+    "eps_estimate": "$2.58"
   }
 ]
