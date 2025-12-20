@@ -1276,17 +1276,6 @@
     "actual": null
   },
   {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "12-19-2025",
-    "time": "7:02am",
-    "forecast": "",
-    "previous": "-10.3%",
-    "actual": null
-  },
-  {
     "title": "Current Account",
     "country": "EUR",
     "currency": null,
@@ -1295,6 +1284,17 @@
     "time": "9:00am",
     "forecast": "19.6B",
     "previous": "23.1B",
+    "actual": null
+  },
+  {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "12-19-2025",
+    "time": "9:20am",
+    "forecast": "",
+    "previous": "-10.3%",
     "actual": null
   },
   {
@@ -1369,7 +1369,7 @@
     "currency": null,
     "impact": "Low",
     "date": "12-19-2025",
-    "time": "2:00pm",
+    "time": "1:43pm",
     "forecast": "-7.8",
     "previous": "-8.2",
     "actual": null
@@ -1416,6 +1416,17 @@
     "time": "3:00pm",
     "forecast": "",
     "previous": "4.1%",
+    "actual": null
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "12-20-2025",
+    "time": "2:00am",
+    "forecast": "",
+    "previous": "",
     "actual": null
   }
 ]
