@@ -16,5 +16,23 @@
     "date": "2026-02-03",
     "time": "time-not-supplied",
     "eps_estimate": "$2.58"
+  },
+  {
+    "ticker": "MSFT",
+    "date": "2026-02-04",
+    "time": "time-not-supplied",
+    "eps_estimate": "$3.86"
+  },
+  {
+    "ticker": "META",
+    "date": "2026-02-04",
+    "time": "time-not-supplied",
+    "eps_estimate": "$8.15"
+  },
+  {
+    "ticker": "TSLA",
+    "date": "2026-02-04",
+    "time": "time-not-supplied",
+    "eps_estimate": "$0.35"
   }
 ]
