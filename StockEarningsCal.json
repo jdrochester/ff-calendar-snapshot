@@ -34,5 +34,11 @@
     "date": "2026-02-04",
     "time": "time-not-supplied",
     "eps_estimate": "$0.35"
+  },
+  {
+    "ticker": "AMZN",
+    "date": "2026-02-05",
+    "time": "time-not-supplied",
+    "eps_estimate": "$1.97"
   }
 ]
