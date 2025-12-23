@@ -127,7 +127,7 @@
     "impact": "Low",
     "date": "12-23-2025",
     "time": "7:00am",
-    "forecast": "0.1%",
+    "forecast": "0.2%",
     "previous": "0.2%",
     "actual": null
   },
@@ -171,7 +171,7 @@
     "impact": "High",
     "date": "12-23-2025",
     "time": "1:30pm",
-    "forecast": "3.2%",
+    "forecast": "3.3%",
     "previous": "3.8%",
     "actual": null
   },
@@ -182,7 +182,7 @@
     "impact": "Medium",
     "date": "12-23-2025",
     "time": "1:30pm",
-    "forecast": "-1.4%",
+    "forecast": "0.3%",
     "previous": "0.6%",
     "actual": null
   },
@@ -193,7 +193,7 @@
     "impact": "Medium",
     "date": "12-23-2025",
     "time": "1:30pm",
-    "forecast": "0.2%",
+    "forecast": "-1.5%",
     "previous": "0.5%",
     "actual": null
   },
@@ -204,7 +204,7 @@
     "impact": "Medium",
     "date": "12-23-2025",
     "time": "1:30pm",
-    "forecast": "2.6%",
+    "forecast": "2.7%",
     "previous": "2.1%",
     "actual": null
   },
@@ -270,7 +270,7 @@
     "impact": "Medium",
     "date": "12-23-2025",
     "time": "3:00pm",
-    "forecast": "-7",
+    "forecast": "-8",
     "previous": "-15",
     "actual": null
   },
@@ -314,7 +314,7 @@
     "impact": "Low",
     "date": "12-23-2025",
     "time": "11:50pm",
-    "forecast": "2.6%",
+    "forecast": "2.7%",
     "previous": "2.7%",
     "actual": null
   },
@@ -336,30 +336,8 @@
     "impact": "High",
     "date": "12-24-2025",
     "time": "1:30pm",
-    "forecast": "220K",
+    "forecast": "223K",
     "previous": "224K",
-    "actual": null
-  },
-  {
-    "title": "Crude Oil Inventories",
-    "country": "USD",
-    "currency": null,
-    "impact": "Low",
-    "date": "12-24-2025",
-    "time": "3:30pm",
-    "forecast": "",
-    "previous": "-1.3M",
-    "actual": null
-  },
-  {
-    "title": "Natural Gas Storage",
-    "country": "USD",
-    "currency": null,
-    "impact": "Low",
-    "date": "12-24-2025",
-    "time": "5:00pm",
-    "forecast": "",
-    "previous": "-167B",
     "actual": null
   },
   {
@@ -402,7 +380,7 @@
     "impact": "Low",
     "date": "12-25-2025",
     "time": "5:00am",
-    "forecast": "0.7%",
+    "forecast": "0.4%",
     "previous": "3.2%",
     "actual": null
   },
@@ -545,7 +523,7 @@
     "impact": "Low",
     "date": "12-25-2025",
     "time": "11:50pm",
-    "forecast": "1.0%",
+    "forecast": "0.9%",
     "previous": "1.7%",
     "actual": null
   },
@@ -600,17 +578,6 @@
     "impact": "Holiday",
     "date": "12-26-2025",
     "time": "1:00pm",
-    "forecast": "",
-    "previous": "",
-    "actual": null
-  },
-  {
-    "title": "BOJ Summary of Opinions",
-    "country": "JPY",
-    "currency": null,
-    "impact": "Low",
-    "date": "12-27-2025",
-    "time": "11:50pm",
     "forecast": "",
     "previous": "",
     "actual": null
