@@ -148,7 +148,7 @@
     "currency": null,
     "impact": "Medium",
     "date": "12-23-2025",
-    "time": "1:20pm",
+    "time": "1:15pm",
     "forecast": "",
     "previous": "16.3K",
     "actual": null
@@ -215,7 +215,7 @@
     "impact": "Low",
     "date": "12-23-2025",
     "time": "2:14pm",
-    "forecast": "75.9%",
+    "forecast": "",
     "previous": "75.9%",
     "actual": null
   },
@@ -238,7 +238,7 @@
     "date": "12-23-2025",
     "time": "2:15pm",
     "forecast": "75.9%",
-    "previous": "",
+    "previous": "75.9%",
     "actual": null
   },
   {
@@ -249,7 +249,7 @@
     "date": "12-23-2025",
     "time": "2:15pm",
     "forecast": "0.1%",
-    "previous": "",
+    "previous": "-0.1%",
     "actual": null
   },
   {
@@ -336,7 +336,7 @@
     "impact": "High",
     "date": "12-24-2025",
     "time": "1:30pm",
-    "forecast": "223K",
+    "forecast": "224K",
     "previous": "224K",
     "actual": null
   },
@@ -366,7 +366,7 @@
     "title": "BOJ Gov Ueda Speaks",
     "country": "JPY",
     "currency": null,
-    "impact": "High",
+    "impact": "Medium",
     "date": "12-25-2025",
     "time": "4:59am",
     "forecast": "",
@@ -380,7 +380,7 @@
     "impact": "Low",
     "date": "12-25-2025",
     "time": "5:00am",
-    "forecast": "0.4%",
+    "forecast": "0.2%",
     "previous": "3.2%",
     "actual": null
   },
