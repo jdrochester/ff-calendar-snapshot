@@ -22,17 +22,6 @@
     "actual": null
   },
   {
-    "title": "Crude Oil Inventories",
-    "country": "USD",
-    "currency": null,
-    "impact": "Low",
-    "date": "12-29-2025",
-    "time": "3:30pm",
-    "forecast": "-2.0M",
-    "previous": "-1.3M",
-    "actual": null
-  },
-  {
     "title": "Natural Gas Storage",
     "country": "USD",
     "currency": null,
@@ -41,6 +30,17 @@
     "time": "5:00pm",
     "forecast": "-169B",
     "previous": "-167B",
+    "actual": null
+  },
+  {
+    "title": "Crude Oil Inventories",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "12-29-2025",
+    "time": "10:00pm",
+    "forecast": "-2.0M",
+    "previous": "-1.3M",
     "actual": null
   },
   {
@@ -61,7 +61,7 @@
     "impact": "Low",
     "date": "12-30-2025",
     "time": "8:00am",
-    "forecast": "2.9%",
+    "forecast": "2.8%",
     "previous": "3.0%",
     "actual": null
   },
@@ -94,7 +94,7 @@
     "impact": "Low",
     "date": "12-30-2025",
     "time": "2:45pm",
-    "forecast": "39.6",
+    "forecast": "39.8",
     "previous": "36.3",
     "actual": null
   },
@@ -138,7 +138,7 @@
     "impact": "Medium",
     "date": "12-31-2025",
     "time": "1:30am",
-    "forecast": "49.4",
+    "forecast": "49.2",
     "previous": "49.2",
     "actual": null
   },
@@ -149,7 +149,7 @@
     "impact": "Low",
     "date": "12-31-2025",
     "time": "1:30am",
-    "forecast": "49.8",
+    "forecast": "49.6",
     "previous": "49.5",
     "actual": null
   },
@@ -160,7 +160,7 @@
     "impact": "Low",
     "date": "12-31-2025",
     "time": "1:45am",
-    "forecast": "49.7",
+    "forecast": "49.8",
     "previous": "49.9",
     "actual": null
   },
@@ -182,7 +182,7 @@
     "impact": "High",
     "date": "12-31-2025",
     "time": "1:30pm",
-    "forecast": "215K",
+    "forecast": "217K",
     "previous": "214K",
     "actual": null
   },
@@ -194,7 +194,7 @@
     "date": "12-31-2025",
     "time": "3:30pm",
     "forecast": "",
-    "previous": "",
+    "previous": "0.4M",
     "actual": null
   },
   {
@@ -205,7 +205,7 @@
     "date": "12-31-2025",
     "time": "5:00pm",
     "forecast": "",
-    "previous": "",
+    "previous": "-166B",
     "actual": null
   },
   {
@@ -402,7 +402,7 @@
     "impact": "Low",
     "date": "01-02-2026",
     "time": "8:45am",
-    "forecast": "50.1",
+    "forecast": "50.0",
     "previous": "50.6",
     "actual": null
   },
