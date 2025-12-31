@@ -182,7 +182,7 @@
     "impact": "High",
     "date": "12-31-2025",
     "time": "1:30pm",
-    "forecast": "217K",
+    "forecast": "219K",
     "previous": "214K",
     "actual": null
   },
@@ -193,7 +193,7 @@
     "impact": "Low",
     "date": "12-31-2025",
     "time": "3:30pm",
-    "forecast": "",
+    "forecast": "0.5M",
     "previous": "0.4M",
     "actual": null
   },
@@ -204,7 +204,7 @@
     "impact": "Low",
     "date": "12-31-2025",
     "time": "5:00pm",
-    "forecast": "",
+    "forecast": "-51B",
     "previous": "-166B",
     "actual": null
   },
