@@ -143,17 +143,6 @@
     "actual": null
   },
   {
-    "title": "BRC Retail Sales Monitor y/y",
-    "country": "GBP",
-    "currency": null,
-    "impact": "Low",
-    "date": "01-06-2026",
-    "time": "12:01am",
-    "forecast": "0.6%",
-    "previous": "1.2%",
-    "actual": null
-  },
-  {
     "title": "10-y Bond Auction",
     "country": "JPY",
     "currency": null,
@@ -204,7 +193,7 @@
     "impact": "Low",
     "date": "01-06-2026",
     "time": "8:15am",
-    "forecast": "54.7",
+    "forecast": "54.8",
     "previous": "55.6",
     "actual": null
   },
@@ -215,7 +204,7 @@
     "impact": "Low",
     "date": "01-06-2026",
     "time": "8:45am",
-    "forecast": "54.1",
+    "forecast": "54.2",
     "previous": "55.0",
     "actual": null
   },
@@ -325,7 +314,7 @@
     "impact": "High",
     "date": "01-07-2026",
     "time": "12:30am",
-    "forecast": "3.7%",
+    "forecast": "3.6%",
     "previous": "3.8%",
     "actual": null
   },
@@ -347,7 +336,7 @@
     "impact": "Low",
     "date": "01-07-2026",
     "time": "12:30am",
-    "forecast": "2.3%",
+    "forecast": "1.9%",
     "previous": "-6.4%",
     "actual": null
   },
@@ -380,7 +369,7 @@
     "impact": "Low",
     "date": "01-07-2026",
     "time": "8:55am",
-    "forecast": "3K",
+    "forecast": "5K",
     "previous": "1K",
     "actual": null
   },
@@ -391,7 +380,7 @@
     "impact": "Low",
     "date": "01-07-2026",
     "time": "9:30am",
-    "forecast": "42.7",
+    "forecast": "42.4",
     "previous": "39.4",
     "actual": null
   },
@@ -435,7 +424,7 @@
     "impact": "Low",
     "date": "01-07-2026",
     "time": "10:00am",
-    "forecast": "0.1%",
+    "forecast": "0.2%",
     "previous": "-0.2%",
     "actual": null
   },
@@ -457,7 +446,7 @@
     "impact": "High",
     "date": "01-07-2026",
     "time": "1:15pm",
-    "forecast": "47K",
+    "forecast": "50K",
     "previous": "-32K",
     "actual": null
   },
@@ -479,7 +468,7 @@
     "impact": "High",
     "date": "01-07-2026",
     "time": "3:00pm",
-    "forecast": "52.3",
+    "forecast": "52.2",
     "previous": "52.6",
     "actual": null
   },
@@ -490,7 +479,7 @@
     "impact": "High",
     "date": "01-07-2026",
     "time": "3:00pm",
-    "forecast": "7.65M",
+    "forecast": "7.64M",
     "previous": "7.67M",
     "actual": null
   },
@@ -501,7 +490,7 @@
     "impact": "Low",
     "date": "01-07-2026",
     "time": "3:00pm",
-    "forecast": "-1.1%",
+    "forecast": "-1.2%",
     "previous": "0.2%",
     "actual": null
   },
@@ -545,7 +534,7 @@
     "impact": "Low",
     "date": "01-08-2026",
     "time": "12:30am",
-    "forecast": "5.55B",
+    "forecast": "5.16B",
     "previous": "4.39B",
     "actual": null
   },
@@ -660,17 +649,6 @@
     "actual": null
   },
   {
-    "title": "Spanish 10-y Bond Auction",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "01-08-2026",
-    "time": "10:03am",
-    "forecast": "",
-    "previous": "",
-    "actual": null
-  },
-  {
     "title": "French 10-y Bond Auction",
     "country": "EUR",
     "currency": null,
@@ -678,7 +656,7 @@
     "date": "01-08-2026",
     "time": "10:18am",
     "forecast": "",
-    "previous": "",
+    "previous": "3.38|2.3",
     "actual": null
   },
   {
@@ -710,7 +688,7 @@
     "impact": "High",
     "date": "01-08-2026",
     "time": "1:30pm",
-    "forecast": "216K",
+    "forecast": "211K",
     "previous": "199K",
     "actual": null
   },
@@ -721,7 +699,7 @@
     "impact": "Low",
     "date": "01-08-2026",
     "time": "1:30pm",
-    "forecast": "3.7%",
+    "forecast": "4.9%",
     "previous": "2.4%",
     "actual": null
   },
@@ -732,7 +710,7 @@
     "impact": "Low",
     "date": "01-08-2026",
     "time": "1:30pm",
-    "forecast": "0.5%",
+    "forecast": "0.1%",
     "previous": "1.6%",
     "actual": null
   },
@@ -743,7 +721,7 @@
     "impact": "Low",
     "date": "01-08-2026",
     "time": "1:30pm",
-    "forecast": "-58.5B",
+    "forecast": "-58.1B",
     "previous": "-52.8B",
     "actual": null
   },
@@ -776,7 +754,7 @@
     "impact": "Low",
     "date": "01-08-2026",
     "time": "8:00pm",
-    "forecast": "10.3B",
+    "forecast": "10.1B",
     "previous": "9.2B",
     "actual": null
   },
@@ -809,7 +787,7 @@
     "impact": "Medium",
     "date": "01-09-2026",
     "time": "1:30am",
-    "forecast": "-1.5%",
+    "forecast": "-2.1%",
     "previous": "-2.2%",
     "actual": null
   },
@@ -831,7 +809,7 @@
     "impact": "Low",
     "date": "01-09-2026",
     "time": "7:00am",
-    "forecast": "-0.5%",
+    "forecast": "-0.6%",
     "previous": "1.8%",
     "actual": null
   },
@@ -930,7 +908,7 @@
     "impact": "High",
     "date": "01-09-2026",
     "time": "1:30pm",
-    "forecast": "-5.4K",
+    "forecast": "-1.8K",
     "previous": "53.6K",
     "actual": null
   },
@@ -963,7 +941,7 @@
     "impact": "High",
     "date": "01-09-2026",
     "time": "1:30pm",
-    "forecast": "57K",
+    "forecast": "62K",
     "previous": "64K",
     "actual": null
   },
