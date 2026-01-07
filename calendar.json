@@ -280,9 +280,20 @@
     "currency": null,
     "impact": "Low",
     "date": "01-06-2026",
-    "time": "3:50pm",
+    "time": "3:54pm",
     "forecast": "",
     "previous": "-4.4%",
+    "actual": null
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "01-06-2026",
+    "time": "7:00pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -326,7 +337,7 @@
     "date": "01-07-2026",
     "time": "12:30am",
     "forecast": "0.2%",
-    "previous": "1.0%",
+    "previous": "0.3%",
     "actual": null
   },
   {
@@ -446,7 +457,7 @@
     "impact": "High",
     "date": "01-07-2026",
     "time": "1:15pm",
-    "forecast": "50K",
+    "forecast": "49K",
     "previous": "-32K",
     "actual": null
   },
@@ -479,7 +490,7 @@
     "impact": "High",
     "date": "01-07-2026",
     "time": "3:00pm",
-    "forecast": "7.64M",
+    "forecast": "7.61M",
     "previous": "7.67M",
     "actual": null
   },
@@ -490,7 +501,7 @@
     "impact": "Low",
     "date": "01-07-2026",
     "time": "3:00pm",
-    "forecast": "-1.2%",
+    "forecast": "-1.1%",
     "previous": "0.2%",
     "actual": null
   },
@@ -501,7 +512,7 @@
     "impact": "Low",
     "date": "01-07-2026",
     "time": "3:30pm",
-    "forecast": "",
+    "forecast": "-1.2M",
     "previous": "-1.9M",
     "actual": null
   },
@@ -534,7 +545,7 @@
     "impact": "Low",
     "date": "01-08-2026",
     "time": "12:30am",
-    "forecast": "5.16B",
+    "forecast": "5.14B",
     "previous": "4.39B",
     "actual": null
   },
@@ -677,7 +688,7 @@
     "impact": "Low",
     "date": "01-08-2026",
     "time": "1:30pm",
-    "forecast": "-1.5B",
+    "forecast": "-1.4B",
     "previous": "0.2B",
     "actual": null
   },
@@ -688,7 +699,7 @@
     "impact": "High",
     "date": "01-08-2026",
     "time": "1:30pm",
-    "forecast": "211K",
+    "forecast": "213K",
     "previous": "199K",
     "actual": null
   },
@@ -710,7 +721,7 @@
     "impact": "Low",
     "date": "01-08-2026",
     "time": "1:30pm",
-    "forecast": "0.1%",
+    "forecast": "0.0%",
     "previous": "1.6%",
     "actual": null
   },
@@ -743,7 +754,7 @@
     "impact": "Low",
     "date": "01-08-2026",
     "time": "3:30pm",
-    "forecast": "",
+    "forecast": "-109B",
     "previous": "-38B",
     "actual": null
   },
@@ -787,7 +798,7 @@
     "impact": "Medium",
     "date": "01-09-2026",
     "time": "1:30am",
-    "forecast": "-2.1%",
+    "forecast": "-2.0%",
     "previous": "-2.2%",
     "actual": null
   },
@@ -941,7 +952,7 @@
     "impact": "High",
     "date": "01-09-2026",
     "time": "1:30pm",
-    "forecast": "62K",
+    "forecast": "66K",
     "previous": "64K",
     "actual": null
   },
@@ -998,6 +1009,17 @@
     "time": "3:00pm",
     "forecast": "",
     "previous": "4.1%",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Kashkari Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "01-09-2026",
+    "time": "3:00pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
