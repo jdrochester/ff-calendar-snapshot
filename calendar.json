@@ -363,17 +363,6 @@
     "actual": null
   },
   {
-    "title": "Foreign Currency Reserves",
-    "country": "CHF",
-    "currency": null,
-    "impact": "Low",
-    "date": "01-07-2026",
-    "time": "8:00am",
-    "forecast": "",
-    "previous": "727B",
-    "actual": null
-  },
-  {
     "title": "German Unemployment Change",
     "country": "EUR",
     "currency": null,
@@ -445,7 +434,7 @@
     "currency": null,
     "impact": "Low",
     "date": "01-07-2026",
-    "time": "10:42am",
+    "time": "10:34am",
     "forecast": "",
     "previous": "2.67|2.0",
     "actual": null
@@ -522,7 +511,7 @@
     "currency": null,
     "impact": "Low",
     "date": "01-07-2026",
-    "time": "6:10pm",
+    "time": "9:10pm",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -855,6 +844,17 @@
     "time": "7:45am",
     "forecast": "-0.2%",
     "previous": "0.2%",
+    "actual": null
+  },
+  {
+    "title": "Foreign Currency Reserves",
+    "country": "CHF",
+    "currency": null,
+    "impact": "Low",
+    "date": "01-09-2026",
+    "time": "8:00am",
+    "forecast": "",
+    "previous": "727B",
     "actual": null
   },
   {
