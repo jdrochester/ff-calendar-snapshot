@@ -577,7 +577,7 @@
     "currency": null,
     "impact": "Low",
     "date": "01-08-2026",
-    "time": "7:00am",
+    "time": "7:02am",
     "forecast": "0.1%",
     "previous": "0.0%",
     "actual": null
@@ -627,6 +627,17 @@
     "actual": null
   },
   {
+    "title": "French 10-y Bond Auction",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "01-08-2026",
+    "time": "9:59am",
+    "forecast": "",
+    "previous": "3.38|2.3",
+    "actual": null
+  },
+  {
     "title": "PPI m/m",
     "country": "EUR",
     "currency": null,
@@ -649,25 +660,25 @@
     "actual": null
   },
   {
-    "title": "French 10-y Bond Auction",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "01-08-2026",
-    "time": "10:18am",
-    "forecast": "",
-    "previous": "3.38|2.3",
-    "actual": null
-  },
-  {
     "title": "Challenger Job Cuts y/y",
     "country": "USD",
     "currency": null,
     "impact": "Low",
     "date": "01-08-2026",
-    "time": "12:30pm",
+    "time": "10:30am",
     "forecast": "",
     "previous": "23.5%",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Miran Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "01-08-2026",
+    "time": "1:00pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -690,6 +701,17 @@
     "time": "1:30pm",
     "forecast": "213K",
     "previous": "199K",
+    "actual": null
+  },
+  {
+    "title": "Goods Trade Balance",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "01-08-2026",
+    "time": "1:30pm",
+    "forecast": "",
+    "previous": "-79.0B",
     "actual": null
   },
   {
@@ -891,28 +913,6 @@
     "actual": null
   },
   {
-    "title": "Building Permits",
-    "country": "USD",
-    "currency": null,
-    "impact": "Low",
-    "date": "01-09-2026",
-    "time": "1:29pm",
-    "forecast": "",
-    "previous": "1.31M",
-    "actual": null
-  },
-  {
-    "title": "Housing Starts",
-    "country": "USD",
-    "currency": null,
-    "impact": "Low",
-    "date": "01-09-2026",
-    "time": "1:29pm",
-    "forecast": "",
-    "previous": "1.31M",
-    "actual": null
-  },
-  {
     "title": "Employment Change",
     "country": "CAD",
     "currency": null,
@@ -987,6 +987,28 @@
     "time": "1:30pm",
     "forecast": "1.33M",
     "previous": "",
+    "actual": null
+  },
+  {
+    "title": "Building Permits",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "01-09-2026",
+    "time": "1:33pm",
+    "forecast": "",
+    "previous": "1.31M",
+    "actual": null
+  },
+  {
+    "title": "Housing Starts",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "01-09-2026",
+    "time": "1:33pm",
+    "forecast": "",
+    "previous": "1.31M",
     "actual": null
   },
   {
