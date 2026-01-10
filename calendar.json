@@ -913,6 +913,28 @@
     "actual": null
   },
   {
+    "title": "Building Permits",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "01-09-2026",
+    "time": "1:29pm",
+    "forecast": "1.33M",
+    "previous": "1.31M",
+    "actual": null
+  },
+  {
+    "title": "Housing Starts",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "01-09-2026",
+    "time": "1:29pm",
+    "forecast": "1.29M",
+    "previous": "1.31M",
+    "actual": null
+  },
+  {
     "title": "Employment Change",
     "country": "CAD",
     "currency": null,
@@ -975,7 +997,7 @@
     "date": "01-09-2026",
     "time": "1:30pm",
     "forecast": "1.35M",
-    "previous": "",
+    "previous": "1.42M",
     "actual": null
   },
   {
@@ -986,28 +1008,6 @@
     "date": "01-09-2026",
     "time": "1:30pm",
     "forecast": "1.33M",
-    "previous": "",
-    "actual": null
-  },
-  {
-    "title": "Building Permits",
-    "country": "USD",
-    "currency": null,
-    "impact": "Low",
-    "date": "01-09-2026",
-    "time": "1:33pm",
-    "forecast": "",
-    "previous": "1.31M",
-    "actual": null
-  },
-  {
-    "title": "Housing Starts",
-    "country": "USD",
-    "currency": null,
-    "impact": "Low",
-    "date": "01-09-2026",
-    "time": "1:33pm",
-    "forecast": "",
     "previous": "1.31M",
     "actual": null
   },
