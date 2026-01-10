@@ -6,6 +6,12 @@
     "eps_estimate": "$5.01"
   },
   {
+    "ticker": "MSFT",
+    "date": "2026-01-28",
+    "time": "time-after-hours",
+    "eps_estimate": "$3.86"
+  },
+  {
     "ticker": "TSLA",
     "date": "2026-01-28",
     "time": "time-after-hours",
@@ -14,7 +20,7 @@
   {
     "ticker": "AAPL",
     "date": "2026-01-29",
-    "time": "time-not-supplied",
+    "time": "time-after-hours",
     "eps_estimate": "$2.65"
   },
   {
@@ -22,12 +28,6 @@
     "date": "2026-02-03",
     "time": "time-not-supplied",
     "eps_estimate": "$2.59"
-  },
-  {
-    "ticker": "MSFT",
-    "date": "2026-02-04",
-    "time": "time-not-supplied",
-    "eps_estimate": "$3.86"
   },
   {
     "ticker": "META",
