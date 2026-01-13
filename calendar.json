@@ -88,6 +88,17 @@
     "actual": null
   },
   {
+    "title": "Westpac Consumer Sentiment",
+    "country": "AUD",
+    "currency": null,
+    "impact": "Low",
+    "date": "01-12-2026",
+    "time": "10:50pm",
+    "forecast": "",
+    "previous": "-9.0%",
+    "actual": null
+  },
+  {
     "title": "FOMC Member Williams Speaks",
     "country": "USD",
     "currency": null,
@@ -96,17 +107,6 @@
     "time": "11:00pm",
     "forecast": "",
     "previous": "",
-    "actual": null
-  },
-  {
-    "title": "Westpac Consumer Sentiment",
-    "country": "AUD",
-    "currency": null,
-    "impact": "Low",
-    "date": "01-12-2026",
-    "time": "11:30pm",
-    "forecast": "",
-    "previous": "-9.0%",
     "actual": null
   },
   {
@@ -138,7 +138,7 @@
     "impact": "Low",
     "date": "01-13-2026",
     "time": "12:01am",
-    "forecast": "0.6%",
+    "forecast": "1.3%",
     "previous": "1.2%",
     "actual": null
   },
@@ -149,7 +149,7 @@
     "impact": "Low",
     "date": "01-13-2026",
     "time": "5:00am",
-    "forecast": "48.8",
+    "forecast": "48.7",
     "previous": "48.7",
     "actual": null
   },
@@ -182,8 +182,19 @@
     "impact": "Low",
     "date": "01-13-2026",
     "time": "9:03am",
-    "forecast": "450B",
+    "forecast": "820B",
     "previous": "390B",
+    "actual": null
+  },
+  {
+    "title": "BOE Gov Bailey Speaks",
+    "country": "GBP",
+    "currency": null,
+    "impact": "High",
+    "date": "01-13-2026",
+    "time": "10:00am",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -215,7 +226,7 @@
     "impact": "Low",
     "date": "01-13-2026",
     "time": "1:30pm",
-    "forecast": "",
+    "forecast": "-5.6%",
     "previous": "14.9%",
     "actual": null
   },
@@ -259,7 +270,7 @@
     "impact": "Medium",
     "date": "01-13-2026",
     "time": "3:00pm",
-    "forecast": "715K",
+    "forecast": "716K",
     "previous": "",
     "actual": null
   },
@@ -280,7 +291,7 @@
     "currency": null,
     "impact": "Low",
     "date": "01-13-2026",
-    "time": "3:00pm",
+    "time": "3:07pm",
     "forecast": "",
     "previous": "800K",
     "actual": null
@@ -314,7 +325,7 @@
     "impact": "Low",
     "date": "01-13-2026",
     "time": "7:00pm",
-    "forecast": "",
+    "forecast": "-140.7B",
     "previous": "-173.3B",
     "actual": null
   },
@@ -380,7 +391,7 @@
     "impact": "Low",
     "date": "01-14-2026",
     "time": "3:03am",
-    "forecast": "820B",
+    "forecast": "805B",
     "previous": "793B",
     "actual": null
   },
@@ -391,7 +402,7 @@
     "impact": "Low",
     "date": "01-14-2026",
     "time": "3:04am",
-    "forecast": "114.2B",
+    "forecast": "114.3B",
     "previous": "111.7B",
     "actual": null
   },
@@ -468,7 +479,7 @@
     "impact": "High",
     "date": "01-14-2026",
     "time": "1:30pm",
-    "forecast": "0.3%",
+    "forecast": "0.2%",
     "previous": "",
     "actual": null
   },
@@ -479,7 +490,7 @@
     "impact": "High",
     "date": "01-14-2026",
     "time": "1:30pm",
-    "forecast": "0.4%",
+    "forecast": "0.5%",
     "previous": "0.0%",
     "actual": null
   },
@@ -490,7 +501,7 @@
     "impact": "Low",
     "date": "01-14-2026",
     "time": "1:30pm",
-    "forecast": "-240B",
+    "forecast": "-238B",
     "previous": "-251B",
     "actual": null
   },
@@ -534,7 +545,7 @@
     "impact": "Low",
     "date": "01-14-2026",
     "time": "3:00pm",
-    "forecast": "0.3%",
+    "forecast": "0.2%",
     "previous": "0.2%",
     "actual": null
   },
@@ -545,7 +556,7 @@
     "impact": "Low",
     "date": "01-14-2026",
     "time": "3:00pm",
-    "forecast": "4.24M",
+    "forecast": "4.21M",
     "previous": "4.13M",
     "actual": null
   },
@@ -580,6 +591,17 @@
     "time": "3:30pm",
     "forecast": "",
     "previous": "-3.8M",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Bostic Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "01-14-2026",
+    "time": "5:00pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -644,7 +666,7 @@
     "impact": "Low",
     "date": "01-15-2026",
     "time": "12:01am",
-    "forecast": "-15%",
+    "forecast": "-17%",
     "previous": "-16%",
     "actual": null
   },
@@ -666,7 +688,7 @@
     "impact": "High",
     "date": "01-15-2026",
     "time": "7:00am",
-    "forecast": "0.0%",
+    "forecast": "0.1%",
     "previous": "-0.1%",
     "actual": null
   },
@@ -677,7 +699,7 @@
     "impact": "Low",
     "date": "01-15-2026",
     "time": "7:00am",
-    "forecast": "0.0%",
+    "forecast": "-0.3%",
     "previous": "-0.6%",
     "actual": null
   },
@@ -688,7 +710,7 @@
     "impact": "Low",
     "date": "01-15-2026",
     "time": "7:00am",
-    "forecast": "-20.4B",
+    "forecast": "-20.3B",
     "previous": "-22.5B",
     "actual": null
   },
@@ -721,7 +743,7 @@
     "impact": "Low",
     "date": "01-15-2026",
     "time": "7:00am",
-    "forecast": "0.5%",
+    "forecast": "0.4%",
     "previous": "0.5%",
     "actual": null
   },
@@ -787,7 +809,7 @@
     "impact": "Low",
     "date": "01-15-2026",
     "time": "10:00am",
-    "forecast": "0.0%",
+    "forecast": "0.5%",
     "previous": "0.8%",
     "actual": null
   },
@@ -800,17 +822,6 @@
     "time": "10:00am",
     "forecast": "15.2B",
     "previous": "14.0B",
-    "actual": null
-  },
-  {
-    "title": "Spanish 10-y Bond Auction",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "01-15-2026",
-    "time": "10:03am",
-    "forecast": "",
-    "previous": "",
     "actual": null
   },
   {
@@ -853,7 +864,7 @@
     "impact": "High",
     "date": "01-15-2026",
     "time": "1:30pm",
-    "forecast": "210K",
+    "forecast": "215K",
     "previous": "208K",
     "actual": null
   },
@@ -864,7 +875,7 @@
     "impact": "Medium",
     "date": "01-15-2026",
     "time": "1:30pm",
-    "forecast": "1.1",
+    "forecast": "0.8",
     "previous": "-3.9",
     "actual": null
   },
@@ -875,7 +886,7 @@
     "impact": "Medium",
     "date": "01-15-2026",
     "time": "1:30pm",
-    "forecast": "-2.9%",
+    "forecast": "-1.6",
     "previous": "-10.2",
     "actual": null
   },
@@ -886,7 +897,7 @@
     "impact": "Low",
     "date": "01-15-2026",
     "time": "1:30pm",
-    "forecast": "-0.2%",
+    "forecast": "-0.1%",
     "previous": "",
     "actual": null
   },
@@ -908,6 +919,17 @@
     "impact": "Low",
     "date": "01-15-2026",
     "time": "1:35pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Barr Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "01-15-2026",
+    "time": "2:15pm",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -935,13 +957,24 @@
     "actual": null
   },
   {
+    "title": "FOMC Member Schmid Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "01-15-2026",
+    "time": "6:30pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "TIC Long-Term Purchases",
     "country": "USD",
     "currency": null,
     "impact": "Low",
     "date": "01-15-2026",
     "time": "9:00pm",
-    "forecast": "",
+    "forecast": "48.7B",
     "previous": "17.5B",
     "actual": null
   },
@@ -985,7 +1018,7 @@
     "impact": "Low",
     "date": "01-16-2026",
     "time": "1:15pm",
-    "forecast": "255K",
+    "forecast": "258K",
     "previous": "254K",
     "actual": null
   },
@@ -996,7 +1029,7 @@
     "impact": "Low",
     "date": "01-16-2026",
     "time": "1:30pm",
-    "forecast": "",
+    "forecast": "24.61B",
     "previous": "46.62B",
     "actual": null
   },
@@ -1007,7 +1040,7 @@
     "impact": "Low",
     "date": "01-16-2026",
     "time": "2:15pm",
-    "forecast": "76.1%",
+    "forecast": "76.0%",
     "previous": "76.0%",
     "actual": null
   },
@@ -1018,7 +1051,7 @@
     "impact": "Low",
     "date": "01-16-2026",
     "time": "2:15pm",
-    "forecast": "0.2%",
+    "forecast": "0.1%",
     "previous": "0.2%",
     "actual": null
   },
@@ -1040,7 +1073,7 @@
     "impact": "Low",
     "date": "01-16-2026",
     "time": "3:00pm",
-    "forecast": "",
+    "forecast": "40",
     "previous": "39",
     "actual": null
   },
@@ -1053,6 +1086,17 @@
     "time": "3:30pm",
     "forecast": "",
     "previous": "0.3%",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Bowman Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "01-16-2026",
+    "time": "4:00pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
