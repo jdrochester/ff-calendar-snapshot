@@ -159,42 +159,9 @@
     "currency": null,
     "impact": "Low",
     "date": "01-13-2026",
-    "time": "7:45am",
+    "time": "8:36am",
     "forecast": "",
     "previous": "-136.2B",
-    "actual": null
-  },
-  {
-    "title": "M2 Money Supply y/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "01-13-2026",
-    "time": "9:03am",
-    "forecast": "8.0%",
-    "previous": "8.0%",
-    "actual": null
-  },
-  {
-    "title": "New Loans",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "01-13-2026",
-    "time": "9:03am",
-    "forecast": "820B",
-    "previous": "390B",
-    "actual": null
-  },
-  {
-    "title": "BOE Gov Bailey Speaks",
-    "country": "GBP",
-    "currency": null,
-    "impact": "High",
-    "date": "01-13-2026",
-    "time": "10:00am",
-    "forecast": "",
-    "previous": "",
     "actual": null
   },
   {
@@ -214,7 +181,7 @@
     "currency": null,
     "impact": "Medium",
     "date": "01-13-2026",
-    "time": "1:20pm",
+    "time": "1:15pm",
     "forecast": "",
     "previous": "11.5K",
     "actual": null
@@ -267,11 +234,22 @@
     "title": "New Home Sales",
     "country": "USD",
     "currency": null,
+    "impact": "Low",
+    "date": "01-13-2026",
+    "time": "2:59pm",
+    "forecast": "",
+    "previous": "800K",
+    "actual": null
+  },
+  {
+    "title": "New Home Sales",
+    "country": "USD",
+    "currency": null,
     "impact": "Medium",
     "date": "01-13-2026",
     "time": "3:00pm",
     "forecast": "716K",
-    "previous": "",
+    "previous": "738K",
     "actual": null
   },
   {
@@ -286,23 +264,12 @@
     "actual": null
   },
   {
-    "title": "New Home Sales",
-    "country": "USD",
-    "currency": null,
-    "impact": "Low",
-    "date": "01-13-2026",
-    "time": "3:07pm",
-    "forecast": "",
-    "previous": "800K",
-    "actual": null
-  },
-  {
     "title": "RCM/TIPP Economic Optimism",
     "country": "USD",
     "currency": null,
     "impact": "Low",
     "date": "01-13-2026",
-    "time": "3:10pm",
+    "time": "3:03pm",
     "forecast": "48.2",
     "previous": "47.9",
     "actual": null
@@ -319,13 +286,24 @@
     "actual": null
   },
   {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "01-13-2026",
+    "time": "7:00pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "Federal Budget Balance",
     "country": "USD",
     "currency": null,
     "impact": "Low",
     "date": "01-13-2026",
     "time": "7:00pm",
-    "forecast": "-140.7B",
+    "forecast": "-144.5B",
     "previous": "-173.3B",
     "actual": null
   },
@@ -390,7 +368,7 @@
     "currency": null,
     "impact": "Low",
     "date": "01-14-2026",
-    "time": "3:03am",
+    "time": "2:24am",
     "forecast": "805B",
     "previous": "793B",
     "actual": null
@@ -401,7 +379,7 @@
     "currency": null,
     "impact": "Low",
     "date": "01-14-2026",
-    "time": "3:04am",
+    "time": "2:24am",
     "forecast": "114.3B",
     "previous": "111.7B",
     "actual": null
@@ -426,6 +404,28 @@
     "time": "8:00am",
     "forecast": "",
     "previous": "",
+    "actual": null
+  },
+  {
+    "title": "M2 Money Supply y/y",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "01-14-2026",
+    "time": "9:03am",
+    "forecast": "8.0%",
+    "previous": "8.0%",
+    "actual": null
+  },
+  {
+    "title": "New Loans",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "01-14-2026",
+    "time": "9:03am",
+    "forecast": "820B",
+    "previous": "390B",
     "actual": null
   },
   {
@@ -501,7 +501,7 @@
     "impact": "Low",
     "date": "01-14-2026",
     "time": "1:30pm",
-    "forecast": "-238B",
+    "forecast": "-235B",
     "previous": "-251B",
     "actual": null
   },
@@ -545,7 +545,7 @@
     "impact": "Low",
     "date": "01-14-2026",
     "time": "3:00pm",
-    "forecast": "0.2%",
+    "forecast": "0.1%",
     "previous": "0.2%",
     "actual": null
   },
@@ -589,7 +589,7 @@
     "impact": "Low",
     "date": "01-14-2026",
     "time": "3:30pm",
-    "forecast": "",
+    "forecast": "-1.7M",
     "previous": "-3.8M",
     "actual": null
   },
@@ -732,7 +732,7 @@
     "impact": "Low",
     "date": "01-15-2026",
     "time": "7:00am",
-    "forecast": "0.1%",
+    "forecast": "0.2%",
     "previous": "1.1%",
     "actual": null
   },
@@ -787,7 +787,7 @@
     "impact": "Low",
     "date": "01-15-2026",
     "time": "9:00am",
-    "forecast": "0.5%",
+    "forecast": "0.6%",
     "previous": "-1.0%",
     "actual": null
   },
@@ -820,7 +820,7 @@
     "impact": "Low",
     "date": "01-15-2026",
     "time": "10:00am",
-    "forecast": "15.2B",
+    "forecast": "14.8B",
     "previous": "14.0B",
     "actual": null
   },
@@ -941,7 +941,7 @@
     "impact": "Low",
     "date": "01-15-2026",
     "time": "3:30pm",
-    "forecast": "",
+    "forecast": "-89B",
     "previous": "-119B",
     "actual": null
   },
@@ -1012,13 +1012,24 @@
     "actual": null
   },
   {
+    "title": "BOE Gov Bailey Speaks",
+    "country": "GBP",
+    "currency": null,
+    "impact": "High",
+    "date": "01-16-2026",
+    "time": "10:00am",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "Housing Starts",
     "country": "CAD",
     "currency": null,
     "impact": "Low",
     "date": "01-16-2026",
     "time": "1:15pm",
-    "forecast": "258K",
+    "forecast": "257K",
     "previous": "254K",
     "actual": null
   },
