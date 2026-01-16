@@ -726,14 +726,25 @@
     "actual": null
   },
   {
-    "title": "Foreign Direct Investment ytd/y",
+    "title": "M2 Money Supply y/y",
     "country": "CNY",
     "currency": null,
     "impact": "Low",
     "date": "01-15-2026",
     "time": "7:02am",
-    "forecast": "",
-    "previous": "-7.5%",
+    "forecast": "8.0%",
+    "previous": "8.0%",
+    "actual": null
+  },
+  {
+    "title": "New Loans",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "01-15-2026",
+    "time": "7:02am",
+    "forecast": "820B",
+    "previous": "390B",
     "actual": null
   },
   {
@@ -767,28 +778,6 @@
     "time": "9:00am",
     "forecast": "0.6%",
     "previous": "-1.0%",
-    "actual": null
-  },
-  {
-    "title": "M2 Money Supply y/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "01-15-2026",
-    "time": "9:03am",
-    "forecast": "8.0%",
-    "previous": "8.0%",
-    "actual": null
-  },
-  {
-    "title": "New Loans",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "01-15-2026",
-    "time": "9:03am",
-    "forecast": "820B",
-    "previous": "390B",
     "actual": null
   },
   {
@@ -898,17 +887,6 @@
     "date": "01-15-2026",
     "time": "1:30pm",
     "forecast": "-0.1%",
-    "previous": "",
-    "actual": null
-  },
-  {
-    "title": "Import Prices m/m",
-    "country": "USD",
-    "currency": null,
-    "impact": "Low",
-    "date": "01-15-2026",
-    "time": "1:30pm",
-    "forecast": "",
     "previous": "0.0%",
     "actual": null
   },
@@ -1012,6 +990,17 @@
     "actual": null
   },
   {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "01-16-2026",
+    "time": "7:02am",
+    "forecast": "",
+    "previous": "-7.5%",
+    "actual": null
+  },
+  {
     "title": "BOE Gov Bailey Speaks",
     "country": "GBP",
     "currency": null,
@@ -1097,6 +1086,17 @@
     "time": "3:30pm",
     "forecast": "",
     "previous": "0.3%",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Collins Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "01-16-2026",
+    "time": "3:50pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
