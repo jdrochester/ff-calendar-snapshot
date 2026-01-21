@@ -330,17 +330,6 @@
     "actual": null
   },
   {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "01-20-2026",
-    "time": "7:02am",
-    "forecast": "",
-    "previous": "-7.5%",
-    "actual": null
-  },
-  {
     "title": "PPI m/m",
     "country": "CHF",
     "currency": null,
@@ -423,7 +412,7 @@
     "currency": null,
     "impact": "Low",
     "date": "01-20-2026",
-    "time": "1:20pm",
+    "time": "1:15pm",
     "forecast": "",
     "previous": "11.8K",
     "actual": null
@@ -434,7 +423,7 @@
     "currency": null,
     "impact": "Low",
     "date": "01-20-2026",
-    "time": "3:50pm",
+    "time": "2:43pm",
     "forecast": "",
     "previous": "6.3%",
     "actual": null
@@ -457,6 +446,17 @@
     "impact": "Low",
     "date": "01-20-2026",
     "time": "4:30pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "01-20-2026",
+    "time": "6:00pm",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -622,7 +622,7 @@
     "impact": "Medium",
     "date": "01-21-2026",
     "time": "3:00pm",
-    "forecast": "-0.5%",
+    "forecast": "-0.3%",
     "previous": "3.3%",
     "actual": null
   },
@@ -734,6 +734,17 @@
     "time": "7:00am",
     "forecast": "13.4B",
     "previous": "11.7B",
+    "actual": null
+  },
+  {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "01-22-2026",
+    "time": "7:02am",
+    "forecast": "",
+    "previous": "-7.5%",
     "actual": null
   },
   {
@@ -908,7 +919,7 @@
     "impact": "Low",
     "date": "01-22-2026",
     "time": "3:30pm",
-    "forecast": "",
+    "forecast": "-82B",
     "previous": "-71B",
     "actual": null
   },
@@ -919,7 +930,7 @@
     "impact": "Low",
     "date": "01-22-2026",
     "time": "5:00pm",
-    "forecast": "",
+    "forecast": "-2.5M",
     "previous": "3.4M",
     "actual": null
   },
@@ -930,7 +941,7 @@
     "impact": "High",
     "date": "01-22-2026",
     "time": "9:45pm",
-    "forecast": "0.4%",
+    "forecast": "0.5%",
     "previous": "1.0%",
     "actual": null
   },
