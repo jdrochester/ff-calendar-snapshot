@@ -616,6 +616,17 @@
     "actual": null
   },
   {
+    "title": "Construction Spending m/m",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "01-21-2026",
+    "time": "2:59pm",
+    "forecast": "",
+    "previous": "0.2%",
+    "actual": null
+  },
+  {
     "title": "Pending Home Sales m/m",
     "country": "USD",
     "currency": null,
@@ -634,18 +645,7 @@
     "date": "01-21-2026",
     "time": "3:00pm",
     "forecast": "0.1%",
-    "previous": "",
-    "actual": null
-  },
-  {
-    "title": "Construction Spending m/m",
-    "country": "USD",
-    "currency": null,
-    "impact": "Low",
-    "date": "01-21-2026",
-    "time": "3:09pm",
-    "forecast": "",
-    "previous": "0.2%",
+    "previous": "-0.6%",
     "actual": null
   },
   {
@@ -655,6 +655,17 @@
     "impact": "Medium",
     "date": "01-21-2026",
     "time": "4:45pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "01-21-2026",
+    "time": "6:00pm",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -814,6 +825,17 @@
     "actual": null
   },
   {
+    "title": "Unemployment Claims",
+    "country": "USD",
+    "currency": null,
+    "impact": "High",
+    "date": "01-22-2026",
+    "time": "1:30pm",
+    "forecast": "209K",
+    "previous": "198K",
+    "actual": null
+  },
+  {
     "title": "Final GDP Price Index q/q",
     "country": "USD",
     "currency": null,
@@ -822,17 +844,6 @@
     "time": "1:30pm",
     "forecast": "3.8%",
     "previous": "3.8%",
-    "actual": null
-  },
-  {
-    "title": "Unemployment Claims",
-    "country": "USD",
-    "currency": null,
-    "impact": "Medium",
-    "date": "01-22-2026",
-    "time": "1:30pm",
-    "forecast": "209K",
-    "previous": "198K",
     "actual": null
   },
   {
@@ -919,7 +930,7 @@
     "impact": "Low",
     "date": "01-22-2026",
     "time": "3:30pm",
-    "forecast": "-82B",
+    "forecast": "-90B",
     "previous": "-71B",
     "actual": null
   },
@@ -930,7 +941,7 @@
     "impact": "Low",
     "date": "01-22-2026",
     "time": "5:00pm",
-    "forecast": "-2.5M",
+    "forecast": "-1.0M",
     "previous": "3.4M",
     "actual": null
   },
@@ -1240,6 +1251,17 @@
     "time": "3:00pm",
     "forecast": "",
     "previous": "4.2%",
+    "actual": null
+  },
+  {
+    "title": "CB Leading Index m/m",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "01-23-2026",
+    "time": "3:03pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   }
 ]
