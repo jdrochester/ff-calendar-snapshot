@@ -9,7 +9,7 @@
     "ticker": "META",
     "date": "2026-01-28",
     "time": "time-after-hours",
-    "eps_estimate": "$8.29"
+    "eps_estimate": "$8.28"
   },
   {
     "ticker": "TSLA",
@@ -45,7 +45,7 @@
     "ticker": "BRK.B",
     "date": "2026-02-27",
     "time": "time-not-supplied",
-    "eps_estimate": "$4.89"
+    "eps_estimate": "$4.91"
   },
   {
     "ticker": "AVGO",
