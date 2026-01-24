@@ -1056,17 +1056,6 @@
     "actual": null
   },
   {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "01-23-2026",
-    "time": "7:02am",
-    "forecast": "",
-    "previous": "-7.5%",
-    "actual": null
-  },
-  {
     "title": "French Flash Manufacturing PMI",
     "country": "EUR",
     "currency": null,
@@ -1188,6 +1177,17 @@
     "actual": null
   },
   {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "01-23-2026",
+    "time": "12:11pm",
+    "forecast": "",
+    "previous": "-7.5%",
+    "actual": null
+  },
+  {
     "title": "Core Retail Sales m/m",
     "country": "CAD",
     "currency": null,
@@ -1259,9 +1259,20 @@
     "currency": null,
     "impact": "Low",
     "date": "01-23-2026",
-    "time": "3:03pm",
+    "time": "3:53pm",
     "forecast": "",
-    "previous": "",
+    "previous": "-0.3%",
+    "actual": null
+  },
+  {
+    "title": "CB Leading Index m/m",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "01-23-2026",
+    "time": "3:54pm",
+    "forecast": "-0.2%",
+    "previous": "-0.1%",
     "actual": null
   }
 ]
