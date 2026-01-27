@@ -15,7 +15,7 @@
     "ticker": "TSLA",
     "date": "2026-01-28",
     "time": "time-after-hours",
-    "eps_estimate": "$0.32"
+    "eps_estimate": "$0.33"
   },
   {
     "ticker": "AAPL",
@@ -32,7 +32,7 @@
   {
     "ticker": "AMZN",
     "date": "2026-02-05",
-    "time": "time-not-supplied",
+    "time": "time-after-hours",
     "eps_estimate": "$1.97"
   },
   {
