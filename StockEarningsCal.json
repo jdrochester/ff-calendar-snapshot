@@ -1,23 +1,5 @@
 [
   {
-    "ticker": "MSFT",
-    "date": "2026-01-28",
-    "time": "time-after-hours",
-    "eps_estimate": "$3.88"
-  },
-  {
-    "ticker": "META",
-    "date": "2026-01-28",
-    "time": "time-after-hours",
-    "eps_estimate": "$8.32"
-  },
-  {
-    "ticker": "TSLA",
-    "date": "2026-01-28",
-    "time": "time-after-hours",
-    "eps_estimate": "$0.33"
-  },
-  {
     "ticker": "AAPL",
     "date": "2026-01-29",
     "time": "time-after-hours",
@@ -33,7 +15,7 @@
     "ticker": "AMZN",
     "date": "2026-02-05",
     "time": "time-after-hours",
-    "eps_estimate": "$1.97"
+    "eps_estimate": "$1.98"
   },
   {
     "ticker": "NVDA",
