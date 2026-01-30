@@ -451,17 +451,6 @@
     "actual": null
   },
   {
-    "title": "Trade Balance",
-    "country": "CHF",
-    "currency": null,
-    "impact": "Low",
-    "date": "01-29-2026",
-    "time": "7:00am",
-    "forecast": "4.85B",
-    "previous": "3.84B",
-    "actual": null
-  },
-  {
     "title": "M3 Money Supply y/y",
     "country": "EUR",
     "currency": null,
@@ -503,6 +492,17 @@
     "time": "1:30pm",
     "forecast": "206K",
     "previous": "200K",
+    "actual": null
+  },
+  {
+    "title": "Goods Trade Balance",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "01-29-2026",
+    "time": "1:30pm",
+    "forecast": "",
+    "previous": "-59.1B",
     "actual": null
   },
   {
@@ -569,6 +569,28 @@
     "time": "3:30pm",
     "forecast": "-237B",
     "previous": "-120B",
+    "actual": null
+  },
+  {
+    "title": "Treasury Currency Report",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "01-29-2026",
+    "time": "9:00pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "01-29-2026",
+    "time": "9:30pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
