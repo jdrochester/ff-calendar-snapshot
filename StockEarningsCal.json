@@ -1,11 +1,5 @@
 [
   {
-    "ticker": "AAPL",
-    "date": "2026-01-29",
-    "time": "time-after-hours",
-    "eps_estimate": "$2.65"
-  },
-  {
     "ticker": "GOOGL",
     "date": "2026-02-04",
     "time": "time-after-hours",
@@ -33,6 +27,6 @@
     "ticker": "AVGO",
     "date": "2026-03-05",
     "time": "time-not-supplied",
-    "eps_estimate": "$1.66"
+    "eps_estimate": "$1.67"
   }
 ]
