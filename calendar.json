@@ -1,5 +1,16 @@
 [
   {
+    "title": "OPEC-JMMC Meetings",
+    "country": "All",
+    "currency": null,
+    "impact": "Medium",
+    "date": "02-01-2026",
+    "time": "10:15am",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "BOJ Summary of Opinions",
     "country": "JPY",
     "currency": null,
@@ -247,7 +258,7 @@
     "currency": null,
     "impact": "Low",
     "date": "02-02-2026",
-    "time": "7:03pm",
+    "time": "7:00pm",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -270,7 +281,7 @@
     "impact": "Low",
     "date": "02-02-2026",
     "time": "11:50pm",
-    "forecast": "-10.2%",
+    "forecast": "-10.3%",
     "previous": "-9.8%",
     "actual": null
   },
@@ -281,7 +292,7 @@
     "impact": "Low",
     "date": "02-03-2026",
     "time": "12:30am",
-    "forecast": "-6.4%",
+    "forecast": "-6.2%",
     "previous": "15.2%",
     "actual": null
   },
@@ -369,7 +380,7 @@
     "impact": "Low",
     "date": "02-03-2026",
     "time": "8:00am",
-    "forecast": "10.5K",
+    "forecast": "13.4K",
     "previous": "-16.3K",
     "actual": null
   },
@@ -412,8 +423,8 @@
     "currency": null,
     "impact": "High",
     "date": "02-03-2026",
-    "time": "3:00pm",
-    "forecast": "7.21M",
+    "time": "3:03pm",
+    "forecast": "7.23M",
     "previous": "7.15M",
     "actual": null
   },
@@ -435,7 +446,7 @@
     "impact": "Low",
     "date": "02-03-2026",
     "time": "3:15pm",
-    "forecast": "15.4M",
+    "forecast": "15.3M",
     "previous": "16.0M",
     "actual": null
   },
@@ -512,7 +523,7 @@
     "impact": "Low",
     "date": "02-04-2026",
     "time": "1:45am",
-    "forecast": "51.9",
+    "forecast": "52.0",
     "previous": "52.0",
     "actual": null
   },
@@ -534,19 +545,8 @@
     "impact": "Low",
     "date": "02-04-2026",
     "time": "8:15am",
-    "forecast": "57.0",
+    "forecast": "56.6",
     "previous": "57.1",
-    "actual": null
-  },
-  {
-    "title": "Trade Balance",
-    "country": "CHF",
-    "currency": null,
-    "impact": "Low",
-    "date": "02-04-2026",
-    "time": "8:15am",
-    "forecast": "4.85B",
-    "previous": "3.84B",
     "actual": null
   },
   {
@@ -556,7 +556,7 @@
     "impact": "Low",
     "date": "02-04-2026",
     "time": "8:45am",
-    "forecast": "51.6",
+    "forecast": "51.5",
     "previous": "51.5",
     "actual": null
   },
@@ -567,7 +567,7 @@
     "impact": "Low",
     "date": "02-04-2026",
     "time": "8:50am",
-    "forecast": "48.0",
+    "forecast": "47.9",
     "previous": "47.9",
     "actual": null
   },
@@ -600,7 +600,7 @@
     "impact": "Low",
     "date": "02-04-2026",
     "time": "9:30am",
-    "forecast": "54.1",
+    "forecast": "54.2",
     "previous": "54.3",
     "actual": null
   },
@@ -611,7 +611,7 @@
     "impact": "Medium",
     "date": "02-04-2026",
     "time": "10:00am",
-    "forecast": "2.2%",
+    "forecast": "2.3%",
     "previous": "2.3%",
     "actual": null
   },
@@ -622,7 +622,7 @@
     "impact": "Medium",
     "date": "02-04-2026",
     "time": "10:00am",
-    "forecast": "1.8%",
+    "forecast": "1.7%",
     "previous": "2.0%",
     "actual": null
   },
@@ -633,7 +633,7 @@
     "impact": "Low",
     "date": "02-04-2026",
     "time": "10:00am",
-    "forecast": "-0.2%",
+    "forecast": "-0.3%",
     "previous": "0.5%",
     "actual": null
   },
@@ -644,7 +644,7 @@
     "impact": "Low",
     "date": "02-04-2026",
     "time": "10:00am",
-    "forecast": "0.3%",
+    "forecast": "0.4%",
     "previous": "0.2%",
     "actual": null
   },
@@ -655,7 +655,7 @@
     "impact": "High",
     "date": "02-04-2026",
     "time": "1:15pm",
-    "forecast": "48K",
+    "forecast": "46K",
     "previous": "41K",
     "actual": null
   },
@@ -677,7 +677,7 @@
     "impact": "High",
     "date": "02-04-2026",
     "time": "3:00pm",
-    "forecast": "53.6",
+    "forecast": "53.5",
     "previous": "54.4",
     "actual": null
   },
@@ -710,7 +710,7 @@
     "impact": "Low",
     "date": "02-05-2026",
     "time": "12:30am",
-    "forecast": "3.45B",
+    "forecast": "3.39B",
     "previous": "2.94B",
     "actual": null
   },
@@ -743,7 +743,7 @@
     "impact": "Low",
     "date": "02-05-2026",
     "time": "7:00am",
-    "forecast": "-1.3%",
+    "forecast": "-1.7%",
     "previous": "5.6%",
     "actual": null
   },
@@ -754,7 +754,7 @@
     "impact": "Low",
     "date": "02-05-2026",
     "time": "7:45am",
-    "forecast": "0.1%",
+    "forecast": "0.2%",
     "previous": "-0.1%",
     "actual": null
   },
@@ -765,7 +765,7 @@
     "impact": "Low",
     "date": "02-05-2026",
     "time": "9:00am",
-    "forecast": "0.4%",
+    "forecast": "-0.4%",
     "previous": "0.5%",
     "actual": null
   },
@@ -776,7 +776,7 @@
     "impact": "Low",
     "date": "02-05-2026",
     "time": "9:30am",
-    "forecast": "42.0",
+    "forecast": "42.1",
     "previous": "40.1",
     "actual": null
   },
@@ -799,7 +799,7 @@
     "date": "02-05-2026",
     "time": "10:03am",
     "forecast": "",
-    "previous": "",
+    "previous": "3.20|1.9",
     "actual": null
   },
   {
@@ -908,7 +908,7 @@
     "impact": "High",
     "date": "02-05-2026",
     "time": "1:30pm",
-    "forecast": "213K",
+    "forecast": "212K",
     "previous": "209K",
     "actual": null
   },
@@ -985,7 +985,7 @@
     "impact": "Low",
     "date": "02-05-2026",
     "time": "11:30pm",
-    "forecast": "-0.3%",
+    "forecast": "-0.4%",
     "previous": "2.9%",
     "actual": null
   },
@@ -1018,7 +1018,7 @@
     "impact": "Low",
     "date": "02-06-2026",
     "time": "7:00am",
-    "forecast": "14.5B",
+    "forecast": "14.1B",
     "previous": "13.1B",
     "actual": null
   },
@@ -1029,7 +1029,7 @@
     "impact": "Low",
     "date": "02-06-2026",
     "time": "7:00am",
-    "forecast": "0.2%",
+    "forecast": "0.1%",
     "previous": "-0.6%",
     "actual": null
   },
@@ -1040,7 +1040,7 @@
     "impact": "Low",
     "date": "02-06-2026",
     "time": "7:45am",
-    "forecast": "-4.1B",
+    "forecast": "-3.9B",
     "previous": "-4.2B",
     "actual": null
   },
@@ -1084,7 +1084,7 @@
     "impact": "High",
     "date": "02-06-2026",
     "time": "1:30pm",
-    "forecast": "7.2K",
+    "forecast": "5.0K",
     "previous": "8.2K",
     "actual": null
   },
@@ -1097,39 +1097,6 @@
     "time": "1:30pm",
     "forecast": "6.8%",
     "previous": "6.8%",
-    "actual": null
-  },
-  {
-    "title": "Average Hourly Earnings m/m",
-    "country": "USD",
-    "currency": null,
-    "impact": "High",
-    "date": "02-06-2026",
-    "time": "1:30pm",
-    "forecast": "0.3%",
-    "previous": "0.3%",
-    "actual": null
-  },
-  {
-    "title": "Non-Farm Employment Change",
-    "country": "USD",
-    "currency": null,
-    "impact": "High",
-    "date": "02-06-2026",
-    "time": "1:30pm",
-    "forecast": "67K",
-    "previous": "50K",
-    "actual": null
-  },
-  {
-    "title": "Unemployment Rate",
-    "country": "USD",
-    "currency": null,
-    "impact": "High",
-    "date": "02-06-2026",
-    "time": "1:30pm",
-    "forecast": "4.4%",
-    "previous": "4.4%",
     "actual": null
   },
   {
@@ -1150,7 +1117,7 @@
     "impact": "High",
     "date": "02-06-2026",
     "time": "3:00pm",
-    "forecast": "55.4",
+    "forecast": "55.0",
     "previous": "54.0",
     "actual": null
   },
@@ -1183,7 +1150,7 @@
     "impact": "Low",
     "date": "02-06-2026",
     "time": "8:00pm",
-    "forecast": "8.5B",
+    "forecast": "9.1B",
     "previous": "4.2B",
     "actual": null
   }
