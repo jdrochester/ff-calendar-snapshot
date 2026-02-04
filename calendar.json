@@ -390,7 +390,7 @@
     "currency": null,
     "impact": "Low",
     "date": "02-03-2026",
-    "time": "10:33am",
+    "time": "10:02am",
     "forecast": "",
     "previous": "4.46|3.3",
     "actual": null
@@ -418,23 +418,12 @@
     "actual": null
   },
   {
-    "title": "JOLTS Job Openings",
-    "country": "USD",
-    "currency": null,
-    "impact": "High",
-    "date": "02-03-2026",
-    "time": "3:03pm",
-    "forecast": "7.23M",
-    "previous": "7.15M",
-    "actual": null
-  },
-  {
     "title": "RCM/TIPP Economic Optimism",
     "country": "USD",
     "currency": null,
     "impact": "Low",
     "date": "02-03-2026",
-    "time": "3:10pm",
+    "time": "3:01pm",
     "forecast": "47.9",
     "previous": "47.2",
     "actual": null
@@ -448,17 +437,6 @@
     "time": "3:15pm",
     "forecast": "15.3M",
     "previous": "16.0M",
-    "actual": null
-  },
-  {
-    "title": "GDT Price Index",
-    "country": "NZD",
-    "currency": null,
-    "impact": "Low",
-    "date": "02-03-2026",
-    "time": "3:50pm",
-    "forecast": "",
-    "previous": "1.5%",
     "actual": null
   },
   {
@@ -503,6 +481,17 @@
     "time": "9:45pm",
     "forecast": "0.5%",
     "previous": "0.5%",
+    "actual": null
+  },
+  {
+    "title": "GDT Price Index",
+    "country": "NZD",
+    "currency": null,
+    "impact": "Low",
+    "date": "02-03-2026",
+    "time": "10:56pm",
+    "forecast": "",
+    "previous": "1.5%",
     "actual": null
   },
   {
@@ -556,7 +545,7 @@
     "impact": "Low",
     "date": "02-04-2026",
     "time": "8:45am",
-    "forecast": "51.5",
+    "forecast": "51.3",
     "previous": "51.5",
     "actual": null
   },
@@ -688,7 +677,7 @@
     "impact": "Low",
     "date": "02-04-2026",
     "time": "3:30pm",
-    "forecast": "",
+    "forecast": "-2.0M",
     "previous": "-2.3M",
     "actual": null
   },
@@ -710,7 +699,7 @@
     "impact": "Low",
     "date": "02-05-2026",
     "time": "12:30am",
-    "forecast": "3.39B",
+    "forecast": "3.42B",
     "previous": "2.94B",
     "actual": null
   },
@@ -743,7 +732,7 @@
     "impact": "Low",
     "date": "02-05-2026",
     "time": "7:00am",
-    "forecast": "-1.7%",
+    "forecast": "-1.8%",
     "previous": "5.6%",
     "actual": null
   },
@@ -776,7 +765,7 @@
     "impact": "Low",
     "date": "02-05-2026",
     "time": "9:30am",
-    "forecast": "42.1",
+    "forecast": "42.2",
     "previous": "40.1",
     "actual": null
   },
@@ -930,7 +919,7 @@
     "impact": "Low",
     "date": "02-05-2026",
     "time": "3:30pm",
-    "forecast": "",
+    "forecast": "-379B",
     "previous": "-242B",
     "actual": null
   },
@@ -985,7 +974,7 @@
     "impact": "Low",
     "date": "02-05-2026",
     "time": "11:30pm",
-    "forecast": "-0.4%",
+    "forecast": "-0.5%",
     "previous": "2.9%",
     "actual": null
   },
@@ -1007,7 +996,7 @@
     "impact": "Low",
     "date": "02-06-2026",
     "time": "7:00am",
-    "forecast": "-0.3%",
+    "forecast": "-0.2%",
     "previous": "0.8%",
     "actual": null
   },
@@ -1040,7 +1029,7 @@
     "impact": "Low",
     "date": "02-06-2026",
     "time": "7:45am",
-    "forecast": "-3.9B",
+    "forecast": "-3.8B",
     "previous": "-4.2B",
     "actual": null
   },
@@ -1084,7 +1073,7 @@
     "impact": "High",
     "date": "02-06-2026",
     "time": "1:30pm",
-    "forecast": "5.0K",
+    "forecast": "5.2K",
     "previous": "8.2K",
     "actual": null
   },
@@ -1150,7 +1139,7 @@
     "impact": "Low",
     "date": "02-06-2026",
     "time": "8:00pm",
-    "forecast": "9.1B",
+    "forecast": "9.0B",
     "previous": "4.2B",
     "actual": null
   }
