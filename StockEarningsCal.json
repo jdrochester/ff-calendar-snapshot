@@ -1,11 +1,5 @@
 [
   {
-    "ticker": "GOOGL",
-    "date": "2026-02-04",
-    "time": "time-after-hours",
-    "eps_estimate": "$2.58"
-  },
-  {
     "ticker": "AMZN",
     "date": "2026-02-05",
     "time": "time-after-hours",
