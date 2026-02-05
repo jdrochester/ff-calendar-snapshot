@@ -704,17 +704,6 @@
     "actual": null
   },
   {
-    "title": "NAB Quarterly Business Confidence",
-    "country": "AUD",
-    "currency": null,
-    "impact": "Low",
-    "date": "02-05-2026",
-    "time": "12:30am",
-    "forecast": "",
-    "previous": "2",
-    "actual": null
-  },
-  {
     "title": "30-y Bond Auction",
     "country": "JPY",
     "currency": null,
@@ -913,6 +902,17 @@
     "actual": null
   },
   {
+    "title": "JOLTS Job Openings",
+    "country": "USD",
+    "currency": null,
+    "impact": "High",
+    "date": "02-05-2026",
+    "time": "3:00pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "Natural Gas Storage",
     "country": "USD",
     "currency": null,
@@ -976,6 +976,28 @@
     "time": "11:30pm",
     "forecast": "-0.5%",
     "previous": "2.9%",
+    "actual": null
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "02-06-2026",
+    "time": "12:00am",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "NAB Quarterly Business Confidence",
+    "country": "AUD",
+    "currency": null,
+    "impact": "Low",
+    "date": "02-06-2026",
+    "time": "4:59am",
+    "forecast": "",
+    "previous": "2",
     "actual": null
   },
   {
