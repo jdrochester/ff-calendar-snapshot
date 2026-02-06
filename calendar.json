@@ -759,6 +759,17 @@
     "actual": null
   },
   {
+    "title": "Spanish 10-y Bond Auction",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "02-05-2026",
+    "time": "9:43am",
+    "forecast": "",
+    "previous": "3.20|1.9",
+    "actual": null
+  },
+  {
     "title": "Retail Sales m/m",
     "country": "EUR",
     "currency": null,
@@ -770,23 +781,12 @@
     "actual": null
   },
   {
-    "title": "Spanish 10-y Bond Auction",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "02-05-2026",
-    "time": "10:03am",
-    "forecast": "",
-    "previous": "3.20|1.9",
-    "actual": null
-  },
-  {
     "title": "French 10-y Bond Auction",
     "country": "EUR",
     "currency": null,
     "impact": "Low",
     "date": "02-05-2026",
-    "time": "10:18am",
+    "time": "10:01am",
     "forecast": "",
     "previous": "3.53|2.0",
     "actual": null
@@ -908,8 +908,8 @@
     "impact": "High",
     "date": "02-05-2026",
     "time": "3:00pm",
-    "forecast": "",
-    "previous": "",
+    "forecast": "7.25M",
+    "previous": "7.15M",
     "actual": null
   },
   {
@@ -987,17 +987,6 @@
     "time": "12:00am",
     "forecast": "",
     "previous": "",
-    "actual": null
-  },
-  {
-    "title": "NAB Quarterly Business Confidence",
-    "country": "AUD",
-    "currency": null,
-    "impact": "Low",
-    "date": "02-06-2026",
-    "time": "4:59am",
-    "forecast": "",
-    "previous": "2",
     "actual": null
   },
   {
