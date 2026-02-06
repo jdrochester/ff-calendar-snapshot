@@ -1,11 +1,5 @@
 [
   {
-    "ticker": "AMZN",
-    "date": "2026-02-05",
-    "time": "time-after-hours",
-    "eps_estimate": "$1.98"
-  },
-  {
     "ticker": "NVDA",
     "date": "2026-02-25",
     "time": "time-after-hours",
@@ -15,7 +9,7 @@
     "ticker": "BRK.B",
     "date": "2026-02-27",
     "time": "time-not-supplied",
-    "eps_estimate": "$4.91"
+    "eps_estimate": "$5.19"
   },
   {
     "ticker": "AVGO",
