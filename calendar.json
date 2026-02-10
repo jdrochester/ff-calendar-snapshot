@@ -88,28 +88,6 @@
     "actual": null
   },
   {
-    "title": "M2 Money Supply y/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "02-09-2026",
-    "time": "9:03am",
-    "forecast": "8.3%",
-    "previous": "8.5%",
-    "actual": null
-  },
-  {
-    "title": "New Loans",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "02-09-2026",
-    "time": "9:03am",
-    "forecast": "",
-    "previous": "910B",
-    "actual": null
-  },
-  {
     "title": "Sentix Investor Confidence",
     "country": "EUR",
     "currency": null,
@@ -127,6 +105,17 @@
     "impact": "Low",
     "date": "02-09-2026",
     "time": "4:00pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "ECB President Lagarde Speaks",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Medium",
+    "date": "02-09-2026",
+    "time": "5:00pm",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -154,12 +143,34 @@
     "actual": null
   },
   {
+    "title": "FOMC Member Miran Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "02-09-2026",
+    "time": "7:30pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "FOMC Member Bostic Speaks",
     "country": "USD",
     "currency": null,
     "impact": "Low",
     "date": "02-09-2026",
     "time": "8:15pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Miran Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "02-09-2026",
+    "time": "10:00pm",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -193,7 +204,7 @@
     "impact": "Low",
     "date": "02-09-2026",
     "time": "11:50pm",
-    "forecast": "1.8%",
+    "forecast": "1.7%",
     "previous": "1.7%",
     "actual": null
   },
@@ -204,7 +215,7 @@
     "impact": "Low",
     "date": "02-10-2026",
     "time": "12:01am",
-    "forecast": "1.2%",
+    "forecast": "1.3%",
     "previous": "1.0%",
     "actual": null
   },
@@ -231,13 +242,35 @@
     "actual": null
   },
   {
+    "title": "M2 Money Supply y/y",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "02-10-2026",
+    "time": "9:03am",
+    "forecast": "8.3%",
+    "previous": "8.5%",
+    "actual": null
+  },
+  {
+    "title": "New Loans",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "02-10-2026",
+    "time": "9:03am",
+    "forecast": "5000B",
+    "previous": "910B",
+    "actual": null
+  },
+  {
     "title": "NFIB Small Business Index",
     "country": "USD",
     "currency": null,
     "impact": "Low",
     "date": "02-10-2026",
     "time": "11:00am",
-    "forecast": "99.9",
+    "forecast": "99.8",
     "previous": "99.5",
     "actual": null
   },
@@ -259,7 +292,7 @@
     "impact": "High",
     "date": "02-10-2026",
     "time": "1:30pm",
-    "forecast": "0.4%",
+    "forecast": "0.3%",
     "previous": "0.5%",
     "actual": null
   },
@@ -402,7 +435,7 @@
     "impact": "Low",
     "date": "02-11-2026",
     "time": "9:00am",
-    "forecast": "-0.4%",
+    "forecast": "-0.6%",
     "previous": "1.5%",
     "actual": null
   },
@@ -424,7 +457,7 @@
     "impact": "Low",
     "date": "02-11-2026",
     "time": "1:30pm",
-    "forecast": "",
+    "forecast": "5.0%",
     "previous": "-13.1%",
     "actual": null
   },
@@ -446,7 +479,7 @@
     "impact": "High",
     "date": "02-11-2026",
     "time": "1:30pm",
-    "forecast": "70K",
+    "forecast": "66K",
     "previous": "50K",
     "actual": null
   },
@@ -459,6 +492,28 @@
     "time": "1:30pm",
     "forecast": "4.4%",
     "previous": "4.4%",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Schmid Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "02-11-2026",
+    "time": "3:00pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Bowman Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "02-11-2026",
+    "time": "3:15pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -501,8 +556,19 @@
     "impact": "Low",
     "date": "02-11-2026",
     "time": "7:00pm",
-    "forecast": "",
+    "forecast": "-92.3B",
     "previous": "-144.7B",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Hammack Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "02-11-2026",
+    "time": "9:00pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -578,7 +644,7 @@
     "impact": "Low",
     "date": "02-12-2026",
     "time": "7:00am",
-    "forecast": "0.6%",
+    "forecast": "0.5%",
     "previous": "-1.3%",
     "actual": null
   },
@@ -589,7 +655,7 @@
     "impact": "Low",
     "date": "02-12-2026",
     "time": "7:00am",
-    "forecast": "-22.0B",
+    "forecast": "-22.3B",
     "previous": "-23.7B",
     "actual": null
   },
@@ -611,7 +677,7 @@
     "impact": "Low",
     "date": "02-12-2026",
     "time": "7:00am",
-    "forecast": "0.0%",
+    "forecast": "-0.1%",
     "previous": "1.1%",
     "actual": null
   },
@@ -622,7 +688,7 @@
     "impact": "Low",
     "date": "02-12-2026",
     "time": "7:00am",
-    "forecast": "-0.1%",
+    "forecast": "-0.2%",
     "previous": "2.1%",
     "actual": null
   },
@@ -633,19 +699,8 @@
     "impact": "Low",
     "date": "02-12-2026",
     "time": "7:00am",
-    "forecast": "0.2%",
+    "forecast": "-0.5%",
     "previous": "-0.3%",
-    "actual": null
-  },
-  {
-    "title": "Italian 10-y Bond Auction",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "02-12-2026",
-    "time": "10:33am",
-    "forecast": "",
-    "previous": "",
     "actual": null
   },
   {
@@ -688,7 +743,7 @@
     "impact": "Low",
     "date": "02-12-2026",
     "time": "3:00pm",
-    "forecast": "4.22M",
+    "forecast": "4.16M",
     "previous": "4.35M",
     "actual": null
   },
@@ -700,7 +755,7 @@
     "date": "02-12-2026",
     "time": "3:00pm",
     "forecast": "",
-    "previous": "",
+    "previous": "3.99%",
     "actual": null
   },
   {
@@ -864,7 +919,7 @@
     "impact": "Low",
     "date": "02-13-2026",
     "time": "10:00am",
-    "forecast": "10.2B",
+    "forecast": "11.8B",
     "previous": "10.7B",
     "actual": null
   },
@@ -910,6 +965,17 @@
     "time": "1:30pm",
     "forecast": "2.5%",
     "previous": "2.7%",
+    "actual": null
+  },
+  {
+    "title": "ECB President Lagarde Speaks",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Medium",
+    "date": "02-14-2026",
+    "time": "4:30pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   }
 ]
