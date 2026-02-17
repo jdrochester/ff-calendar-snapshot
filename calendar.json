@@ -248,7 +248,7 @@
     "impact": "Low",
     "date": "02-17-2026",
     "time": "7:00am",
-    "forecast": "5.1%",
+    "forecast": "5.2%",
     "previous": "5.1%",
     "actual": null
   },
@@ -270,7 +270,7 @@
     "impact": "Low",
     "date": "02-17-2026",
     "time": "10:00am",
-    "forecast": "45.2",
+    "forecast": "45.7",
     "previous": "40.8",
     "actual": null
   },
@@ -281,7 +281,7 @@
     "impact": "Low",
     "date": "02-17-2026",
     "time": "10:00am",
-    "forecast": "65.2",
+    "forecast": "65.8",
     "previous": "59.6",
     "actual": null
   },
@@ -347,7 +347,7 @@
     "impact": "Medium",
     "date": "02-17-2026",
     "time": "1:30pm",
-    "forecast": "2.8%",
+    "forecast": "2.7%",
     "previous": "2.8%",
     "actual": null
   },
@@ -369,7 +369,7 @@
     "impact": "Low",
     "date": "02-17-2026",
     "time": "1:30pm",
-    "forecast": "",
+    "forecast": "14.27B",
     "previous": "16.33B",
     "actual": null
   },
@@ -380,7 +380,7 @@
     "impact": "Low",
     "date": "02-17-2026",
     "time": "1:30pm",
-    "forecast": "1.9%",
+    "forecast": "2.0%",
     "previous": "-1.8%",
     "actual": null
   },
@@ -391,7 +391,7 @@
     "impact": "Medium",
     "date": "02-17-2026",
     "time": "1:30pm",
-    "forecast": "8.5",
+    "forecast": "6.4",
     "previous": "7.7",
     "actual": null
   },
@@ -561,17 +561,6 @@
     "actual": null
   },
   {
-    "title": "NAB Quarterly Business Confidence",
-    "country": "AUD",
-    "currency": null,
-    "impact": "Low",
-    "date": "02-18-2026",
-    "time": "4:59am",
-    "forecast": "",
-    "previous": "2",
-    "actual": null
-  },
-  {
     "title": "CPI y/y",
     "country": "GBP",
     "currency": null,
@@ -644,7 +633,7 @@
     "impact": "Low",
     "date": "02-18-2026",
     "time": "9:30am",
-    "forecast": "2.3%",
+    "forecast": "1.9%",
     "previous": "2.5%",
     "actual": null
   },
@@ -677,7 +666,7 @@
     "impact": "Medium",
     "date": "02-18-2026",
     "time": "1:30pm",
-    "forecast": "-1.8%",
+    "forecast": "-1.7%",
     "previous": "5.3%",
     "actual": null
   },
@@ -688,18 +677,7 @@
     "impact": "Low",
     "date": "02-18-2026",
     "time": "1:30pm",
-    "forecast": "1.42M",
-    "previous": "",
-    "actual": null
-  },
-  {
-    "title": "FOMC Member Bowman Speaks",
-    "country": "USD",
-    "currency": null,
-    "impact": "Low",
-    "date": "02-18-2026",
-    "time": "1:30pm",
-    "forecast": "",
+    "forecast": "1.40M",
     "previous": "",
     "actual": null
   },
@@ -710,7 +688,7 @@
     "impact": "Low",
     "date": "02-18-2026",
     "time": "1:30pm",
-    "forecast": "1.33M",
+    "forecast": "1.31M",
     "previous": "",
     "actual": null
   },
@@ -743,7 +721,7 @@
     "impact": "Low",
     "date": "02-18-2026",
     "time": "2:15pm",
-    "forecast": "76.4%",
+    "forecast": "76.5%",
     "previous": "76.3%",
     "actual": null
   },
@@ -759,6 +737,17 @@
     "actual": null
   },
   {
+    "title": "FOMC Member Bowman Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "02-18-2026",
+    "time": "6:00pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "FOMC Meeting Minutes",
     "country": "USD",
     "currency": null,
@@ -770,13 +759,24 @@
     "actual": null
   },
   {
+    "title": "RBNZ Gov Breman Speaks",
+    "country": "NZD",
+    "currency": null,
+    "impact": "High",
+    "date": "02-18-2026",
+    "time": "7:10pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "TIC Long-Term Purchases",
     "country": "USD",
     "currency": null,
     "impact": "Low",
     "date": "02-18-2026",
     "time": "9:00pm",
-    "forecast": "125.8B",
+    "forecast": "128.6B",
     "previous": "220.2B",
     "actual": null
   },
@@ -820,7 +820,7 @@
     "impact": "High",
     "date": "02-19-2026",
     "time": "12:30am",
-    "forecast": "20.1K",
+    "forecast": "20.0K",
     "previous": "65.2K",
     "actual": null
   },
@@ -833,6 +833,17 @@
     "time": "12:30am",
     "forecast": "4.2%",
     "previous": "4.1%",
+    "actual": null
+  },
+  {
+    "title": "NAB Quarterly Business Confidence",
+    "country": "AUD",
+    "currency": null,
+    "impact": "Low",
+    "date": "02-19-2026",
+    "time": "4:59am",
+    "forecast": "",
+    "previous": "2",
     "actual": null
   },
   {
@@ -865,7 +876,7 @@
     "date": "02-19-2026",
     "time": "10:03am",
     "forecast": "",
-    "previous": "",
+    "previous": "3.22|2.4",
     "actual": null
   },
   {
@@ -886,7 +897,7 @@
     "impact": "Low",
     "date": "02-19-2026",
     "time": "11:00am",
-    "forecast": "-27",
+    "forecast": "-28",
     "previous": "-30",
     "actual": null
   },
@@ -930,7 +941,7 @@
     "impact": "High",
     "date": "02-19-2026",
     "time": "1:30pm",
-    "forecast": "229K",
+    "forecast": "223K",
     "previous": "227K",
     "actual": null
   },
@@ -941,7 +952,7 @@
     "impact": "Medium",
     "date": "02-19-2026",
     "time": "1:30pm",
-    "forecast": "7.8",
+    "forecast": "7.5",
     "previous": "12.6",
     "actual": null
   },
@@ -963,7 +974,7 @@
     "impact": "Low",
     "date": "02-19-2026",
     "time": "1:30pm",
-    "forecast": "-85.7B",
+    "forecast": "-85.8B",
     "previous": "-86.9B",
     "actual": null
   },
@@ -974,7 +985,7 @@
     "impact": "Low",
     "date": "02-19-2026",
     "time": "1:30pm",
-    "forecast": "0.1%",
+    "forecast": "0.2%",
     "previous": "0.2%",
     "actual": null
   },
@@ -985,7 +996,7 @@
     "impact": "Low",
     "date": "02-19-2026",
     "time": "1:30pm",
-    "forecast": "-55.2B",
+    "forecast": "-55.5B",
     "previous": "-56.8B",
     "actual": null
   },
@@ -1018,7 +1029,7 @@
     "impact": "Medium",
     "date": "02-19-2026",
     "time": "3:00pm",
-    "forecast": "2.4%",
+    "forecast": "1.6%",
     "previous": "-9.3%",
     "actual": null
   },
@@ -1029,7 +1040,7 @@
     "impact": "Low",
     "date": "02-19-2026",
     "time": "3:00pm",
-    "forecast": "-0.3%",
+    "forecast": "-0.2%",
     "previous": "-0.3%",
     "actual": null
   },
@@ -1125,7 +1136,7 @@
     "title": "ECB President Lagarde Speaks",
     "country": "EUR",
     "currency": null,
-    "impact": "Medium",
+    "impact": "Low",
     "date": "02-20-2026",
     "time": "12:00am",
     "forecast": "",
@@ -1183,7 +1194,7 @@
     "impact": "Low",
     "date": "02-20-2026",
     "time": "7:00am",
-    "forecast": "-23.3B",
+    "forecast": "-24.0B",
     "previous": "11.6B",
     "actual": null
   },
@@ -1194,7 +1205,7 @@
     "impact": "Medium",
     "date": "02-20-2026",
     "time": "8:15am",
-    "forecast": "51.0",
+    "forecast": "50.9",
     "previous": "51.0",
     "actual": null
   },
@@ -1227,7 +1238,7 @@
     "impact": "High",
     "date": "02-20-2026",
     "time": "8:30am",
-    "forecast": "52.5",
+    "forecast": "52.4",
     "previous": "53.3",
     "actual": null
   },
@@ -1238,7 +1249,7 @@
     "impact": "Low",
     "date": "02-20-2026",
     "time": "9:00am",
-    "forecast": "50.0",
+    "forecast": "49.9",
     "previous": "49.4",
     "actual": null
   },
@@ -1271,7 +1282,7 @@
     "impact": "High",
     "date": "02-20-2026",
     "time": "9:30am",
-    "forecast": "53.4",
+    "forecast": "53.5",
     "previous": "54.3",
     "actual": null
   },
@@ -1282,7 +1293,7 @@
     "impact": "Medium",
     "date": "02-20-2026",
     "time": "1:30pm",
-    "forecast": "0.1%",
+    "forecast": "-0.1%",
     "previous": "1.7%",
     "actual": null
   },
@@ -1293,7 +1304,7 @@
     "impact": "Medium",
     "date": "02-20-2026",
     "time": "1:30pm",
-    "forecast": "-0.4%",
+    "forecast": "-0.5%",
     "previous": "1.3%",
     "actual": null
   },
@@ -1315,7 +1326,7 @@
     "impact": "Low",
     "date": "02-20-2026",
     "time": "1:30pm",
-    "forecast": "0.6%",
+    "forecast": "0.7%",
     "previous": "0.5%",
     "actual": null
   },
@@ -1326,7 +1337,7 @@
     "impact": "High",
     "date": "02-20-2026",
     "time": "1:30pm",
-    "forecast": "2.8%",
+    "forecast": "3.0%",
     "previous": "3.0%",
     "actual": null
   },
@@ -1348,7 +1359,7 @@
     "impact": "Medium",
     "date": "02-20-2026",
     "time": "1:30pm",
-    "forecast": "3.2%",
+    "forecast": "2.9%",
     "previous": "2.0%",
     "actual": null
   },
@@ -1381,7 +1392,7 @@
     "impact": "High",
     "date": "02-20-2026",
     "time": "2:45pm",
-    "forecast": "52.1",
+    "forecast": "52.4",
     "previous": "51.9",
     "actual": null
   },
@@ -1392,7 +1403,7 @@
     "impact": "High",
     "date": "02-20-2026",
     "time": "2:45pm",
-    "forecast": "52.8",
+    "forecast": "53.0",
     "previous": "52.5",
     "actual": null
   },
@@ -1414,7 +1425,7 @@
     "impact": "Medium",
     "date": "02-20-2026",
     "time": "3:00pm",
-    "forecast": "735K",
+    "forecast": "732K",
     "previous": "",
     "actual": null
   },
@@ -1447,7 +1458,7 @@
     "impact": "Medium",
     "date": "02-20-2026",
     "time": "3:00pm",
-    "forecast": "736K",
+    "forecast": "",
     "previous": "737K",
     "actual": null
   },
@@ -1457,7 +1468,7 @@
     "currency": null,
     "impact": "Low",
     "date": "02-20-2026",
-    "time": "6:15pm",
+    "time": "5:45pm",
     "forecast": "",
     "previous": "",
     "actual": null
