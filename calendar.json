@@ -302,7 +302,7 @@
     "currency": null,
     "impact": "Low",
     "date": "02-17-2026",
-    "time": "1:20pm",
+    "time": "1:15pm",
     "forecast": "",
     "previous": "6.5K",
     "actual": null
@@ -352,17 +352,6 @@
     "actual": null
   },
   {
-    "title": "Core CPI m/m",
-    "country": "CAD",
-    "currency": null,
-    "impact": "Low",
-    "date": "02-17-2026",
-    "time": "1:30pm",
-    "forecast": "",
-    "previous": "-0.4%",
-    "actual": null
-  },
-  {
     "title": "Foreign Securities Purchases",
     "country": "CAD",
     "currency": null,
@@ -396,12 +385,23 @@
     "actual": null
   },
   {
+    "title": "Core CPI m/m",
+    "country": "CAD",
+    "currency": null,
+    "impact": "Low",
+    "date": "02-17-2026",
+    "time": "1:32pm",
+    "forecast": "",
+    "previous": "-0.4%",
+    "actual": null
+  },
+  {
     "title": "Cleveland Fed Inflation Expectations",
     "country": "USD",
     "currency": null,
     "impact": "Low",
     "date": "02-17-2026",
-    "time": "2:48pm",
+    "time": "2:45pm",
     "forecast": "",
     "previous": "3.3%",
     "actual": null
@@ -423,7 +423,7 @@
     "currency": null,
     "impact": "Low",
     "date": "02-17-2026",
-    "time": "3:50pm",
+    "time": "4:16pm",
     "forecast": "",
     "previous": "6.7%",
     "actual": null
@@ -457,7 +457,7 @@
     "impact": "Low",
     "date": "02-17-2026",
     "time": "9:45pm",
-    "forecast": "0.5%",
+    "forecast": "0.4%",
     "previous": "0.2%",
     "actual": null
   },
@@ -468,7 +468,7 @@
     "impact": "Low",
     "date": "02-17-2026",
     "time": "9:45pm",
-    "forecast": "0.7%",
+    "forecast": "0.6%",
     "previous": "0.6%",
     "actual": null
   },
@@ -490,7 +490,7 @@
     "impact": "Low",
     "date": "02-17-2026",
     "time": "11:50pm",
-    "forecast": "-0.16T",
+    "forecast": "-0.18T",
     "previous": "-0.21T",
     "actual": null
   },
@@ -633,7 +633,7 @@
     "impact": "Low",
     "date": "02-18-2026",
     "time": "9:30am",
-    "forecast": "1.9%",
+    "forecast": "1.8%",
     "previous": "2.5%",
     "actual": null
   },
@@ -666,7 +666,7 @@
     "impact": "Medium",
     "date": "02-18-2026",
     "time": "1:30pm",
-    "forecast": "-1.7%",
+    "forecast": "-1.8%",
     "previous": "5.3%",
     "actual": null
   },
@@ -721,7 +721,7 @@
     "impact": "Low",
     "date": "02-18-2026",
     "time": "2:15pm",
-    "forecast": "76.5%",
+    "forecast": "76.6%",
     "previous": "76.3%",
     "actual": null
   },
@@ -853,7 +853,7 @@
     "impact": "Low",
     "date": "02-19-2026",
     "time": "9:00am",
-    "forecast": "9.2B",
+    "forecast": "9.8B",
     "previous": "8.6B",
     "actual": null
   },
@@ -930,7 +930,7 @@
     "impact": "Low",
     "date": "02-19-2026",
     "time": "1:30pm",
-    "forecast": "-2.0B",
+    "forecast": "-2.1B",
     "previous": "-2.2B",
     "actual": null
   },
@@ -974,7 +974,7 @@
     "impact": "Low",
     "date": "02-19-2026",
     "time": "1:30pm",
-    "forecast": "-85.8B",
+    "forecast": "-86.0B",
     "previous": "-86.9B",
     "actual": null
   },
@@ -1029,7 +1029,7 @@
     "impact": "Medium",
     "date": "02-19-2026",
     "time": "3:00pm",
-    "forecast": "1.6%",
+    "forecast": "1.4%",
     "previous": "-9.3%",
     "actual": null
   },
