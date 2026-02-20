@@ -863,7 +863,7 @@
     "currency": null,
     "impact": "Low",
     "date": "02-19-2026",
-    "time": "10:03am",
+    "time": "9:43am",
     "forecast": "",
     "previous": "3.22|2.4",
     "actual": null
@@ -1001,17 +1001,6 @@
     "actual": null
   },
   {
-    "title": "Consumer Confidence",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "02-19-2026",
-    "time": "3:00pm",
-    "forecast": "-12",
-    "previous": "-12",
-    "actual": null
-  },
-  {
     "title": "Pending Home Sales m/m",
     "country": "USD",
     "currency": null,
@@ -1031,6 +1020,17 @@
     "time": "3:00pm",
     "forecast": "-0.2%",
     "previous": "-0.3%",
+    "actual": null
+  },
+  {
+    "title": "Consumer Confidence",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "02-19-2026",
+    "time": "3:10pm",
+    "forecast": "-12",
+    "previous": "-12",
     "actual": null
   },
   {
@@ -1064,6 +1064,17 @@
     "time": "5:00pm",
     "forecast": "1.7M",
     "previous": "8.5M",
+    "actual": null
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "02-19-2026",
+    "time": "9:00pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -1326,7 +1337,7 @@
     "impact": "High",
     "date": "02-20-2026",
     "time": "1:30pm",
-    "forecast": "3.0%",
+    "forecast": "2.8%",
     "previous": "3.0%",
     "actual": null
   },
@@ -1348,7 +1359,7 @@
     "impact": "Medium",
     "date": "02-20-2026",
     "time": "1:30pm",
-    "forecast": "2.9%",
+    "forecast": "2.8%",
     "previous": "2.0%",
     "actual": null
   },
