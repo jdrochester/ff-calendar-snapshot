@@ -1424,9 +1424,20 @@
     "currency": null,
     "impact": "Medium",
     "date": "02-20-2026",
+    "time": "2:59pm",
+    "forecast": "",
+    "previous": "737K",
+    "actual": null
+  },
+  {
+    "title": "New Home Sales",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "02-20-2026",
     "time": "3:00pm",
     "forecast": "732K",
-    "previous": "",
+    "previous": "758K",
     "actual": null
   },
   {
@@ -1452,14 +1463,14 @@
     "actual": null
   },
   {
-    "title": "New Home Sales",
+    "title": "President Trump Speaks",
     "country": "USD",
     "currency": null,
-    "impact": "Medium",
+    "impact": "High",
     "date": "02-20-2026",
-    "time": "3:00pm",
+    "time": "5:45pm",
     "forecast": "",
-    "previous": "737K",
+    "previous": "",
     "actual": null
   },
   {
@@ -1469,6 +1480,17 @@
     "impact": "Low",
     "date": "02-20-2026",
     "time": "5:45pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Musalem Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "02-20-2026",
+    "time": "8:30pm",
     "forecast": "",
     "previous": "",
     "actual": null
