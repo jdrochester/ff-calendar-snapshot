@@ -440,17 +440,6 @@
     "actual": null
   },
   {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "02-25-2026",
-    "time": "7:02am",
-    "forecast": "",
-    "previous": "-9.5%",
-    "actual": null
-  },
-  {
     "title": "RBA Gov Bullock Speaks",
     "country": "AUD",
     "currency": null,
@@ -594,17 +583,6 @@
     "actual": null
   },
   {
-    "title": "NAB Quarterly Business Confidence",
-    "country": "AUD",
-    "currency": null,
-    "impact": "Low",
-    "date": "02-26-2026",
-    "time": "4:59am",
-    "forecast": "",
-    "previous": "2",
-    "actual": null
-  },
-  {
     "title": "ECB President Lagarde Speaks",
     "country": "EUR",
     "currency": null,
@@ -646,6 +624,17 @@
     "time": "9:00am",
     "forecast": "",
     "previous": "",
+    "actual": null
+  },
+  {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "02-26-2026",
+    "time": "10:02am",
+    "forecast": "",
+    "previous": "-9.5%",
     "actual": null
   },
   {
@@ -756,6 +745,17 @@
     "time": "12:30am",
     "forecast": "0.7%",
     "previous": "0.8%",
+    "actual": null
+  },
+  {
+    "title": "NAB Quarterly Business Confidence",
+    "country": "AUD",
+    "currency": null,
+    "impact": "Low",
+    "date": "02-27-2026",
+    "time": "4:59am",
+    "forecast": "",
+    "previous": "2",
     "actual": null
   },
   {
