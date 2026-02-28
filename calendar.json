@@ -781,17 +781,6 @@
     "actual": null
   },
   {
-    "title": "French Final Private Payrolls q/q",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "02-27-2026",
-    "time": "7:45am",
-    "forecast": "-0.1%",
-    "previous": "-0.1%",
-    "actual": null
-  },
-  {
     "title": "French Prelim CPI m/m",
     "country": "EUR",
     "currency": null,
@@ -811,6 +800,17 @@
     "time": "7:45am",
     "forecast": "0.2%",
     "previous": "0.2%",
+    "actual": null
+  },
+  {
+    "title": "French Final Private Payrolls q/q",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "02-27-2026",
+    "time": "7:48am",
+    "forecast": "-0.1%",
+    "previous": "-0.1%",
     "actual": null
   },
   {
@@ -855,17 +855,6 @@
     "time": "8:55am",
     "forecast": "2K",
     "previous": "0K",
-    "actual": null
-  },
-  {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "02-27-2026",
-    "time": "10:02am",
-    "forecast": "",
-    "previous": "-9.5%",
     "actual": null
   },
   {
@@ -929,9 +918,9 @@
     "currency": null,
     "impact": "Low",
     "date": "02-27-2026",
-    "time": "3:00pm",
-    "forecast": "0.2%",
-    "previous": "",
+    "time": "2:59pm",
+    "forecast": "",
+    "previous": "0.5%",
     "actual": null
   },
   {
@@ -941,8 +930,8 @@
     "impact": "Low",
     "date": "02-27-2026",
     "time": "3:00pm",
-    "forecast": "",
-    "previous": "0.5%",
+    "forecast": "0.2%",
+    "previous": "-0.2%",
     "actual": null
   }
 ]
