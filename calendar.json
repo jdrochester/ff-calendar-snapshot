@@ -209,17 +209,6 @@
     "actual": null
   },
   {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "03-02-2026",
-    "time": "10:02am",
-    "forecast": "",
-    "previous": "-9.5%",
-    "actual": null
-  },
-  {
     "title": "RBA Assist Gov Hunter Speaks",
     "country": "AUD",
     "currency": null,
@@ -330,6 +319,17 @@
     "actual": null
   },
   {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "03-02-2026",
+    "time": "4:00pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "RBA Gov Bullock Speaks",
     "country": "AUD",
     "currency": null,
@@ -369,7 +369,7 @@
     "impact": "Low",
     "date": "03-02-2026",
     "time": "11:50pm",
-    "forecast": "3.1%",
+    "forecast": "3.0%",
     "previous": "2.9%",
     "actual": null
   },
@@ -380,7 +380,7 @@
     "impact": "Low",
     "date": "03-02-2026",
     "time": "11:50pm",
-    "forecast": "-10.2%",
+    "forecast": "-9.8%",
     "previous": "-9.5%",
     "actual": null
   },
@@ -402,7 +402,7 @@
     "impact": "Low",
     "date": "03-03-2026",
     "time": "12:30am",
-    "forecast": "5.7%",
+    "forecast": "5.4%",
     "previous": "-14.9%",
     "actual": null
   },
@@ -413,7 +413,7 @@
     "impact": "Low",
     "date": "03-03-2026",
     "time": "12:30am",
-    "forecast": "-16.5B",
+    "forecast": "-16.8B",
     "previous": "-16.6B",
     "actual": null
   },
@@ -457,7 +457,7 @@
     "impact": "Low",
     "date": "03-03-2026",
     "time": "8:00am",
-    "forecast": "37.5K",
+    "forecast": "26.7K",
     "previous": "30.4K",
     "actual": null
   },
@@ -534,7 +534,7 @@
     "impact": "Low",
     "date": "03-03-2026",
     "time": "3:15pm",
-    "forecast": "15.2B",
+    "forecast": "15.4B",
     "previous": "14.9M",
     "actual": null
   },
@@ -578,7 +578,7 @@
     "impact": "Low",
     "date": "03-03-2026",
     "time": "9:45pm",
-    "forecast": "-0.2%",
+    "forecast": "-0.1%",
     "previous": "-2.1%",
     "actual": null
   },
@@ -611,7 +611,7 @@
     "impact": "Low",
     "date": "03-04-2026",
     "time": "1:30am",
-    "forecast": "49.1",
+    "forecast": "49.2",
     "previous": "49.3",
     "actual": null
   },
@@ -633,7 +633,7 @@
     "impact": "Low",
     "date": "03-04-2026",
     "time": "1:45am",
-    "forecast": "50.0",
+    "forecast": "50.1",
     "previous": "50.3",
     "actual": null
   },
@@ -644,7 +644,7 @@
     "impact": "Low",
     "date": "03-04-2026",
     "time": "1:45am",
-    "forecast": "52.4",
+    "forecast": "52.3",
     "previous": "52.3",
     "actual": null
   },
@@ -655,7 +655,7 @@
     "impact": "Low",
     "date": "03-04-2026",
     "time": "5:00am",
-    "forecast": "38.1",
+    "forecast": "38.2",
     "previous": "37.9",
     "actual": null
   },
@@ -688,7 +688,7 @@
     "impact": "Low",
     "date": "03-04-2026",
     "time": "8:45am",
-    "forecast": "52.5",
+    "forecast": "52.6",
     "previous": "52.9",
     "actual": null
   },
@@ -787,7 +787,7 @@
     "impact": "High",
     "date": "03-04-2026",
     "time": "1:15pm",
-    "forecast": "49K",
+    "forecast": "50K",
     "previous": "22K",
     "actual": null
   },
@@ -809,7 +809,7 @@
     "impact": "Low",
     "date": "03-04-2026",
     "time": "2:45pm",
-    "forecast": "52.3",
+    "forecast": "52.4",
     "previous": "52.3",
     "actual": null
   },
@@ -864,7 +864,7 @@
     "impact": "Low",
     "date": "03-05-2026",
     "time": "12:30am",
-    "forecast": "3.89B",
+    "forecast": "3.79B",
     "previous": "3.37B",
     "actual": null
   },
@@ -930,7 +930,7 @@
     "impact": "Low",
     "date": "03-05-2026",
     "time": "9:00am",
-    "forecast": "0.2%",
+    "forecast": "-0.1%",
     "previous": "-0.8%",
     "actual": null
   },
@@ -963,7 +963,7 @@
     "impact": "Low",
     "date": "03-05-2026",
     "time": "10:00am",
-    "forecast": "0.2%",
+    "forecast": "0.3%",
     "previous": "-0.5%",
     "actual": null
   },
@@ -1018,7 +1018,7 @@
     "impact": "Low",
     "date": "03-05-2026",
     "time": "1:30pm",
-    "forecast": "0.2%",
+    "forecast": "0.3%",
     "previous": "0.1%",
     "actual": null
   },
@@ -1029,7 +1029,7 @@
     "impact": "Low",
     "date": "03-05-2026",
     "time": "1:30pm",
-    "forecast": "1.7%",
+    "forecast": "1.9%",
     "previous": "4.9%",
     "actual": null
   },
@@ -1040,7 +1040,7 @@
     "impact": "Low",
     "date": "03-05-2026",
     "time": "1:30pm",
-    "forecast": "2.1%",
+    "forecast": "2.0%",
     "previous": "-1.9%",
     "actual": null
   },
@@ -1073,7 +1073,7 @@
     "impact": "Low",
     "date": "03-06-2026",
     "time": "7:00am",
-    "forecast": "-3.8%",
+    "forecast": "-3.9%",
     "previous": "7.8%",
     "actual": null
   },
@@ -1150,7 +1150,7 @@
     "impact": "High",
     "date": "03-06-2026",
     "time": "1:30pm",
-    "forecast": "58K",
+    "forecast": "59K",
     "previous": "130K",
     "actual": null
   },
@@ -1194,7 +1194,7 @@
     "impact": "Low",
     "date": "03-06-2026",
     "time": "3:00pm",
-    "forecast": "0.2%",
+    "forecast": "0.1%",
     "previous": "0.1%",
     "actual": null
   },
@@ -1249,7 +1249,7 @@
     "impact": "Low",
     "date": "03-06-2026",
     "time": "8:00pm",
-    "forecast": "13.3B",
+    "forecast": "12.4B",
     "previous": "24.0B",
     "actual": null
   }
