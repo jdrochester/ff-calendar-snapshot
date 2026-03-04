@@ -506,6 +506,17 @@
     "actual": null
   },
   {
+    "title": "FOMC Member Bowman Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-03-2026",
+    "time": "1:30pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "FOMC Member Williams Speaks",
     "country": "USD",
     "currency": null,
@@ -522,9 +533,20 @@
     "currency": null,
     "impact": "Low",
     "date": "03-03-2026",
-    "time": "3:10pm",
+    "time": "3:01pm",
     "forecast": "50.1",
     "previous": "48.8",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Schmid Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-03-2026",
+    "time": "3:10pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -534,7 +556,7 @@
     "impact": "Low",
     "date": "03-03-2026",
     "time": "3:15pm",
-    "forecast": "15.4B",
+    "forecast": "15.4M",
     "previous": "14.9M",
     "actual": null
   },
@@ -544,7 +566,7 @@
     "currency": null,
     "impact": "Low",
     "date": "03-03-2026",
-    "time": "3:50pm",
+    "time": "3:26pm",
     "forecast": "",
     "previous": "3.6%",
     "actual": null
@@ -842,7 +864,7 @@
     "impact": "Low",
     "date": "03-04-2026",
     "time": "3:30pm",
-    "forecast": "",
+    "forecast": "3.0M",
     "previous": "16.0M",
     "actual": null
   },
@@ -864,7 +886,7 @@
     "impact": "Low",
     "date": "03-05-2026",
     "time": "12:30am",
-    "forecast": "3.79B",
+    "forecast": "3.78B",
     "previous": "3.37B",
     "actual": null
   },
@@ -941,7 +963,7 @@
     "impact": "Low",
     "date": "03-05-2026",
     "time": "9:30am",
-    "forecast": "47.1",
+    "forecast": "47.0",
     "previous": "46.4",
     "actual": null
   },
@@ -1051,7 +1073,7 @@
     "impact": "Low",
     "date": "03-05-2026",
     "time": "3:30pm",
-    "forecast": "",
+    "forecast": "-122B",
     "previous": "-52B",
     "actual": null
   },
@@ -1067,13 +1089,35 @@
     "actual": null
   },
   {
+    "title": "FOMC Member Bowman Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-05-2026",
+    "time": "6:00pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Goolsbee Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-06-2026",
+    "time": "12:00am",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "German Factory Orders m/m",
     "country": "EUR",
     "currency": null,
     "impact": "Low",
     "date": "03-06-2026",
     "time": "7:00am",
-    "forecast": "-3.9%",
+    "forecast": "-4.1%",
     "previous": "7.8%",
     "actual": null
   },
@@ -1084,7 +1128,7 @@
     "impact": "Low",
     "date": "03-06-2026",
     "time": "7:00am",
-    "forecast": "0.4%",
+    "forecast": "0.3%",
     "previous": "0.7%",
     "actual": null
   },
@@ -1139,7 +1183,7 @@
     "impact": "High",
     "date": "03-06-2026",
     "time": "1:30pm",
-    "forecast": "0.0%",
+    "forecast": "0.1%",
     "previous": "0.0%",
     "actual": null
   },
@@ -1150,7 +1194,7 @@
     "impact": "High",
     "date": "03-06-2026",
     "time": "1:30pm",
-    "forecast": "59K",
+    "forecast": "58K",
     "previous": "130K",
     "actual": null
   },
@@ -1183,7 +1227,7 @@
     "impact": "Medium",
     "date": "03-06-2026",
     "time": "3:00pm",
-    "forecast": "51.2",
+    "forecast": "51.1",
     "previous": "50.9",
     "actual": null
   },
@@ -1216,6 +1260,17 @@
     "impact": "Low",
     "date": "03-06-2026",
     "time": "3:15pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Collins Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-06-2026",
+    "time": "6:20pm",
     "forecast": "",
     "previous": "",
     "actual": null
