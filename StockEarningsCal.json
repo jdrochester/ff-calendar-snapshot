@@ -1,11 +1,5 @@
 [
   {
-    "ticker": "AVGO",
-    "date": "2026-03-04",
-    "time": "time-after-hours",
-    "eps_estimate": "$1.67"
-  },
-  {
     "ticker": "JPM",
     "date": "2026-04-10",
     "time": "time-not-supplied",
