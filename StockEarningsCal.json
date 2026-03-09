@@ -4,5 +4,11 @@
     "date": "2026-04-10",
     "time": "time-not-supplied",
     "eps_estimate": "$5.42"
+  },
+  {
+    "ticker": "GOOGL",
+    "date": "2026-04-23",
+    "time": "time-not-supplied",
+    "eps_estimate": "$2.76"
   }
 ]
