@@ -154,6 +154,17 @@
     "actual": null
   },
   {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "03-09-2026",
+    "time": "9:30pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "Westpac Consumer Sentiment",
     "country": "AUD",
     "currency": null,
@@ -171,7 +182,7 @@
     "impact": "Low",
     "date": "03-09-2026",
     "time": "11:30pm",
-    "forecast": "2.3%",
+    "forecast": "2.4%",
     "previous": "-2.6%",
     "actual": null
   },
@@ -215,7 +226,7 @@
     "impact": "Low",
     "date": "03-10-2026",
     "time": "12:01am",
-    "forecast": "2.1%",
+    "forecast": "2.0%",
     "previous": "2.3%",
     "actual": null
   },
@@ -231,25 +242,25 @@
     "actual": null
   },
   {
-    "title": "Trade Balance",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "03-10-2026",
-    "time": "3:03am",
-    "forecast": "950B",
-    "previous": "809B",
-    "actual": null
-  },
-  {
     "title": "USD-Denominated Trade Balance",
     "country": "CNY",
     "currency": null,
     "impact": "Low",
     "date": "03-10-2026",
-    "time": "3:04am",
-    "forecast": "175.0B",
+    "time": "3:01am",
+    "forecast": "177.4B",
     "previous": "114.1B",
+    "actual": null
+  },
+  {
+    "title": "Trade Balance",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-10-2026",
+    "time": "3:02am",
+    "forecast": "1250B",
+    "previous": "809B",
     "actual": null
   },
   {
@@ -270,7 +281,7 @@
     "impact": "Low",
     "date": "03-10-2026",
     "time": "7:00am",
-    "forecast": "15.6B",
+    "forecast": "15.4B",
     "previous": "17.1B",
     "actual": null
   },
@@ -281,7 +292,7 @@
     "impact": "Low",
     "date": "03-10-2026",
     "time": "7:45am",
-    "forecast": "-4.6B",
+    "forecast": "-5.2B",
     "previous": "-4.8B",
     "actual": null
   },
@@ -303,7 +314,7 @@
     "impact": "Low",
     "date": "03-10-2026",
     "time": "8:03am",
-    "forecast": "890B",
+    "forecast": "865B",
     "previous": "4710B",
     "actual": null
   },
@@ -325,7 +336,7 @@
     "impact": "Low",
     "date": "03-10-2026",
     "time": "10:00am",
-    "forecast": "99.8",
+    "forecast": "99.6",
     "previous": "99.3",
     "actual": null
   },
@@ -435,7 +446,7 @@
     "impact": "High",
     "date": "03-11-2026",
     "time": "12:30pm",
-    "forecast": "2.5%",
+    "forecast": "2.4%",
     "previous": "2.4%",
     "actual": null
   },
@@ -479,7 +490,7 @@
     "impact": "Low",
     "date": "03-11-2026",
     "time": "6:00pm",
-    "forecast": "",
+    "forecast": "-304.4B",
     "previous": "-94.6B",
     "actual": null
   },
@@ -501,7 +512,7 @@
     "impact": "Low",
     "date": "03-11-2026",
     "time": "11:50pm",
-    "forecast": "5.5",
+    "forecast": "5.3",
     "previous": "4.7",
     "actual": null
   },
@@ -523,7 +534,7 @@
     "impact": "Low",
     "date": "03-12-2026",
     "time": "12:01am",
-    "forecast": "-9%",
+    "forecast": "-8%",
     "previous": "-10%",
     "actual": null
   },
@@ -542,20 +553,9 @@
     "title": "BOE Gov Bailey Speaks",
     "country": "GBP",
     "currency": null,
-    "impact": "High",
+    "impact": "Medium",
     "date": "03-12-2026",
     "time": "9:30am",
-    "forecast": "",
-    "previous": "",
-    "actual": null
-  },
-  {
-    "title": "Italian 10-y Bond Auction",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "03-12-2026",
-    "time": "10:33am",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -567,7 +567,7 @@
     "impact": "Low",
     "date": "03-12-2026",
     "time": "12:30pm",
-    "forecast": "-0.6%",
+    "forecast": "-2.0%",
     "previous": "6.8%",
     "actual": null
   },
@@ -578,7 +578,7 @@
     "impact": "Low",
     "date": "03-12-2026",
     "time": "12:30pm",
-    "forecast": "-1.2B",
+    "forecast": "-1.1B",
     "previous": "-1.3B",
     "actual": null
   },
@@ -600,7 +600,7 @@
     "impact": "High",
     "date": "03-12-2026",
     "time": "12:30pm",
-    "forecast": "216K",
+    "forecast": "214K",
     "previous": "213K",
     "actual": null
   },
@@ -633,7 +633,7 @@
     "impact": "Low",
     "date": "03-12-2026",
     "time": "12:30pm",
-    "forecast": "-66.1B",
+    "forecast": "-66.6B",
     "previous": "-70.3B",
     "actual": null
   },
@@ -721,7 +721,7 @@
     "impact": "Low",
     "date": "03-13-2026",
     "time": "7:00am",
-    "forecast": "0.4%",
+    "forecast": "0.2%",
     "previous": "0.9%",
     "actual": null
   },
@@ -754,7 +754,7 @@
     "impact": "Low",
     "date": "03-13-2026",
     "time": "7:00am",
-    "forecast": "-22.1B",
+    "forecast": "-22.2B",
     "previous": "-22.7B",
     "actual": null
   },
@@ -787,7 +787,7 @@
     "impact": "Low",
     "date": "03-13-2026",
     "time": "7:00am",
-    "forecast": "0.3%",
+    "forecast": "0.2%",
     "previous": "-0.5%",
     "actual": null
   },
@@ -831,7 +831,7 @@
     "impact": "Low",
     "date": "03-13-2026",
     "time": "10:00am",
-    "forecast": "0.5%",
+    "forecast": "0.6%",
     "previous": "-1.4%",
     "actual": null
   },
@@ -842,7 +842,7 @@
     "impact": "High",
     "date": "03-13-2026",
     "time": "12:30pm",
-    "forecast": "11.1K",
+    "forecast": "10.2K",
     "previous": "-24.8K",
     "actual": null
   },
@@ -875,7 +875,7 @@
     "impact": "Low",
     "date": "03-13-2026",
     "time": "12:30pm",
-    "forecast": "-3.2%",
+    "forecast": "-3.3%",
     "previous": "0.6%",
     "actual": null
   },
@@ -897,7 +897,7 @@
     "impact": "High",
     "date": "03-13-2026",
     "time": "12:30pm",
-    "forecast": "1.4%",
+    "forecast": "1.5%",
     "previous": "1.4%",
     "actual": null
   },
@@ -908,7 +908,7 @@
     "impact": "Medium",
     "date": "03-13-2026",
     "time": "12:30pm",
-    "forecast": "0.4%",
+    "forecast": "0.5%",
     "previous": "0.9%",
     "actual": null
   },
@@ -919,7 +919,7 @@
     "impact": "Medium",
     "date": "03-13-2026",
     "time": "12:30pm",
-    "forecast": "0.5%",
+    "forecast": "1.2%",
     "previous": "-1.4%",
     "actual": null
   },
@@ -941,7 +941,7 @@
     "impact": "Low",
     "date": "03-13-2026",
     "time": "12:30pm",
-    "forecast": "0.4%",
+    "forecast": "0.5%",
     "previous": "0.3%",
     "actual": null
   },
@@ -963,7 +963,7 @@
     "impact": "High",
     "date": "03-13-2026",
     "time": "2:00pm",
-    "forecast": "6.84M",
+    "forecast": "6.79M",
     "previous": "6.54M",
     "actual": null
   },
@@ -974,7 +974,7 @@
     "impact": "Medium",
     "date": "03-13-2026",
     "time": "2:00pm",
-    "forecast": "55.9",
+    "forecast": "54.9",
     "previous": "57.3",
     "actual": null
   },
