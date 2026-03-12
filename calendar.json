@@ -374,28 +374,6 @@
     "actual": null
   },
   {
-    "title": "M2 Money Supply y/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "03-11-2026",
-    "time": "8:03am",
-    "forecast": "8.9%",
-    "previous": "9.0%",
-    "actual": null
-  },
-  {
-    "title": "New Loans",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "03-11-2026",
-    "time": "8:03am",
-    "forecast": "865B",
-    "previous": "4710B",
-    "actual": null
-  },
-  {
     "title": "MPC Member Breeden Speaks",
     "country": "GBP",
     "currency": null,
@@ -412,7 +390,7 @@
     "currency": null,
     "impact": "Low",
     "date": "03-11-2026",
-    "time": "10:42am",
+    "time": "10:33am",
     "forecast": "",
     "previous": "2.73|1.5",
     "actual": null
@@ -492,6 +470,17 @@
     "time": "6:00pm",
     "forecast": "-304.4B",
     "previous": "-94.6B",
+    "actual": null
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "03-11-2026",
+    "time": "8:25pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -803,6 +792,28 @@
     "actual": null
   },
   {
+    "title": "M2 Money Supply y/y",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-13-2026",
+    "time": "8:03am",
+    "forecast": "8.9%",
+    "previous": "9.0%",
+    "actual": null
+  },
+  {
+    "title": "New Loans",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-13-2026",
+    "time": "8:03am",
+    "forecast": "865B",
+    "previous": "4710B",
+    "actual": null
+  },
+  {
     "title": "Italian Industrial Production m/m",
     "country": "EUR",
     "currency": null,
@@ -897,7 +908,7 @@
     "impact": "High",
     "date": "03-13-2026",
     "time": "12:30pm",
-    "forecast": "1.5%",
+    "forecast": "1.4%",
     "previous": "1.4%",
     "actual": null
   },
