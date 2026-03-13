@@ -605,6 +605,17 @@
     "actual": null
   },
   {
+    "title": "Goods Trade Balance",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-12-2026",
+    "time": "12:30pm",
+    "forecast": "",
+    "previous": "-98.5B",
+    "actual": null
+  },
+  {
     "title": "Housing Starts",
     "country": "USD",
     "currency": null,
@@ -690,17 +701,6 @@
     "time": "9:45pm",
     "forecast": "",
     "previous": "1.7%",
-    "actual": null
-  },
-  {
-    "title": "NAB Quarterly Business Confidence",
-    "country": "AUD",
-    "currency": null,
-    "impact": "Low",
-    "date": "03-13-2026",
-    "time": "3:59am",
-    "forecast": "",
-    "previous": "2",
     "actual": null
   },
   {
