@@ -792,12 +792,23 @@
     "actual": null
   },
   {
+    "title": "Italian Industrial Production m/m",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-13-2026",
+    "time": "9:00am",
+    "forecast": "0.4%",
+    "previous": "-0.4%",
+    "actual": null
+  },
+  {
     "title": "M2 Money Supply y/y",
     "country": "CNY",
     "currency": null,
     "impact": "Low",
     "date": "03-13-2026",
-    "time": "8:03am",
+    "time": "9:02am",
     "forecast": "8.9%",
     "previous": "9.0%",
     "actual": null
@@ -808,20 +819,9 @@
     "currency": null,
     "impact": "Low",
     "date": "03-13-2026",
-    "time": "8:03am",
+    "time": "9:03am",
     "forecast": "865B",
     "previous": "4710B",
-    "actual": null
-  },
-  {
-    "title": "Italian Industrial Production m/m",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "03-13-2026",
-    "time": "9:00am",
-    "forecast": "0.4%",
-    "previous": "-0.4%",
     "actual": null
   },
   {
