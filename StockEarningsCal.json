@@ -10,5 +10,11 @@
     "date": "2026-04-23",
     "time": "time-not-supplied",
     "eps_estimate": "$2.76"
+  },
+  {
+    "ticker": "TSLA",
+    "date": "2026-04-28",
+    "time": "time-not-supplied",
+    "eps_estimate": "$0.24"
   }
 ]
