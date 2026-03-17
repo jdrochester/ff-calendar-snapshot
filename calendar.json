@@ -143,17 +143,6 @@
     "actual": null
   },
   {
-    "title": "Core CPI m/m",
-    "country": "CAD",
-    "currency": null,
-    "impact": "Low",
-    "date": "03-16-2026",
-    "time": "12:30pm",
-    "forecast": "",
-    "previous": "0.2%",
-    "actual": null
-  },
-  {
     "title": "Empire State Manufacturing Index",
     "country": "USD",
     "currency": null,
@@ -162,6 +151,17 @@
     "time": "12:30pm",
     "forecast": "4.0",
     "previous": "7.1",
+    "actual": null
+  },
+  {
+    "title": "Core CPI m/m",
+    "country": "CAD",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-16-2026",
+    "time": "12:32pm",
+    "forecast": "",
+    "previous": "0.2%",
     "actual": null
   },
   {
@@ -198,6 +198,17 @@
     "actual": null
   },
   {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "03-16-2026",
+    "time": "3:30pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "FPI m/m",
     "country": "NZD",
     "currency": null,
@@ -205,7 +216,7 @@
     "date": "03-16-2026",
     "time": "9:45pm",
     "forecast": "",
-    "previous": "2.5%",
+    "previous": "2.1%",
     "actual": null
   },
   {
@@ -231,17 +242,6 @@
     "actual": null
   },
   {
-    "title": "NAB Quarterly Business Confidence",
-    "country": "AUD",
-    "currency": null,
-    "impact": "Low",
-    "date": "03-17-2026",
-    "time": "3:59am",
-    "forecast": "",
-    "previous": "2",
-    "actual": null
-  },
-  {
     "title": "RBA Press Conference",
     "country": "AUD",
     "currency": null,
@@ -259,7 +259,7 @@
     "impact": "Low",
     "date": "03-17-2026",
     "time": "4:30am",
-    "forecast": "0.8%",
+    "forecast": "0.9%",
     "previous": "-0.5%",
     "actual": null
   },
@@ -281,7 +281,7 @@
     "impact": "Low",
     "date": "03-17-2026",
     "time": "10:00am",
-    "forecast": "38.9",
+    "forecast": "39.0",
     "previous": "58.3",
     "actual": null
   },
@@ -292,7 +292,7 @@
     "impact": "Low",
     "date": "03-17-2026",
     "time": "10:00am",
-    "forecast": "24.0",
+    "forecast": "26.5",
     "previous": "39.4",
     "actual": null
   },
@@ -314,19 +314,8 @@
     "impact": "Medium",
     "date": "03-17-2026",
     "time": "2:00pm",
-    "forecast": "-1.2%",
+    "forecast": "-0.6%",
     "previous": "-0.8%",
-    "actual": null
-  },
-  {
-    "title": "CB Leading Index m/m",
-    "country": "USD",
-    "currency": null,
-    "impact": "Low",
-    "date": "03-17-2026",
-    "time": "2:00pm",
-    "forecast": "",
-    "previous": "-0.2%",
     "actual": null
   },
   {
@@ -380,7 +369,7 @@
     "impact": "Low",
     "date": "03-17-2026",
     "time": "9:45pm",
-    "forecast": "-4.75B",
+    "forecast": "-4.78B",
     "previous": "-8.37B",
     "actual": null
   },
@@ -457,7 +446,7 @@
     "impact": "Low",
     "date": "03-18-2026",
     "time": "12:30pm",
-    "forecast": "",
+    "forecast": "4.72B",
     "previous": "-5.57B",
     "actual": null
   },
@@ -512,7 +501,7 @@
     "impact": "Low",
     "date": "03-18-2026",
     "time": "2:00pm",
-    "forecast": "0.4%",
+    "forecast": "0.1%",
     "previous": "-0.7%",
     "actual": null
   },
@@ -534,7 +523,7 @@
     "impact": "Low",
     "date": "03-18-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "0.4M",
     "previous": "3.8M",
     "actual": null
   },
@@ -601,7 +590,7 @@
     "date": "03-18-2026",
     "time": "8:00pm",
     "forecast": "",
-    "previous": "",
+    "previous": "96.5",
     "actual": null
   },
   {
@@ -622,7 +611,7 @@
     "impact": "Low",
     "date": "03-18-2026",
     "time": "11:50pm",
-    "forecast": "-9.5%",
+    "forecast": "-9.6%",
     "previous": "19.1%",
     "actual": null
   },
@@ -633,7 +622,7 @@
     "impact": "High",
     "date": "03-19-2026",
     "time": "12:30am",
-    "forecast": "20.3K",
+    "forecast": "20.8K",
     "previous": "17.8K",
     "actual": null
   },
@@ -682,6 +671,17 @@
     "actual": null
   },
   {
+    "title": "NAB Quarterly Business Confidence",
+    "country": "AUD",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-19-2026",
+    "time": "3:59am",
+    "forecast": "",
+    "previous": "2",
+    "actual": null
+  },
+  {
     "title": "Revised Industrial Production m/m",
     "country": "JPY",
     "currency": null,
@@ -710,7 +710,7 @@
     "impact": "High",
     "date": "03-19-2026",
     "time": "7:00am",
-    "forecast": "24.5K",
+    "forecast": "25.8K",
     "previous": "28.6K",
     "actual": null
   },
@@ -788,6 +788,17 @@
     "date": "03-19-2026",
     "time": "9:03am",
     "forecast": "",
+    "previous": "3.17|2.5",
+    "actual": null
+  },
+  {
+    "title": "Euro Summit",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-19-2026",
+    "time": "9:15am",
+    "forecast": "",
     "previous": "",
     "actual": null
   },
@@ -809,7 +820,7 @@
     "impact": "High",
     "date": "03-19-2026",
     "time": "12:00pm",
-    "forecast": "0-3-6",
+    "forecast": "0-2-7",
     "previous": "0-4-5",
     "actual": null
   },
@@ -853,7 +864,7 @@
     "impact": "Medium",
     "date": "03-19-2026",
     "time": "12:30pm",
-    "forecast": "17.5",
+    "forecast": "8.5",
     "previous": "16.3",
     "actual": null
   },
@@ -897,8 +908,19 @@
     "impact": "Medium",
     "date": "03-19-2026",
     "time": "2:00pm",
-    "forecast": "723K",
+    "forecast": "722K",
     "previous": "745K",
+    "actual": null
+  },
+  {
+    "title": "CB Leading Index m/m",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-19-2026",
+    "time": "2:00pm",
+    "forecast": "-0.1%",
+    "previous": "-0.2%",
     "actual": null
   },
   {
@@ -930,7 +952,7 @@
     "impact": "Low",
     "date": "03-19-2026",
     "time": "9:45pm",
-    "forecast": "-470M",
+    "forecast": "-740M",
     "previous": "-519M",
     "actual": null
   },
@@ -1040,19 +1062,8 @@
     "impact": "Low",
     "date": "03-20-2026",
     "time": "11:00am",
-    "forecast": "-29",
+    "forecast": "-30",
     "previous": "-28",
-    "actual": null
-  },
-  {
-    "title": "Euro Summit",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "03-20-2026",
-    "time": "11:15am",
-    "forecast": "",
-    "previous": "",
     "actual": null
   },
   {
@@ -1084,7 +1095,7 @@
     "impact": "Low",
     "date": "03-20-2026",
     "time": "12:30pm",
-    "forecast": "0.6%",
+    "forecast": "1.1%",
     "previous": "2.7%",
     "actual": null
   },
@@ -1095,7 +1106,7 @@
     "impact": "Low",
     "date": "03-20-2026",
     "time": "12:30pm",
-    "forecast": "-0.3%",
+    "forecast": "-0.2%",
     "previous": "-0.4%",
     "actual": null
   },
@@ -1106,7 +1117,7 @@
     "impact": "Low",
     "date": "03-20-2026",
     "time": "12:30pm",
-    "forecast": "0.8%",
+    "forecast": "2.4%",
     "previous": "7.7%",
     "actual": null
   },
@@ -1116,6 +1127,17 @@
     "currency": null,
     "impact": "Low",
     "date": "03-20-2026",
+    "time": "5:30pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "Fed Chair Powell Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "High",
+    "date": "03-21-2026",
     "time": "5:30pm",
     "forecast": "",
     "previous": "",
