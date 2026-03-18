@@ -324,20 +324,9 @@
     "currency": null,
     "impact": "Low",
     "date": "03-17-2026",
-    "time": "2:30pm",
+    "time": "2:25pm",
     "forecast": "",
     "previous": "0.3%",
-    "actual": null
-  },
-  {
-    "title": "GDT Price Index",
-    "country": "NZD",
-    "currency": null,
-    "impact": "Low",
-    "date": "03-17-2026",
-    "time": "2:50pm",
-    "forecast": "",
-    "previous": "5.7%",
     "actual": null
   },
   {
@@ -349,6 +338,28 @@
     "time": "3:15pm",
     "forecast": "",
     "previous": "",
+    "actual": null
+  },
+  {
+    "title": "GDT Price Index",
+    "country": "NZD",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-17-2026",
+    "time": "3:18pm",
+    "forecast": "",
+    "previous": "5.7%",
+    "actual": null
+  },
+  {
+    "title": "Westpac Consumer Sentiment",
+    "country": "NZD",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-17-2026",
+    "time": "7:05pm",
+    "forecast": "",
+    "previous": "96.5",
     "actual": null
   },
   {
@@ -391,7 +402,7 @@
     "impact": "Low",
     "date": "03-17-2026",
     "time": "11:50pm",
-    "forecast": "-0.63T",
+    "forecast": "-0.62T",
     "previous": "0.46T",
     "actual": null
   },
@@ -523,7 +534,7 @@
     "impact": "Low",
     "date": "03-18-2026",
     "time": "2:30pm",
-    "forecast": "0.4M",
+    "forecast": "-1.5M",
     "previous": "3.8M",
     "actual": null
   },
@@ -583,24 +594,13 @@
     "actual": null
   },
   {
-    "title": "Westpac Consumer Sentiment",
-    "country": "NZD",
-    "currency": null,
-    "impact": "Low",
-    "date": "03-18-2026",
-    "time": "8:00pm",
-    "forecast": "",
-    "previous": "96.5",
-    "actual": null
-  },
-  {
     "title": "GDP q/q",
     "country": "NZD",
     "currency": null,
     "impact": "High",
     "date": "03-18-2026",
     "time": "9:45pm",
-    "forecast": "0.4%",
+    "forecast": "0.5%",
     "previous": "1.1%",
     "actual": null
   },
@@ -668,17 +668,6 @@
     "time": "2:30am",
     "forecast": "",
     "previous": "",
-    "actual": null
-  },
-  {
-    "title": "NAB Quarterly Business Confidence",
-    "country": "AUD",
-    "currency": null,
-    "impact": "Low",
-    "date": "03-19-2026",
-    "time": "3:59am",
-    "forecast": "",
-    "previous": "2",
     "actual": null
   },
   {
@@ -864,7 +853,7 @@
     "impact": "Medium",
     "date": "03-19-2026",
     "time": "12:30pm",
-    "forecast": "8.5",
+    "forecast": "8.3",
     "previous": "16.3",
     "actual": null
   },
@@ -941,7 +930,7 @@
     "impact": "Low",
     "date": "03-19-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "39B",
     "previous": "-38B",
     "actual": null
   },
@@ -1136,7 +1125,7 @@
     "title": "Fed Chair Powell Speaks",
     "country": "USD",
     "currency": null,
-    "impact": "High",
+    "impact": "Medium",
     "date": "03-21-2026",
     "time": "5:30pm",
     "forecast": "",
