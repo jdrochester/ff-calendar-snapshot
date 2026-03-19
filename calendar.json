@@ -654,7 +654,7 @@
     "currency": null,
     "impact": "High",
     "date": "03-19-2026",
-    "time": "2:30am",
+    "time": "2:46am",
     "forecast": "<0.75%",
     "previous": "<0.75%",
     "actual": null
@@ -665,7 +665,7 @@
     "currency": null,
     "impact": "High",
     "date": "03-19-2026",
-    "time": "2:30am",
+    "time": "2:46am",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -723,17 +723,6 @@
     "time": "7:00am",
     "forecast": "5.3%",
     "previous": "5.2%",
-    "actual": null
-  },
-  {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "03-19-2026",
-    "time": "7:02am",
-    "forecast": "",
-    "previous": "-5.7%",
     "actual": null
   },
   {
@@ -1009,6 +998,17 @@
     "time": "7:00am",
     "forecast": "8.7B",
     "previous": "-30.4B",
+    "actual": null
+  },
+  {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-20-2026",
+    "time": "7:02am",
+    "forecast": "",
+    "previous": "-5.7%",
     "actual": null
   },
   {
