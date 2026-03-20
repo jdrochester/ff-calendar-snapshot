@@ -687,7 +687,7 @@
     "currency": null,
     "impact": "High",
     "date": "03-19-2026",
-    "time": "5:30am",
+    "time": "6:30am",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -759,17 +759,6 @@
     "actual": null
   },
   {
-    "title": "Spanish 10-y Bond Auction",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "03-19-2026",
-    "time": "9:03am",
-    "forecast": "",
-    "previous": "3.17|2.5",
-    "actual": null
-  },
-  {
     "title": "Euro Summit",
     "country": "EUR",
     "currency": null,
@@ -778,6 +767,17 @@
     "time": "9:15am",
     "forecast": "",
     "previous": "",
+    "actual": null
+  },
+  {
+    "title": "Spanish 10-y Bond Auction",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-19-2026",
+    "time": "9:44am",
+    "forecast": "",
+    "previous": "3.17|2.5",
     "actual": null
   },
   {
@@ -811,17 +811,6 @@
     "time": "12:00pm",
     "forecast": "3.75%",
     "previous": "3.75%",
-    "actual": null
-  },
-  {
-    "title": "BOE Inflation Letter",
-    "country": "GBP",
-    "currency": null,
-    "impact": "Low",
-    "date": "03-19-2026",
-    "time": "12:10pm",
-    "forecast": "",
-    "previous": "",
     "actual": null
   },
   {
