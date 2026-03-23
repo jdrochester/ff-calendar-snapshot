@@ -1,5 +1,16 @@
 [
   {
+    "title": "FOMC Member Miran Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-23-2026",
+    "time": "12:45pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "Construction Spending m/m",
     "country": "USD",
     "currency": null,
@@ -74,17 +85,6 @@
     "time": "12:30am",
     "forecast": "52.9",
     "previous": "52.8",
-    "actual": null
-  },
-  {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "03-24-2026",
-    "time": "7:02am",
-    "forecast": "",
-    "previous": "-5.7%",
     "actual": null
   },
   {
@@ -231,6 +231,17 @@
     "actual": null
   },
   {
+    "title": "MPC Member Pill Speaks",
+    "country": "GBP",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-24-2026",
+    "time": "1:25pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "Flash Manufacturing PMI",
     "country": "USD",
     "currency": null,
@@ -303,6 +314,17 @@
     "impact": "Low",
     "date": "03-24-2026",
     "time": "8:30pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Barr Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-24-2026",
+    "time": "10:30pm",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -539,6 +561,17 @@
     "actual": null
   },
   {
+    "title": "FOMC Member Miran Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-25-2026",
+    "time": "8:10pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "RBA Assist Gov Kent Speaks",
     "country": "AUD",
     "currency": null,
@@ -693,12 +726,45 @@
     "actual": null
   },
   {
+    "title": "FOMC Member Cook Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-26-2026",
+    "time": "8:00pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Miran Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-26-2026",
+    "time": "10:30pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "FOMC Member Jefferson Speaks",
     "country": "USD",
     "currency": null,
     "impact": "Low",
     "date": "03-26-2026",
     "time": "11:00pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Barr Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-26-2026",
+    "time": "11:10pm",
     "forecast": "",
     "previous": "",
     "actual": null
