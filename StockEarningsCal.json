@@ -34,5 +34,17 @@
     "date": "2026-05-01",
     "time": "time-not-supplied",
     "eps_estimate": "$4.76"
+  },
+  {
+    "ticker": "AAPL",
+    "date": "2026-05-07",
+    "time": "time-not-supplied",
+    "eps_estimate": "$1.88"
+  },
+  {
+    "ticker": "AMZN",
+    "date": "2026-05-07",
+    "time": "time-not-supplied",
+    "eps_estimate": "$1.69"
   }
 ]
