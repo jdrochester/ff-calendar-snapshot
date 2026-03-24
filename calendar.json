@@ -83,7 +83,7 @@
     "impact": "Low",
     "date": "03-24-2026",
     "time": "12:30am",
-    "forecast": "52.9",
+    "forecast": "53.2",
     "previous": "52.8",
     "actual": null
   },
@@ -94,7 +94,7 @@
     "impact": "Medium",
     "date": "03-24-2026",
     "time": "8:15am",
-    "forecast": "49.0",
+    "forecast": "49.4",
     "previous": "49.9",
     "actual": null
   },
@@ -116,7 +116,7 @@
     "impact": "High",
     "date": "03-24-2026",
     "time": "8:30am",
-    "forecast": "49.8",
+    "forecast": "49.6",
     "previous": "50.7",
     "actual": null
   },
@@ -138,7 +138,7 @@
     "impact": "Low",
     "date": "03-24-2026",
     "time": "9:00am",
-    "forecast": "49.5",
+    "forecast": "49.4",
     "previous": "50.8",
     "actual": null
   },
@@ -149,7 +149,7 @@
     "impact": "Low",
     "date": "03-24-2026",
     "time": "9:00am",
-    "forecast": "50.8",
+    "forecast": "51.1",
     "previous": "51.8",
     "actual": null
   },
@@ -160,7 +160,7 @@
     "impact": "High",
     "date": "03-24-2026",
     "time": "9:30am",
-    "forecast": "51.1",
+    "forecast": "50.0",
     "previous": "52.0",
     "actual": null
   },
@@ -171,7 +171,7 @@
     "impact": "High",
     "date": "03-24-2026",
     "time": "9:30am",
-    "forecast": "53.0",
+    "forecast": "52.8",
     "previous": "53.9",
     "actual": null
   },
@@ -193,7 +193,7 @@
     "impact": "Low",
     "date": "03-24-2026",
     "time": "11:00am",
-    "forecast": "-40",
+    "forecast": "-43",
     "previous": "-43",
     "actual": null
   },
@@ -215,7 +215,7 @@
     "impact": "Low",
     "date": "03-24-2026",
     "time": "12:30pm",
-    "forecast": "2.4%",
+    "forecast": "1.9%",
     "previous": "2.8%",
     "actual": null
   },
@@ -226,7 +226,7 @@
     "impact": "Low",
     "date": "03-24-2026",
     "time": "12:30pm",
-    "forecast": "3.4%",
+    "forecast": "3.6%",
     "previous": "2.8%",
     "actual": null
   },
@@ -248,7 +248,7 @@
     "impact": "High",
     "date": "03-24-2026",
     "time": "1:45pm",
-    "forecast": "",
+    "forecast": "51.5",
     "previous": "51.2",
     "actual": null
   },
@@ -259,7 +259,7 @@
     "impact": "High",
     "date": "03-24-2026",
     "time": "1:45pm",
-    "forecast": "",
+    "forecast": "52.0",
     "previous": "52.3",
     "actual": null
   },
@@ -270,7 +270,7 @@
     "impact": "Medium",
     "date": "03-24-2026",
     "time": "2:00pm",
-    "forecast": "-5",
+    "forecast": "-8",
     "previous": "-10",
     "actual": null
   },
@@ -347,7 +347,7 @@
     "impact": "High",
     "date": "03-25-2026",
     "time": "12:30am",
-    "forecast": "",
+    "forecast": "0.1%",
     "previous": "0.4%",
     "actual": null
   },
@@ -369,7 +369,7 @@
     "impact": "High",
     "date": "03-25-2026",
     "time": "12:30am",
-    "forecast": "",
+    "forecast": "0.3%",
     "previous": "0.3%",
     "actual": null
   },
@@ -468,7 +468,7 @@
     "impact": "Low",
     "date": "03-25-2026",
     "time": "9:00am",
-    "forecast": "86.3",
+    "forecast": "86.2",
     "previous": "88.6",
     "actual": null
   },
@@ -479,7 +479,7 @@
     "impact": "Low",
     "date": "03-25-2026",
     "time": "9:30am",
-    "forecast": "2.5%",
+    "forecast": "1.7%",
     "previous": "2.4%",
     "actual": null
   },
@@ -501,7 +501,7 @@
     "impact": "Low",
     "date": "03-25-2026",
     "time": "12:30pm",
-    "forecast": "",
+    "forecast": "-211B",
     "previous": "-226B",
     "actual": null
   },
@@ -512,7 +512,7 @@
     "impact": "Low",
     "date": "03-25-2026",
     "time": "12:30pm",
-    "forecast": "0.2%",
+    "forecast": "0.6%",
     "previous": "0.2%",
     "actual": null
   },
@@ -545,7 +545,7 @@
     "impact": "Low",
     "date": "03-25-2026",
     "time": "2:00pm",
-    "forecast": "-14.1",
+    "forecast": "-14.8",
     "previous": "-13.7",
     "actual": null
   },
@@ -556,7 +556,7 @@
     "impact": "Low",
     "date": "03-25-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "-1.4M",
     "previous": "6.2M",
     "actual": null
   },
@@ -601,7 +601,7 @@
     "date": "03-26-2026",
     "time": "1:35am",
     "forecast": "",
-    "previous": "",
+    "previous": "0",
     "actual": null
   },
   {
@@ -611,7 +611,7 @@
     "impact": "Low",
     "date": "03-26-2026",
     "time": "5:00am",
-    "forecast": "",
+    "forecast": "1.6%",
     "previous": "1.7%",
     "actual": null
   },
@@ -622,7 +622,7 @@
     "impact": "Low",
     "date": "03-26-2026",
     "time": "7:00am",
-    "forecast": "-28.6",
+    "forecast": "-27.3",
     "previous": "-24.7",
     "actual": null
   },
@@ -633,7 +633,7 @@
     "impact": "Low",
     "date": "03-26-2026",
     "time": "9:00am",
-    "forecast": "3.2%",
+    "forecast": "3.3%",
     "previous": "3.3%",
     "actual": null
   },
@@ -787,7 +787,7 @@
     "impact": "High",
     "date": "03-27-2026",
     "time": "7:00am",
-    "forecast": "-0.3%",
+    "forecast": "-0.6%",
     "previous": "1.8%",
     "actual": null
   },
@@ -798,7 +798,7 @@
     "impact": "Low",
     "date": "03-27-2026",
     "time": "8:00am",
-    "forecast": "2.4%",
+    "forecast": "3.6%",
     "previous": "2.3%",
     "actual": null
   },
@@ -831,7 +831,7 @@
     "impact": "Medium",
     "date": "03-27-2026",
     "time": "2:00pm",
-    "forecast": "",
+    "forecast": "53.9",
     "previous": "55.5",
     "actual": null
   },
