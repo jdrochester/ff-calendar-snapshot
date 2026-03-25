@@ -181,7 +181,7 @@
     "currency": null,
     "impact": "Low",
     "date": "03-24-2026",
-    "time": "10:33am",
+    "time": "10:02am",
     "forecast": "",
     "previous": "4.59|3.6",
     "actual": null
@@ -314,6 +314,17 @@
     "impact": "Low",
     "date": "03-24-2026",
     "time": "8:30pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Goolsbee Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-24-2026",
+    "time": "10:00pm",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -556,7 +567,7 @@
     "impact": "Low",
     "date": "03-25-2026",
     "time": "2:30pm",
-    "forecast": "-1.4M",
+    "forecast": "-1.3M",
     "previous": "6.2M",
     "actual": null
   },
@@ -578,6 +589,17 @@
     "impact": "Low",
     "date": "03-25-2026",
     "time": "10:15pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "03-25-2026",
+    "time": "11:20pm",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -660,6 +682,17 @@
     "actual": null
   },
   {
+    "title": "30-y Bond Auction",
+    "country": "GBP",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-26-2026",
+    "time": "10:32am",
+    "forecast": "",
+    "previous": "5.29|3.2",
+    "actual": null
+  },
+  {
     "title": "German Buba Monthly Report",
     "country": "EUR",
     "currency": null,
@@ -688,7 +721,7 @@
     "impact": "Low",
     "date": "03-26-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "-49B",
     "previous": "35B",
     "actual": null
   },
@@ -821,7 +854,7 @@
     "date": "03-27-2026",
     "time": "10:33am",
     "forecast": "",
-    "previous": "",
+    "previous": "3.31|1.5",
     "actual": null
   },
   {
