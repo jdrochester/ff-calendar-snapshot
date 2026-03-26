@@ -539,6 +539,17 @@
     "actual": null
   },
   {
+    "title": "Belgian NBB Business Climate",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-25-2026",
+    "time": "1:28pm",
+    "forecast": "-14.8",
+    "previous": "-13.7",
+    "actual": null
+  },
+  {
     "title": "SNB Quarterly Bulletin",
     "country": "CHF",
     "currency": null,
@@ -547,17 +558,6 @@
     "time": "2:00pm",
     "forecast": "",
     "previous": "",
-    "actual": null
-  },
-  {
-    "title": "Belgian NBB Business Climate",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "03-25-2026",
-    "time": "2:00pm",
-    "forecast": "-14.8",
-    "previous": "-13.7",
     "actual": null
   },
   {
@@ -613,17 +613,6 @@
     "time": "11:50pm",
     "forecast": "2.6%",
     "previous": "2.6%",
-    "actual": null
-  },
-  {
-    "title": "NAB Quarterly Business Confidence",
-    "country": "AUD",
-    "currency": null,
-    "impact": "Low",
-    "date": "03-26-2026",
-    "time": "1:35am",
-    "forecast": "",
-    "previous": "0",
     "actual": null
   },
   {
@@ -814,6 +803,17 @@
     "actual": null
   },
   {
+    "title": "NAB Quarterly Business Confidence",
+    "country": "AUD",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-27-2026",
+    "time": "3:35am",
+    "forecast": "",
+    "previous": "0",
+    "actual": null
+  },
+  {
     "title": "Retail Sales m/m",
     "country": "GBP",
     "currency": null,
@@ -880,6 +880,17 @@
     "actual": null
   },
   {
+    "title": "FOMC Member Barkin Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-27-2026",
+    "time": "3:00pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "FOMC Member Daly Speaks",
     "country": "USD",
     "currency": null,
@@ -896,7 +907,7 @@
     "currency": null,
     "impact": "Low",
     "date": "03-27-2026",
-    "time": "3:40pm",
+    "time": "3:30pm",
     "forecast": "",
     "previous": "",
     "actual": null
