@@ -621,7 +621,7 @@
     "currency": null,
     "impact": "Low",
     "date": "03-26-2026",
-    "time": "5:00am",
+    "time": "5:02am",
     "forecast": "1.6%",
     "previous": "1.7%",
     "actual": null
@@ -676,7 +676,7 @@
     "currency": null,
     "impact": "Low",
     "date": "03-26-2026",
-    "time": "10:32am",
+    "time": "10:02am",
     "forecast": "",
     "previous": "5.29|3.2",
     "actual": null
@@ -715,17 +715,6 @@
     "actual": null
   },
   {
-    "title": "Gov Council Member Rogers Speaks",
-    "country": "CAD",
-    "currency": null,
-    "impact": "Low",
-    "date": "03-26-2026",
-    "time": "4:00pm",
-    "forecast": "",
-    "previous": "",
-    "actual": null
-  },
-  {
     "title": "MPC Member Taylor Speaks",
     "country": "GBP",
     "currency": null,
@@ -743,6 +732,28 @@
     "impact": "Low",
     "date": "03-26-2026",
     "time": "4:30pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "Gov Council Member Rogers Speaks",
+    "country": "CAD",
+    "currency": null,
+    "impact": "Low",
+    "date": "03-26-2026",
+    "time": "5:10pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "03-26-2026",
+    "time": "8:00pm",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -800,17 +811,6 @@
     "time": "12:01am",
     "forecast": "-24",
     "previous": "-19",
-    "actual": null
-  },
-  {
-    "title": "NAB Quarterly Business Confidence",
-    "country": "AUD",
-    "currency": null,
-    "impact": "Low",
-    "date": "03-27-2026",
-    "time": "3:35am",
-    "forecast": "",
-    "previous": "0",
     "actual": null
   },
   {
