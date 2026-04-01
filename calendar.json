@@ -501,7 +501,7 @@
     "impact": "Low",
     "date": "04-01-2026",
     "time": "12:30am",
-    "forecast": "6.0%",
+    "forecast": "5.8%",
     "previous": "-7.2%",
     "actual": null
   },
@@ -765,7 +765,7 @@
     "impact": "Medium",
     "date": "04-01-2026",
     "time": "2:00pm",
-    "forecast": "73.8",
+    "forecast": "74.0",
     "previous": "70.5",
     "actual": null
   },
@@ -798,7 +798,7 @@
     "impact": "Low",
     "date": "04-01-2026",
     "time": "2:30pm",
-    "forecast": "-1.3M",
+    "forecast": "2.0M",
     "previous": "6.9M",
     "actual": null
   },
@@ -836,6 +836,17 @@
     "actual": null
   },
   {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "High",
+    "date": "04-02-2026",
+    "time": "1:00am",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "10-y Bond Auction",
     "country": "JPY",
     "currency": null,
@@ -844,17 +855,6 @@
     "time": "3:35am",
     "forecast": "",
     "previous": "2.12|3.3",
-    "actual": null
-  },
-  {
-    "title": "NAB Quarterly Business Confidence",
-    "country": "AUD",
-    "currency": null,
-    "impact": "Low",
-    "date": "04-02-2026",
-    "time": "3:35am",
-    "forecast": "",
-    "previous": "0",
     "actual": null
   },
   {
@@ -897,7 +897,7 @@
     "impact": "Low",
     "date": "04-02-2026",
     "time": "9:00am",
-    "forecast": "0.4%",
+    "forecast": "0.3%",
     "previous": "0.6%",
     "actual": null
   },
@@ -952,7 +952,7 @@
     "impact": "Low",
     "date": "04-02-2026",
     "time": "12:30pm",
-    "forecast": "-60.3B",
+    "forecast": "-60.5B",
     "previous": "-54.5B",
     "actual": null
   },
@@ -974,7 +974,7 @@
     "impact": "Low",
     "date": "04-02-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "38B",
     "previous": "-54B",
     "actual": null
   },
@@ -1095,7 +1095,7 @@
     "impact": "High",
     "date": "04-03-2026",
     "time": "12:30pm",
-    "forecast": "63K",
+    "forecast": "65K",
     "previous": "-92K",
     "actual": null
   },
