@@ -891,25 +891,25 @@
     "actual": null
   },
   {
-    "title": "Italian Retail Sales m/m",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "04-02-2026",
-    "time": "9:00am",
-    "forecast": "0.3%",
-    "previous": "0.6%",
-    "actual": null
-  },
-  {
     "title": "French 10-y Bond Auction",
     "country": "EUR",
     "currency": null,
     "impact": "Low",
     "date": "04-02-2026",
-    "time": "9:18am",
+    "time": "8:55am",
     "forecast": "",
     "previous": "3.39|2.2",
+    "actual": null
+  },
+  {
+    "title": "Italian Retail Sales m/m",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "04-02-2026",
+    "time": "9:06am",
+    "forecast": "0.3%",
+    "previous": "0.6%",
     "actual": null
   },
   {
