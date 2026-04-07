@@ -121,13 +121,24 @@
     "actual": null
   },
   {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "High",
+    "date": "04-06-2026",
+    "time": "5:00pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "Household Spending y/y",
     "country": "JPY",
     "currency": null,
     "impact": "Low",
     "date": "04-06-2026",
     "time": "11:30pm",
-    "forecast": "-0.7%",
+    "forecast": "-0.8%",
     "previous": "-1.0%",
     "actual": null
   },
@@ -193,7 +204,7 @@
     "impact": "Low",
     "date": "04-07-2026",
     "time": "5:00am",
-    "forecast": "112.3%",
+    "forecast": "112.4%",
     "previous": "112.4%",
     "actual": null
   },
@@ -215,7 +226,7 @@
     "impact": "Low",
     "date": "04-07-2026",
     "time": "7:15am",
-    "forecast": "50.5",
+    "forecast": "50.7",
     "previous": "51.9",
     "actual": null
   },
@@ -226,7 +237,7 @@
     "impact": "Low",
     "date": "04-07-2026",
     "time": "7:45am",
-    "forecast": "50.8",
+    "forecast": "51.0",
     "previous": "52.3",
     "actual": null
   },
@@ -270,7 +281,7 @@
     "impact": "Low",
     "date": "04-07-2026",
     "time": "8:30am",
-    "forecast": "-7.5",
+    "forecast": "-7.8",
     "previous": "-3.1",
     "actual": null
   },
@@ -281,7 +292,7 @@
     "impact": "Low",
     "date": "04-07-2026",
     "time": "8:30am",
-    "forecast": "51.2",
+    "forecast": "51.1",
     "previous": "51.2",
     "actual": null
   },
@@ -314,7 +325,7 @@
     "impact": "Medium",
     "date": "04-07-2026",
     "time": "12:30pm",
-    "forecast": "-1.0%",
+    "forecast": "-1.1%",
     "previous": "0.0%",
     "actual": null
   },
@@ -325,7 +336,7 @@
     "impact": "Medium",
     "date": "04-07-2026",
     "time": "2:00pm",
-    "forecast": "57.2",
+    "forecast": "55.9",
     "previous": "56.6",
     "actual": null
   },
@@ -369,7 +380,7 @@
     "impact": "Low",
     "date": "04-07-2026",
     "time": "7:00pm",
-    "forecast": "11.4B",
+    "forecast": "10.5B",
     "previous": "8.0B",
     "actual": null
   },
@@ -457,7 +468,7 @@
     "impact": "Low",
     "date": "04-08-2026",
     "time": "5:00am",
-    "forecast": "47.9",
+    "forecast": "48.0",
     "previous": "48.9",
     "actual": null
   },
@@ -468,7 +479,7 @@
     "impact": "Low",
     "date": "04-08-2026",
     "time": "6:00am",
-    "forecast": "3.2%",
+    "forecast": "3.0%",
     "previous": "-11.1%",
     "actual": null
   },
@@ -479,7 +490,7 @@
     "impact": "Low",
     "date": "04-08-2026",
     "time": "6:00am",
-    "forecast": "0.2%",
+    "forecast": "0.1%",
     "previous": "0.3%",
     "actual": null
   },
@@ -490,7 +501,7 @@
     "impact": "Low",
     "date": "04-08-2026",
     "time": "6:45am",
-    "forecast": "2.3B",
+    "forecast": "-2.3B",
     "previous": "-1.8B",
     "actual": null
   },
@@ -523,7 +534,7 @@
     "impact": "Low",
     "date": "04-08-2026",
     "time": "8:30am",
-    "forecast": "",
+    "forecast": "-9.6B",
     "previous": "-10.9B",
     "actual": null
   },
@@ -534,7 +545,7 @@
     "impact": "Low",
     "date": "04-08-2026",
     "time": "9:00am",
-    "forecast": "-0.5%",
+    "forecast": "-0.6%",
     "previous": "0.7%",
     "actual": null
   },
@@ -569,6 +580,17 @@
     "time": "2:30pm",
     "forecast": "",
     "previous": "5.5M",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Daly Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "04-08-2026",
+    "time": "5:00pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -611,7 +633,7 @@
     "impact": "Low",
     "date": "04-09-2026",
     "time": "5:00am",
-    "forecast": "38.4",
+    "forecast": "38.3",
     "previous": "40.0",
     "actual": null
   },
@@ -622,7 +644,7 @@
     "impact": "Low",
     "date": "04-09-2026",
     "time": "6:00am",
-    "forecast": "0.7%",
+    "forecast": "0.6%",
     "previous": "-0.5%",
     "actual": null
   },
@@ -633,7 +655,7 @@
     "impact": "Low",
     "date": "04-09-2026",
     "time": "6:00am",
-    "forecast": "18.6B",
+    "forecast": "18.1B",
     "previous": "21.2B",
     "actual": null
   },
@@ -743,7 +765,7 @@
     "impact": "Low",
     "date": "04-09-2026",
     "time": "12:30pm",
-    "forecast": "0.5%",
+    "forecast": "0.6%",
     "previous": "0.4%",
     "actual": null
   },
@@ -754,7 +776,7 @@
     "impact": "Low",
     "date": "04-09-2026",
     "time": "2:00pm",
-    "forecast": "-0.5%",
+    "forecast": "-0.1%",
     "previous": "-0.5%",
     "actual": null
   },
@@ -766,7 +788,7 @@
     "date": "04-09-2026",
     "time": "2:30pm",
     "forecast": "",
-    "previous": "",
+    "previous": "36B",
     "actual": null
   },
   {
@@ -809,7 +831,7 @@
     "impact": "Low",
     "date": "04-09-2026",
     "time": "11:50pm",
-    "forecast": "2.3%",
+    "forecast": "2.4%",
     "previous": "2.0%",
     "actual": null
   },
@@ -831,7 +853,7 @@
     "impact": "Medium",
     "date": "04-10-2026",
     "time": "1:30am",
-    "forecast": "0.5%",
+    "forecast": "0.4%",
     "previous": "-0.9%",
     "actual": null
   },
@@ -869,13 +891,24 @@
     "actual": null
   },
   {
+    "title": "Italian 10-y Bond Auction",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "04-10-2026",
+    "time": "9:33am",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "Employment Change",
     "country": "CAD",
     "currency": null,
     "impact": "High",
     "date": "04-10-2026",
     "time": "12:30pm",
-    "forecast": "12.6K",
+    "forecast": "14.5K",
     "previous": "-83.9K",
     "actual": null
   },
@@ -930,7 +963,7 @@
     "impact": "Medium",
     "date": "04-10-2026",
     "time": "2:00pm",
-    "forecast": "52.1",
+    "forecast": "51.6",
     "previous": "55.5",
     "actual": null
   },
@@ -952,7 +985,7 @@
     "impact": "Low",
     "date": "04-10-2026",
     "time": "2:00pm",
-    "forecast": "-0.2%",
+    "forecast": "-0.3%",
     "previous": "0.1%",
     "actual": null
   },
@@ -963,7 +996,7 @@
     "impact": "Low",
     "date": "04-10-2026",
     "time": "6:00pm",
-    "forecast": "",
+    "forecast": "-153.3B",
     "previous": "-307.5B",
     "actual": null
   }
