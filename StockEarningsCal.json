@@ -6,16 +6,16 @@
     "eps_estimate": "$5.38"
   },
   {
+    "ticker": "TSLA",
+    "date": "2026-04-22",
+    "time": "time-after-hours",
+    "eps_estimate": "$0.24"
+  },
+  {
     "ticker": "GOOGL",
     "date": "2026-04-23",
     "time": "time-not-supplied",
     "eps_estimate": "$2.76"
-  },
-  {
-    "ticker": "TSLA",
-    "date": "2026-04-28",
-    "time": "time-not-supplied",
-    "eps_estimate": "$0.24"
   },
   {
     "ticker": "MSFT",
@@ -30,16 +30,16 @@
     "eps_estimate": "$6.67"
   },
   {
+    "ticker": "AAPL",
+    "date": "2026-04-30",
+    "time": "time-after-hours",
+    "eps_estimate": "$1.88"
+  },
+  {
     "ticker": "BRK.B",
     "date": "2026-05-01",
     "time": "time-not-supplied",
     "eps_estimate": "$4.76"
-  },
-  {
-    "ticker": "AAPL",
-    "date": "2026-05-07",
-    "time": "time-not-supplied",
-    "eps_estimate": "$1.89"
   },
   {
     "ticker": "AMZN",
