@@ -489,7 +489,7 @@
     "currency": null,
     "impact": "Low",
     "date": "04-08-2026",
-    "time": "6:00am",
+    "time": "6:04am",
     "forecast": "0.2%",
     "previous": "0.3%",
     "actual": null
@@ -566,7 +566,7 @@
     "currency": null,
     "impact": "Low",
     "date": "04-08-2026",
-    "time": "9:42am",
+    "time": "9:32am",
     "forecast": "",
     "previous": "2.89|1.2",
     "actual": null
@@ -583,17 +583,6 @@
     "actual": null
   },
   {
-    "title": "FOMC Member Daly Speaks",
-    "country": "USD",
-    "currency": null,
-    "impact": "Low",
-    "date": "04-08-2026",
-    "time": "5:00pm",
-    "forecast": "",
-    "previous": "",
-    "actual": null
-  },
-  {
     "title": "10-y Bond Auction",
     "country": "USD",
     "currency": null,
@@ -602,6 +591,17 @@
     "time": "5:01pm",
     "forecast": "",
     "previous": "4.22|2.4",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Daly Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "04-08-2026",
+    "time": "5:05pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -888,17 +888,6 @@
     "time": "8:00am",
     "forecast": "0.5%",
     "previous": "-0.6%",
-    "actual": null
-  },
-  {
-    "title": "Italian 10-y Bond Auction",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "04-10-2026",
-    "time": "9:33am",
-    "forecast": "",
-    "previous": "",
     "actual": null
   },
   {
