@@ -3,7 +3,7 @@
     "ticker": "JPM",
     "date": "2026-04-14",
     "time": "time-pre-market",
-    "eps_estimate": "$5.38"
+    "eps_estimate": "$5.41"
   },
   {
     "ticker": "TSLA",
@@ -15,7 +15,7 @@
     "ticker": "GOOGL",
     "date": "2026-04-23",
     "time": "time-not-supplied",
-    "eps_estimate": "$2.76"
+    "eps_estimate": "$2.62"
   },
   {
     "ticker": "MSFT",
