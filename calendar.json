@@ -698,7 +698,7 @@
     "currency": null,
     "impact": "Low",
     "date": "04-09-2026",
-    "time": "9:03am",
+    "time": "8:40am",
     "forecast": "",
     "previous": "3.48|2.3",
     "actual": null
@@ -723,17 +723,6 @@
     "time": "12:30pm",
     "forecast": "0.7%",
     "previous": "0.7%",
-    "actual": null
-  },
-  {
-    "title": "Final GDP Price Index q/q",
-    "country": "USD",
-    "currency": null,
-    "impact": "Medium",
-    "date": "04-09-2026",
-    "time": "12:30pm",
-    "forecast": "3.8%",
-    "previous": "3.8%",
     "actual": null
   },
   {
@@ -767,6 +756,17 @@
     "time": "12:30pm",
     "forecast": "0.6%",
     "previous": "0.4%",
+    "actual": null
+  },
+  {
+    "title": "Final GDP Price Index q/q",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "04-09-2026",
+    "time": "12:33pm",
+    "forecast": "3.8%",
+    "previous": "3.8%",
     "actual": null
   },
   {
@@ -985,7 +985,7 @@
     "impact": "Low",
     "date": "04-10-2026",
     "time": "6:00pm",
-    "forecast": "-153.3B",
+    "forecast": "-157.8B",
     "previous": "-307.5B",
     "actual": null
   }
