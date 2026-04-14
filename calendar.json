@@ -22,6 +22,28 @@
     "actual": null
   },
   {
+    "title": "M2 Money Supply y/y",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "04-13-2026",
+    "time": "9:00am",
+    "forecast": "8.9%",
+    "previous": "9.0%",
+    "actual": null
+  },
+  {
+    "title": "New Loans",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "04-13-2026",
+    "time": "9:01am",
+    "forecast": "3465B",
+    "previous": "900B",
+    "actual": null
+  },
+  {
     "title": "Building Permits m/m",
     "country": "CAD",
     "currency": null,
@@ -121,25 +143,25 @@
     "actual": null
   },
   {
-    "title": "Trade Balance",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "04-14-2026",
-    "time": "2:03am",
-    "forecast": "780B",
-    "previous": "1503B",
-    "actual": null
-  },
-  {
     "title": "USD-Denominated Trade Balance",
     "country": "CNY",
     "currency": null,
     "impact": "Low",
     "date": "04-14-2026",
-    "time": "2:04am",
-    "forecast": "107.5B",
+    "time": "2:56am",
+    "forecast": "107.2B",
     "previous": "213.6B",
+    "actual": null
+  },
+  {
+    "title": "Trade Balance",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "04-14-2026",
+    "time": "2:57am",
+    "forecast": "760B",
+    "previous": "1503B",
     "actual": null
   },
   {
@@ -165,28 +187,6 @@
     "actual": null
   },
   {
-    "title": "M2 Money Supply y/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "04-14-2026",
-    "time": "8:03am",
-    "forecast": "8.9%",
-    "previous": "9.0%",
-    "actual": null
-  },
-  {
-    "title": "New Loans",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "04-14-2026",
-    "time": "8:03am",
-    "forecast": "3465B",
-    "previous": "900B",
-    "actual": null
-  },
-  {
     "title": "MPC Member Mann Speaks",
     "country": "GBP",
     "currency": null,
@@ -204,7 +204,7 @@
     "impact": "Low",
     "date": "04-14-2026",
     "time": "10:00am",
-    "forecast": "98.6",
+    "forecast": "97.8",
     "previous": "98.8",
     "actual": null
   },
@@ -226,7 +226,7 @@
     "impact": "High",
     "date": "04-14-2026",
     "time": "12:30pm",
-    "forecast": "0.5%",
+    "forecast": "0.4%",
     "previous": "0.5%",
     "actual": null
   },
@@ -237,7 +237,7 @@
     "impact": "High",
     "date": "04-14-2026",
     "time": "12:30pm",
-    "forecast": "1.2%",
+    "forecast": "1.1%",
     "previous": "0.7%",
     "actual": null
   },
@@ -253,12 +253,34 @@
     "actual": null
   },
   {
+    "title": "FOMC Member Goolsbee Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "04-14-2026",
+    "time": "1:45pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "MPC Member Greene Speaks",
     "country": "GBP",
     "currency": null,
     "impact": "Low",
     "date": "04-14-2026",
     "time": "2:00pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Goolsbee Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "04-14-2026",
+    "time": "2:15pm",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -291,7 +313,7 @@
     "currency": null,
     "impact": "Low",
     "date": "04-14-2026",
-    "time": "4:15pm",
+    "time": "4:10pm",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -341,6 +363,17 @@
     "actual": null
   },
   {
+    "title": "MPC Member Breeden Speaks",
+    "country": "GBP",
+    "currency": null,
+    "impact": "Low",
+    "date": "04-14-2026",
+    "time": "8:10pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "API Weekly Statistical Bulletin",
     "country": "USD",
     "currency": null,
@@ -369,7 +402,7 @@
     "impact": "Low",
     "date": "04-14-2026",
     "time": "11:50pm",
-    "forecast": "-0.8%",
+    "forecast": "-1.1%",
     "previous": "-5.5%",
     "actual": null
   },
@@ -391,7 +424,7 @@
     "impact": "Low",
     "date": "04-15-2026",
     "time": "9:00am",
-    "forecast": "0.1%",
+    "forecast": "0.3%",
     "previous": "-1.5%",
     "actual": null
   },
@@ -424,7 +457,7 @@
     "impact": "Low",
     "date": "04-15-2026",
     "time": "12:30pm",
-    "forecast": "0.2%",
+    "forecast": "2.3%",
     "previous": "-1.0%",
     "actual": null
   },
@@ -457,7 +490,7 @@
     "impact": "Low",
     "date": "04-15-2026",
     "time": "12:30pm",
-    "forecast": "0.8%",
+    "forecast": "2.1%",
     "previous": "1.3%",
     "actual": null
   },
@@ -600,7 +633,7 @@
     "impact": "Low",
     "date": "04-15-2026",
     "time": "8:00pm",
-    "forecast": "58.6B",
+    "forecast": "36.6B",
     "previous": "15.5B",
     "actual": null
   },
@@ -622,7 +655,7 @@
     "impact": "High",
     "date": "04-16-2026",
     "time": "1:30am",
-    "forecast": "17.9K",
+    "forecast": "19.1K",
     "previous": "48.9K",
     "actual": null
   },
@@ -655,7 +688,7 @@
     "impact": "Low",
     "date": "04-16-2026",
     "time": "2:00am",
-    "forecast": "2.0%",
+    "forecast": "1.9%",
     "previous": "1.8%",
     "actual": null
   },
@@ -677,7 +710,7 @@
     "impact": "Low",
     "date": "04-16-2026",
     "time": "2:00am",
-    "forecast": "5.3%",
+    "forecast": "5.4%",
     "previous": "6.3%",
     "actual": null
   },
@@ -699,7 +732,7 @@
     "impact": "Low",
     "date": "04-16-2026",
     "time": "2:00am",
-    "forecast": "2.5%",
+    "forecast": "2.4%",
     "previous": "2.8%",
     "actual": null
   },
@@ -743,7 +776,7 @@
     "impact": "Low",
     "date": "04-16-2026",
     "time": "6:00am",
-    "forecast": "-20.3B",
+    "forecast": "-19.4B",
     "previous": "-14.4B",
     "actual": null
   },
@@ -765,7 +798,7 @@
     "impact": "Low",
     "date": "04-16-2026",
     "time": "6:00am",
-    "forecast": "0.2%",
+    "forecast": "0.3%",
     "previous": "-0.1%",
     "actual": null
   },
@@ -787,7 +820,7 @@
     "impact": "Low",
     "date": "04-16-2026",
     "time": "6:30am",
-    "forecast": "0.2%",
+    "forecast": "0.3%",
     "previous": "-0.3%",
     "actual": null
   },
@@ -842,7 +875,7 @@
     "impact": "Medium",
     "date": "04-16-2026",
     "time": "12:30pm",
-    "forecast": "10.5",
+    "forecast": "10.3",
     "previous": "18.1",
     "actual": null
   },
@@ -853,7 +886,7 @@
     "impact": "Medium",
     "date": "04-16-2026",
     "time": "12:30pm",
-    "forecast": "215K",
+    "forecast": "212K",
     "previous": "219K",
     "actual": null
   },
@@ -875,7 +908,7 @@
     "impact": "Low",
     "date": "04-16-2026",
     "time": "1:15pm",
-    "forecast": "76.4%",
+    "forecast": "76.3%",
     "previous": "76.3%",
     "actual": null
   },
@@ -996,7 +1029,7 @@
     "impact": "Low",
     "date": "04-17-2026",
     "time": "8:00am",
-    "forecast": "27.6B",
+    "forecast": "29.8B",
     "previous": "37.9B",
     "actual": null
   },
@@ -1018,8 +1051,19 @@
     "impact": "Low",
     "date": "04-17-2026",
     "time": "9:00am",
-    "forecast": "11.1B",
+    "forecast": "11.7B",
     "previous": "12.1B",
+    "actual": null
+  },
+  {
+    "title": "MPC Member Pill Speaks",
+    "country": "GBP",
+    "currency": null,
+    "impact": "Low",
+    "date": "04-17-2026",
+    "time": "12:00pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -1029,7 +1073,7 @@
     "impact": "Low",
     "date": "04-17-2026",
     "time": "12:15pm",
-    "forecast": "253K",
+    "forecast": "256K",
     "previous": "251K",
     "actual": null
   },
@@ -1040,7 +1084,7 @@
     "impact": "Low",
     "date": "04-17-2026",
     "time": "12:30pm",
-    "forecast": "",
+    "forecast": "23.81B",
     "previous": "46.73B",
     "actual": null
   },
