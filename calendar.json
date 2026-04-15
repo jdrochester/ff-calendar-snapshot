@@ -264,6 +264,17 @@
     "actual": null
   },
   {
+    "title": "ECB President Lagarde Speaks",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Medium",
+    "date": "04-14-2026",
+    "time": "2:00pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "MPC Member Greene Speaks",
     "country": "GBP",
     "currency": null,
@@ -468,12 +479,23 @@
     "impact": "Medium",
     "date": "04-15-2026",
     "time": "12:30pm",
-    "forecast": "0.6",
+    "forecast": "0.3",
     "previous": "-0.2",
     "actual": null
   },
   {
     "title": "FOMC Member Barr Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "04-15-2026",
+    "time": "12:30pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Hammack Speaks",
     "country": "USD",
     "currency": null,
     "impact": "Low",
@@ -490,8 +512,19 @@
     "impact": "Low",
     "date": "04-15-2026",
     "time": "12:30pm",
-    "forecast": "2.1%",
+    "forecast": "2.3%",
     "previous": "1.3%",
+    "actual": null
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "04-15-2026",
+    "time": "1:00pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -534,7 +567,7 @@
     "impact": "Low",
     "date": "04-15-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "2.1M",
     "previous": "3.1M",
     "actual": null
   },
@@ -820,7 +853,7 @@
     "impact": "Low",
     "date": "04-16-2026",
     "time": "6:30am",
-    "forecast": "0.3%",
+    "forecast": "0.5%",
     "previous": "-0.3%",
     "actual": null
   },
@@ -886,7 +919,7 @@
     "impact": "Medium",
     "date": "04-16-2026",
     "time": "12:30pm",
-    "forecast": "212K",
+    "forecast": "213K",
     "previous": "219K",
     "actual": null
   },
@@ -941,7 +974,7 @@
     "impact": "Low",
     "date": "04-16-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "55B",
     "previous": "50B",
     "actual": null
   },
@@ -1073,7 +1106,7 @@
     "impact": "Low",
     "date": "04-17-2026",
     "time": "12:15pm",
-    "forecast": "256K",
+    "forecast": "258K",
     "previous": "251K",
     "actual": null
   },
