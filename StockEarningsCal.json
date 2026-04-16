@@ -3,13 +3,13 @@
     "ticker": "TSLA",
     "date": "2026-04-22",
     "time": "time-after-hours",
-    "eps_estimate": "$0.22"
+    "eps_estimate": "$0.21"
   },
   {
     "ticker": "GOOGL",
     "date": "2026-04-29",
     "time": "time-after-hours",
-    "eps_estimate": "$2.64"
+    "eps_estimate": "$2.63"
   },
   {
     "ticker": "MSFT",
@@ -20,7 +20,7 @@
   {
     "ticker": "META",
     "date": "2026-04-29",
-    "time": "time-not-supplied",
+    "time": "time-after-hours",
     "eps_estimate": "$6.69"
   },
   {
