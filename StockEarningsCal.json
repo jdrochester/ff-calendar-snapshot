@@ -15,7 +15,7 @@
     "ticker": "MSFT",
     "date": "2026-04-29",
     "time": "time-after-hours",
-    "eps_estimate": "$4.04"
+    "eps_estimate": "$4.07"
   },
   {
     "ticker": "META",
@@ -27,7 +27,7 @@
     "ticker": "AAPL",
     "date": "2026-04-30",
     "time": "time-after-hours",
-    "eps_estimate": "$1.88"
+    "eps_estimate": "$1.91"
   },
   {
     "ticker": "BRK.B",
