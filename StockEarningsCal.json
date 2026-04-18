@@ -18,10 +18,16 @@
     "eps_estimate": "$4.07"
   },
   {
+    "ticker": "AMZN",
+    "date": "2026-04-29",
+    "time": "time-after-hours",
+    "eps_estimate": "$1.69"
+  },
+  {
     "ticker": "META",
     "date": "2026-04-29",
     "time": "time-after-hours",
-    "eps_estimate": "$6.69"
+    "eps_estimate": "$6.71"
   },
   {
     "ticker": "AAPL",
@@ -33,18 +39,12 @@
     "ticker": "BRK.B",
     "date": "2026-05-01",
     "time": "time-not-supplied",
-    "eps_estimate": "$4.76"
-  },
-  {
-    "ticker": "AMZN",
-    "date": "2026-05-07",
-    "time": "time-not-supplied",
-    "eps_estimate": "$1.69"
+    "eps_estimate": "$4.82"
   },
   {
     "ticker": "NVDA",
-    "date": "2026-05-27",
-    "time": "time-not-supplied",
+    "date": "2026-05-20",
+    "time": "time-after-hours",
     "eps_estimate": "$1.70"
   }
 ]
