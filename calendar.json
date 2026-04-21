@@ -66,17 +66,6 @@
     "actual": null
   },
   {
-    "title": "German Buba Monthly Report",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "04-20-2026",
-    "time": "10:00am",
-    "forecast": "",
-    "previous": "",
-    "actual": null
-  },
-  {
     "title": "CPI m/m",
     "country": "CAD",
     "currency": null,
@@ -182,7 +171,7 @@
     "impact": "High",
     "date": "04-21-2026",
     "time": "6:00am",
-    "forecast": "21.4K",
+    "forecast": "22.6K",
     "previous": "24.7K",
     "actual": null
   },
@@ -209,17 +198,6 @@
     "actual": null
   },
   {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "04-21-2026",
-    "time": "6:02am",
-    "forecast": "",
-    "previous": "-5.7%",
-    "actual": null
-  },
-  {
     "title": "German Buba President Nagel Speaks",
     "country": "EUR",
     "currency": null,
@@ -237,7 +215,7 @@
     "impact": "Low",
     "date": "04-21-2026",
     "time": "9:00am",
-    "forecast": "-6.7",
+    "forecast": "-5.9",
     "previous": "-0.5",
     "actual": null
   },
@@ -248,7 +226,7 @@
     "impact": "Low",
     "date": "04-21-2026",
     "time": "9:00am",
-    "forecast": "-10.3",
+    "forecast": "-12.7",
     "previous": "-8.5",
     "actual": null
   },
@@ -270,7 +248,7 @@
     "impact": "High",
     "date": "04-21-2026",
     "time": "12:30pm",
-    "forecast": "1.3%",
+    "forecast": "1.4%",
     "previous": "0.5%",
     "actual": null
   },
@@ -283,6 +261,17 @@
     "time": "12:30pm",
     "forecast": "1.4%",
     "previous": "0.6%",
+    "actual": null
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "04-21-2026",
+    "time": "12:30pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -314,7 +303,7 @@
     "impact": "Low",
     "date": "04-21-2026",
     "time": "2:00pm",
-    "forecast": "0.3%",
+    "forecast": "0.4%",
     "previous": "-0.1%",
     "actual": null
   },
@@ -369,7 +358,7 @@
     "impact": "Low",
     "date": "04-21-2026",
     "time": "11:50pm",
-    "forecast": "0.20T",
+    "forecast": "0.23T",
     "previous": "-0.37T",
     "actual": null
   },
@@ -413,7 +402,7 @@
     "impact": "Low",
     "date": "04-22-2026",
     "time": "6:00am",
-    "forecast": "2.8%",
+    "forecast": "2.9%",
     "previous": "0.8%",
     "actual": null
   },
@@ -440,6 +429,17 @@
     "actual": null
   },
   {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "04-22-2026",
+    "time": "6:02am",
+    "forecast": "",
+    "previous": "-5.7%",
+    "actual": null
+  },
+  {
     "title": "MPC Member Breeden Speaks",
     "country": "GBP",
     "currency": null,
@@ -457,8 +457,19 @@
     "impact": "Low",
     "date": "04-22-2026",
     "time": "8:30am",
-    "forecast": "1.5%",
+    "forecast": "0.9%",
     "previous": "1.3%",
+    "actual": null
+  },
+  {
+    "title": "German Buba Monthly Report",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "04-22-2026",
+    "time": "10:00am",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -479,7 +490,7 @@
     "impact": "Low",
     "date": "04-22-2026",
     "time": "2:00pm",
-    "forecast": "-17",
+    "forecast": "-18",
     "previous": "-16",
     "actual": null
   },
@@ -545,7 +556,7 @@
     "impact": "Low",
     "date": "04-23-2026",
     "time": "12:30am",
-    "forecast": "51.2",
+    "forecast": "51.1",
     "previous": "51.4",
     "actual": null
   },
@@ -567,7 +578,7 @@
     "impact": "Low",
     "date": "04-23-2026",
     "time": "6:00am",
-    "forecast": "10.3B",
+    "forecast": "10.4B",
     "previous": "14.3B",
     "actual": null
   },
@@ -600,7 +611,7 @@
     "impact": "High",
     "date": "04-23-2026",
     "time": "7:30am",
-    "forecast": "51.3",
+    "forecast": "51.4",
     "previous": "51.7",
     "actual": null
   },
@@ -622,7 +633,7 @@
     "impact": "Low",
     "date": "04-23-2026",
     "time": "8:00am",
-    "forecast": "50.7",
+    "forecast": "50.9",
     "previous": "51.4",
     "actual": null
   },
@@ -644,7 +655,7 @@
     "impact": "High",
     "date": "04-23-2026",
     "time": "8:30am",
-    "forecast": "50.2",
+    "forecast": "50.3",
     "previous": "51.4",
     "actual": null
   },
@@ -677,7 +688,7 @@
     "impact": "Low",
     "date": "04-23-2026",
     "time": "12:30pm",
-    "forecast": "1.8%",
+    "forecast": "1.6%",
     "previous": "0.4%",
     "actual": null
   },
@@ -688,7 +699,7 @@
     "impact": "Low",
     "date": "04-23-2026",
     "time": "12:30pm",
-    "forecast": "9.5%",
+    "forecast": "9.3%",
     "previous": "0.6%",
     "actual": null
   },
@@ -699,7 +710,7 @@
     "impact": "Medium",
     "date": "04-23-2026",
     "time": "12:30pm",
-    "forecast": "210K",
+    "forecast": "211K",
     "previous": "207K",
     "actual": null
   },
@@ -721,7 +732,7 @@
     "impact": "Medium",
     "date": "04-23-2026",
     "time": "1:45pm",
-    "forecast": "50.1",
+    "forecast": "50.5",
     "previous": "51.1",
     "actual": null
   },
@@ -754,7 +765,7 @@
     "impact": "Low",
     "date": "04-23-2026",
     "time": "11:01pm",
-    "forecast": "-25",
+    "forecast": "-24",
     "previous": "-21",
     "actual": null
   },
@@ -776,7 +787,7 @@
     "impact": "Low",
     "date": "04-23-2026",
     "time": "11:50pm",
-    "forecast": "2.9%",
+    "forecast": "3.0%",
     "previous": "2.7%",
     "actual": null
   },
@@ -787,7 +798,7 @@
     "impact": "High",
     "date": "04-24-2026",
     "time": "6:00am",
-    "forecast": "0.1%",
+    "forecast": "0.0%",
     "previous": "-0.4%",
     "actual": null
   },
@@ -809,7 +820,7 @@
     "impact": "Low",
     "date": "04-24-2026",
     "time": "8:00am",
-    "forecast": "85.6",
+    "forecast": "85.7",
     "previous": "86.4",
     "actual": null
   },
@@ -842,7 +853,7 @@
     "impact": "Low",
     "date": "04-24-2026",
     "time": "1:00pm",
-    "forecast": "-13.2",
+    "forecast": "-14.8",
     "previous": "-13.7",
     "actual": null
   },
@@ -853,7 +864,7 @@
     "impact": "Medium",
     "date": "04-24-2026",
     "time": "2:00pm",
-    "forecast": "48.4",
+    "forecast": "48.5",
     "previous": "47.6",
     "actual": null
   },
