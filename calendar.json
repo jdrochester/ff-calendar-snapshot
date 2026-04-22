@@ -313,7 +313,7 @@
     "currency": null,
     "impact": "Low",
     "date": "04-21-2026",
-    "time": "2:50pm",
+    "time": "3:28pm",
     "forecast": "",
     "previous": "-3.4%",
     "actual": null
@@ -374,6 +374,17 @@
     "actual": null
   },
   {
+    "title": "RBA Assist Gov Hunter Speaks",
+    "country": "AUD",
+    "currency": null,
+    "impact": "Low",
+    "date": "04-22-2026",
+    "time": "5:45am",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "CPI y/y",
     "country": "GBP",
     "currency": null,
@@ -426,17 +437,6 @@
     "time": "6:00am",
     "forecast": "3.9%",
     "previous": "3.6%",
-    "actual": null
-  },
-  {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "04-22-2026",
-    "time": "6:02am",
-    "forecast": "",
-    "previous": "-5.7%",
     "actual": null
   },
   {
@@ -501,7 +501,7 @@
     "impact": "Low",
     "date": "04-22-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "-1.9M",
     "previous": "-0.9M",
     "actual": null
   },
@@ -743,7 +743,7 @@
     "impact": "Low",
     "date": "04-23-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "96B",
     "previous": "59B",
     "actual": null
   },
@@ -800,6 +800,17 @@
     "time": "6:00am",
     "forecast": "0.0%",
     "previous": "-0.4%",
+    "actual": null
+  },
+  {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "04-24-2026",
+    "time": "6:02am",
+    "forecast": "",
+    "previous": "-5.7%",
     "actual": null
   },
   {
