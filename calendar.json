@@ -715,6 +715,17 @@
     "actual": null
   },
   {
+    "title": "GfK Consumer Confidence",
+    "country": "GBP",
+    "currency": null,
+    "impact": "Low",
+    "date": "04-23-2026",
+    "time": "1:21pm",
+    "forecast": "-24",
+    "previous": "-21",
+    "actual": null
+  },
+  {
     "title": "Flash Manufacturing PMI",
     "country": "USD",
     "currency": null,
@@ -756,17 +767,6 @@
     "time": "3:00pm",
     "forecast": "",
     "previous": "",
-    "actual": null
-  },
-  {
-    "title": "GfK Consumer Confidence",
-    "country": "GBP",
-    "currency": null,
-    "impact": "Low",
-    "date": "04-23-2026",
-    "time": "11:01pm",
-    "forecast": "-24",
-    "previous": "-21",
     "actual": null
   },
   {
