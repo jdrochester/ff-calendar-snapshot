@@ -803,17 +803,6 @@
     "actual": null
   },
   {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "04-24-2026",
-    "time": "6:02am",
-    "forecast": "",
-    "previous": "-5.7%",
-    "actual": null
-  },
-  {
     "title": "SNB Chairman Schlegel Speaks",
     "country": "CHF",
     "currency": null,
@@ -833,6 +822,17 @@
     "time": "8:00am",
     "forecast": "85.7",
     "previous": "86.4",
+    "actual": null
+  },
+  {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "04-24-2026",
+    "time": "9:01am",
+    "forecast": "",
+    "previous": "-5.7%",
     "actual": null
   },
   {
@@ -863,7 +863,7 @@
     "currency": null,
     "impact": "Low",
     "date": "04-24-2026",
-    "time": "1:00pm",
+    "time": "12:32pm",
     "forecast": "-14.8",
     "previous": "-13.7",
     "actual": null
@@ -888,6 +888,17 @@
     "time": "2:00pm",
     "forecast": "",
     "previous": "4.8%",
+    "actual": null
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "04-25-2026",
+    "time": "4:00pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   }
 ]
