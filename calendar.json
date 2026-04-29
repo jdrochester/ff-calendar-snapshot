@@ -137,7 +137,7 @@
     "currency": null,
     "impact": "High",
     "date": "04-28-2026",
-    "time": "5:30am",
+    "time": "6:30am",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -490,7 +490,7 @@
     "impact": "Low",
     "date": "04-29-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "0.3M",
     "previous": "1.9M",
     "actual": null
   },
@@ -1040,7 +1040,7 @@
     "impact": "Low",
     "date": "04-30-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "83B",
     "previous": "103B",
     "actual": null
   },
