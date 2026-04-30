@@ -1,29 +1,5 @@
 [
   {
-    "ticker": "GOOGL",
-    "date": "2026-04-29",
-    "time": "time-after-hours",
-    "eps_estimate": "$2.64"
-  },
-  {
-    "ticker": "MSFT",
-    "date": "2026-04-29",
-    "time": "time-after-hours",
-    "eps_estimate": "$4.07"
-  },
-  {
-    "ticker": "AMZN",
-    "date": "2026-04-29",
-    "time": "time-after-hours",
-    "eps_estimate": "$1.60"
-  },
-  {
-    "ticker": "META",
-    "date": "2026-04-29",
-    "time": "time-after-hours",
-    "eps_estimate": "$6.71"
-  },
-  {
     "ticker": "AAPL",
     "date": "2026-04-30",
     "time": "time-after-hours",
