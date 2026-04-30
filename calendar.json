@@ -335,7 +335,7 @@
     "currency": null,
     "impact": "Low",
     "date": "04-29-2026",
-    "time": "9:33am",
+    "time": "9:17am",
     "forecast": "",
     "previous": "4.09|1.7",
     "actual": null
@@ -346,7 +346,7 @@
     "currency": null,
     "impact": "Low",
     "date": "04-29-2026",
-    "time": "9:42am",
+    "time": "9:32am",
     "forecast": "",
     "previous": "2.92|1.2",
     "actual": null
@@ -357,9 +357,31 @@
     "currency": null,
     "impact": "Low",
     "date": "04-29-2026",
+    "time": "12:28pm",
+    "forecast": "",
+    "previous": "1.38M",
+    "actual": null
+  },
+  {
+    "title": "Housing Starts",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "04-29-2026",
+    "time": "12:28pm",
+    "forecast": "",
+    "previous": "1.49M",
+    "actual": null
+  },
+  {
+    "title": "Building Permits",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "04-29-2026",
     "time": "12:30pm",
     "forecast": "1.39M",
-    "previous": "",
+    "previous": "1.54M",
     "actual": null
   },
   {
@@ -403,7 +425,7 @@
     "date": "04-29-2026",
     "time": "12:30pm",
     "forecast": "1.38M",
-    "previous": "",
+    "previous": "1.36M",
     "actual": null
   },
   {
@@ -414,29 +436,7 @@
     "date": "04-29-2026",
     "time": "12:30pm",
     "forecast": "0.4%",
-    "previous": "0.2%",
-    "actual": null
-  },
-  {
-    "title": "Building Permits",
-    "country": "USD",
-    "currency": null,
-    "impact": "Low",
-    "date": "04-29-2026",
-    "time": "12:30pm",
-    "forecast": "",
-    "previous": "1.38M",
-    "actual": null
-  },
-  {
-    "title": "Housing Starts",
-    "country": "USD",
-    "currency": null,
-    "impact": "Low",
-    "date": "04-29-2026",
-    "time": "12:30pm",
-    "forecast": "",
-    "previous": "1.49M",
+    "previous": "0.8%",
     "actual": null
   },
   {
