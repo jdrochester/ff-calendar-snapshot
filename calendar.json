@@ -874,7 +874,7 @@
     "currency": null,
     "impact": "Low",
     "date": "04-30-2026",
-    "time": "11:10am",
+    "time": "11:00am",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -1028,9 +1028,20 @@
     "currency": null,
     "impact": "Low",
     "date": "04-30-2026",
+    "time": "1:59pm",
+    "forecast": "",
+    "previous": "-0.1%",
+    "actual": null
+  },
+  {
+    "title": "CB Leading Index m/m",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "04-30-2026",
     "time": "2:00pm",
     "forecast": "-0.2%",
-    "previous": "-0.1%",
+    "previous": "0.3%",
     "actual": null
   },
   {
