@@ -7,8 +7,8 @@
   },
   {
     "ticker": "AVGO",
-    "date": "2026-06-04",
-    "time": "time-not-supplied",
+    "date": "2026-06-03",
+    "time": "time-after-hours",
     "eps_estimate": "$2.02"
   }
 ]
