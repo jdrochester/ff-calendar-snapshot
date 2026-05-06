@@ -308,17 +308,6 @@
     "actual": null
   },
   {
-    "title": "French Gov Budget Balance",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "05-05-2026",
-    "time": "6:45am",
-    "forecast": "",
-    "previous": "-32.1B",
-    "actual": null
-  },
-  {
     "title": "Spanish Unemployment Change",
     "country": "EUR",
     "currency": null,
@@ -374,6 +363,17 @@
     "actual": null
   },
   {
+    "title": "French Gov Budget Balance",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "05-05-2026",
+    "time": "1:31pm",
+    "forecast": "",
+    "previous": "-32.1B",
+    "actual": null
+  },
+  {
     "title": "Final Services PMI",
     "country": "USD",
     "currency": null,
@@ -382,6 +382,17 @@
     "time": "1:45pm",
     "forecast": "51.3",
     "previous": "51.3",
+    "actual": null
+  },
+  {
+    "title": "New Home Sales",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "05-05-2026",
+    "time": "1:59pm",
+    "forecast": "",
+    "previous": "587K",
     "actual": null
   },
   {
@@ -414,7 +425,7 @@
     "date": "05-05-2026",
     "time": "2:00pm",
     "forecast": "652K",
-    "previous": "",
+    "previous": "635K",
     "actual": null
   },
   {
@@ -429,23 +440,12 @@
     "actual": null
   },
   {
-    "title": "New Home Sales",
-    "country": "USD",
-    "currency": null,
-    "impact": "Medium",
-    "date": "05-05-2026",
-    "time": "2:00pm",
-    "forecast": "",
-    "previous": "587K",
-    "actual": null
-  },
-  {
     "title": "RCM/TIPP Economic Optimism",
     "country": "USD",
     "currency": null,
     "impact": "Low",
     "date": "05-05-2026",
-    "time": "2:10pm",
+    "time": "2:03pm",
     "forecast": "42.0",
     "previous": "42.8",
     "actual": null
@@ -456,7 +456,7 @@
     "currency": null,
     "impact": "Low",
     "date": "05-05-2026",
-    "time": "2:50pm",
+    "time": "3:37pm",
     "forecast": "",
     "previous": "-2.7%",
     "actual": null
@@ -644,7 +644,7 @@
     "impact": "Low",
     "date": "05-06-2026",
     "time": "8:30am",
-    "forecast": "52.0",
+    "forecast": "51.9",
     "previous": "52.0",
     "actual": null
   },
@@ -666,7 +666,7 @@
     "impact": "Medium",
     "date": "05-06-2026",
     "time": "12:15pm",
-    "forecast": "116K",
+    "forecast": "118K",
     "previous": "62K",
     "actual": null
   },
@@ -699,7 +699,7 @@
     "impact": "Low",
     "date": "05-06-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "-3.4M",
     "previous": "-6.2M",
     "actual": null
   },
@@ -787,7 +787,7 @@
     "impact": "Low",
     "date": "05-07-2026",
     "time": "6:45am",
-    "forecast": "-5.6B",
+    "forecast": "-6.7B",
     "previous": "-5.8B",
     "actual": null
   },
@@ -831,7 +831,7 @@
     "impact": "Low",
     "date": "05-07-2026",
     "time": "8:30am",
-    "forecast": "46.0",
+    "forecast": "45.8",
     "previous": "45.6",
     "actual": null
   },
@@ -897,7 +897,7 @@
     "impact": "Low",
     "date": "05-07-2026",
     "time": "12:30pm",
-    "forecast": "1.0%",
+    "forecast": "0.7%",
     "previous": "2.8%",
     "actual": null
   },
@@ -908,7 +908,7 @@
     "impact": "Low",
     "date": "05-07-2026",
     "time": "12:30pm",
-    "forecast": "2.5%",
+    "forecast": "2.6%",
     "previous": "2.8%",
     "actual": null
   },
@@ -930,7 +930,7 @@
     "impact": "Low",
     "date": "05-07-2026",
     "time": "2:00pm",
-    "forecast": "0.2%",
+    "forecast": "0.3%",
     "previous": "",
     "actual": null
   },
@@ -952,7 +952,7 @@
     "impact": "Low",
     "date": "05-07-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "72B",
     "previous": "79B",
     "actual": null
   },
@@ -1018,7 +1018,7 @@
     "impact": "Low",
     "date": "05-08-2026",
     "time": "2:03am",
-    "forecast": "570B",
+    "forecast": "575B",
     "previous": "355B",
     "actual": null
   },
@@ -1029,7 +1029,7 @@
     "impact": "Low",
     "date": "05-08-2026",
     "time": "2:04am",
-    "forecast": "82.4B",
+    "forecast": "83.1B",
     "previous": "51.1B",
     "actual": null
   },
@@ -1051,7 +1051,7 @@
     "impact": "Low",
     "date": "05-08-2026",
     "time": "6:00am",
-    "forecast": "17.5B",
+    "forecast": "17.8B",
     "previous": "19.8B",
     "actual": null
   },
@@ -1062,7 +1062,7 @@
     "impact": "Low",
     "date": "05-08-2026",
     "time": "6:00am",
-    "forecast": "0.2%",
+    "forecast": "0.0%",
     "previous": "-0.5%",
     "actual": null
   },
@@ -1128,7 +1128,7 @@
     "impact": "High",
     "date": "05-08-2026",
     "time": "12:30pm",
-    "forecast": "11.6K",
+    "forecast": "12.9K",
     "previous": "14.1K",
     "actual": null
   },
@@ -1161,7 +1161,7 @@
     "impact": "High",
     "date": "05-08-2026",
     "time": "12:30pm",
-    "forecast": "64K",
+    "forecast": "65K",
     "previous": "178K",
     "actual": null
   },
@@ -1183,7 +1183,7 @@
     "impact": "Medium",
     "date": "05-08-2026",
     "time": "2:00pm",
-    "forecast": "49.5",
+    "forecast": "49.7",
     "previous": "47.6",
     "actual": null
   },
