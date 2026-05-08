@@ -836,6 +836,28 @@
     "actual": null
   },
   {
+    "title": "Spanish 10-y Bond Auction",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "05-07-2026",
+    "time": "8:46am",
+    "forecast": "",
+    "previous": "3.44|2.0",
+    "actual": null
+  },
+  {
+    "title": "French 10-y Bond Auction",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "05-07-2026",
+    "time": "8:57am",
+    "forecast": "",
+    "previous": "3.73|1.9",
+    "actual": null
+  },
+  {
     "title": "Retail Sales m/m",
     "country": "EUR",
     "currency": null,
@@ -847,34 +869,12 @@
     "actual": null
   },
   {
-    "title": "Spanish 10-y Bond Auction",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "05-07-2026",
-    "time": "9:03am",
-    "forecast": "",
-    "previous": "3.44|2.0",
-    "actual": null
-  },
-  {
-    "title": "French 10-y Bond Auction",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "05-07-2026",
-    "time": "9:18am",
-    "forecast": "",
-    "previous": "3.73|1.9",
-    "actual": null
-  },
-  {
     "title": "Challenger Job Cuts y/y",
     "country": "USD",
     "currency": null,
     "impact": "Low",
     "date": "05-07-2026",
-    "time": "11:30am",
+    "time": "9:30am",
     "forecast": "",
     "previous": "-78.0%",
     "actual": null
@@ -929,9 +929,9 @@
     "currency": null,
     "impact": "Low",
     "date": "05-07-2026",
-    "time": "2:00pm",
-    "forecast": "0.3%",
-    "previous": "",
+    "time": "1:59pm",
+    "forecast": "",
+    "previous": "-0.3%",
     "actual": null
   },
   {
@@ -941,8 +941,8 @@
     "impact": "Low",
     "date": "05-07-2026",
     "time": "2:00pm",
-    "forecast": "",
-    "previous": "-0.3%",
+    "forecast": "0.3%",
+    "previous": "-0.2%",
     "actual": null
   },
   {
@@ -962,7 +962,7 @@
     "currency": null,
     "impact": "Low",
     "date": "05-07-2026",
-    "time": "6:00pm",
+    "time": "5:00pm",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -1009,28 +1009,6 @@
     "time": "11:30pm",
     "forecast": "3.2%",
     "previous": "3.3%",
-    "actual": null
-  },
-  {
-    "title": "Trade Balance",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "05-08-2026",
-    "time": "2:03am",
-    "forecast": "575B",
-    "previous": "355B",
-    "actual": null
-  },
-  {
-    "title": "USD-Denominated Trade Balance",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "05-08-2026",
-    "time": "2:04am",
-    "forecast": "83.1B",
-    "previous": "51.1B",
     "actual": null
   },
   {
@@ -1262,6 +1240,28 @@
     "time": "11:30pm",
     "forecast": "",
     "previous": "",
+    "actual": null
+  },
+  {
+    "title": "Trade Balance",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "05-09-2026",
+    "time": "3:33am",
+    "forecast": "575B",
+    "previous": "355B",
+    "actual": null
+  },
+  {
+    "title": "USD-Denominated Trade Balance",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "05-09-2026",
+    "time": "3:33am",
+    "forecast": "83.1B",
+    "previous": "51.1B",
     "actual": null
   }
 ]
