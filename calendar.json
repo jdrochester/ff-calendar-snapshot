@@ -1188,12 +1188,56 @@
     "actual": null
   },
   {
+    "title": "FOMC Member Goolsbee Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "05-08-2026",
+    "time": "3:05pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "05-08-2026",
+    "time": "4:00pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "German Buba President Nagel Speaks",
     "country": "EUR",
     "currency": null,
     "impact": "Low",
     "date": "05-08-2026",
     "time": "4:15pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Goolsbee Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "05-08-2026",
+    "time": "6:20pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "FOMC Financial Stability Report",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "05-08-2026",
+    "time": "8:00pm",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -1243,25 +1287,25 @@
     "actual": null
   },
   {
-    "title": "Trade Balance",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "05-09-2026",
-    "time": "3:33am",
-    "forecast": "575B",
-    "previous": "355B",
-    "actual": null
-  },
-  {
     "title": "USD-Denominated Trade Balance",
     "country": "CNY",
     "currency": null,
     "impact": "Low",
     "date": "05-09-2026",
-    "time": "3:33am",
+    "time": "2:42am",
     "forecast": "83.1B",
     "previous": "51.1B",
+    "actual": null
+  },
+  {
+    "title": "Trade Balance",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "05-09-2026",
+    "time": "2:43am",
+    "forecast": "575B",
+    "previous": "355B",
     "actual": null
   }
 ]
