@@ -484,6 +484,17 @@
     "actual": null
   },
   {
+    "title": "Gov Council Member Alexopoulos Speaks",
+    "country": "CAD",
+    "currency": null,
+    "impact": "Low",
+    "date": "05-13-2026",
+    "time": "3:05pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "FOMC Member Collins Speaks",
     "country": "USD",
     "currency": null,
@@ -523,17 +534,6 @@
     "impact": "Low",
     "date": "05-13-2026",
     "time": "5:30pm",
-    "forecast": "",
-    "previous": "",
-    "actual": null
-  },
-  {
-    "title": "Gov Council Member Alexopoulos Speaks",
-    "country": "CAD",
-    "currency": null,
-    "impact": "Low",
-    "date": "05-13-2026",
-    "time": "6:30pm",
     "forecast": "",
     "previous": "",
     "actual": null
