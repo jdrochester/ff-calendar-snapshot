@@ -183,7 +183,7 @@
     "date": "05-12-2026",
     "time": "9:00am",
     "forecast": "-21.6",
-    "previous": "-20.9",
+    "previous": "-20.4",
     "actual": null
   },
   {
@@ -253,6 +253,17 @@
     "actual": null
   },
   {
+    "title": "FOMC Member Goolsbee Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "05-12-2026",
+    "time": "1:10pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "CB Leading Index m/m",
     "country": "AUD",
     "currency": null,
@@ -261,17 +272,6 @@
     "time": "2:30pm",
     "forecast": "",
     "previous": "1.1%",
-    "actual": null
-  },
-  {
-    "title": "Fed Chair Nomination Vote",
-    "country": "USD",
-    "currency": null,
-    "impact": "High",
-    "date": "05-12-2026",
-    "time": "4:00pm",
-    "forecast": "Pass",
-    "previous": "",
     "actual": null
   },
   {
@@ -380,7 +380,7 @@
     "impact": "Low",
     "date": "05-13-2026",
     "time": "6:00am",
-    "forecast": "1.8%",
+    "forecast": "1.7%",
     "previous": "2.7%",
     "actual": null
   },
@@ -402,7 +402,7 @@
     "impact": "Low",
     "date": "05-13-2026",
     "time": "9:00am",
-    "forecast": "0.1%",
+    "forecast": "0.0%",
     "previous": "0.2%",
     "actual": null
   },
@@ -424,7 +424,7 @@
     "impact": "Low",
     "date": "05-13-2026",
     "time": "9:00am",
-    "forecast": "0.2%",
+    "forecast": "0.3%",
     "previous": "0.4%",
     "actual": null
   },
@@ -490,7 +490,7 @@
     "impact": "Low",
     "date": "05-13-2026",
     "time": "2:30pm",
-    "forecast": "-1.6M",
+    "forecast": "-2.0M",
     "previous": "-2.3M",
     "actual": null
   },
@@ -513,6 +513,17 @@
     "date": "05-13-2026",
     "time": "3:30pm",
     "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "Fed Chair Nomination Vote",
+    "country": "USD",
+    "currency": null,
+    "impact": "High",
+    "date": "05-13-2026",
+    "time": "4:29pm",
+    "forecast": "Pass",
     "previous": "",
     "actual": null
   },
@@ -853,7 +864,7 @@
     "impact": "Low",
     "date": "05-14-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "86B",
     "previous": "63B",
     "actual": null
   },
@@ -963,7 +974,7 @@
     "impact": "Low",
     "date": "05-15-2026",
     "time": "12:15pm",
-    "forecast": "243K",
+    "forecast": "244K",
     "previous": "236K",
     "actual": null
   },
@@ -996,7 +1007,7 @@
     "impact": "Low",
     "date": "05-15-2026",
     "time": "12:30pm",
-    "forecast": "7.4",
+    "forecast": "7.3",
     "previous": "11.0",
     "actual": null
   },
