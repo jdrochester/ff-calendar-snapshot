@@ -434,7 +434,7 @@
     "currency": null,
     "impact": "Low",
     "date": "05-13-2026",
-    "time": "9:34am",
+    "time": "9:35am",
     "forecast": "",
     "previous": "3.58|1.4",
     "actual": null
@@ -517,17 +517,6 @@
     "actual": null
   },
   {
-    "title": "Fed Chair Nomination Vote",
-    "country": "USD",
-    "currency": null,
-    "impact": "High",
-    "date": "05-13-2026",
-    "time": "4:29pm",
-    "forecast": "Pass",
-    "previous": "",
-    "actual": null
-  },
-  {
     "title": "30-y Bond Auction",
     "country": "USD",
     "currency": null,
@@ -561,6 +550,17 @@
     "actual": null
   },
   {
+    "title": "Fed Chair Nomination Vote",
+    "country": "USD",
+    "currency": null,
+    "impact": "High",
+    "date": "05-13-2026",
+    "time": "6:40pm",
+    "forecast": "Pass",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "ECB President Lagarde Speaks",
     "country": "EUR",
     "currency": null,
@@ -577,7 +577,7 @@
     "currency": null,
     "impact": "Low",
     "date": "05-13-2026",
-    "time": "10:45pm",
+    "time": "10:50pm",
     "forecast": "",
     "previous": "1.7%",
     "actual": null
@@ -602,17 +602,6 @@
     "time": "11:50pm",
     "forecast": "1.9%",
     "previous": "2.0%",
-    "actual": null
-  },
-  {
-    "title": "MI Inflation Expectations",
-    "country": "AUD",
-    "currency": null,
-    "impact": "Low",
-    "date": "05-14-2026",
-    "time": "1:00am",
-    "forecast": "",
-    "previous": "5.9%",
     "actual": null
   },
   {
