@@ -429,17 +429,6 @@
     "actual": null
   },
   {
-    "title": "Core CPI m/m",
-    "country": "CAD",
-    "currency": null,
-    "impact": "Low",
-    "date": "05-19-2026",
-    "time": "12:30pm",
-    "forecast": "",
-    "previous": "0.2%",
-    "actual": null
-  },
-  {
     "title": "NHPI m/m",
     "country": "CAD",
     "currency": null,
@@ -448,6 +437,17 @@
     "time": "12:30pm",
     "forecast": "0.0%",
     "previous": "-0.2%",
+    "actual": null
+  },
+  {
+    "title": "Core CPI m/m",
+    "country": "CAD",
+    "currency": null,
+    "impact": "Low",
+    "date": "05-19-2026",
+    "time": "12:32pm",
+    "forecast": "",
+    "previous": "0.2%",
     "actual": null
   },
   {
@@ -467,7 +467,7 @@
     "currency": null,
     "impact": "Low",
     "date": "05-19-2026",
-    "time": "2:50pm",
+    "time": "2:53pm",
     "forecast": "",
     "previous": "1.5%",
     "actual": null
@@ -556,7 +556,7 @@
     "impact": "Low",
     "date": "05-20-2026",
     "time": "6:00am",
-    "forecast": "1.1%",
+    "forecast": "1.2%",
     "previous": "4.4%",
     "actual": null
   },
@@ -655,7 +655,7 @@
     "impact": "Low",
     "date": "05-20-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "-2.5M",
     "previous": "-4.3M",
     "actual": null
   },
@@ -710,7 +710,7 @@
     "impact": "Low",
     "date": "05-20-2026",
     "time": "11:50pm",
-    "forecast": "-8.1%",
+    "forecast": "-7.7%",
     "previous": "13.6%",
     "actual": null
   },
@@ -754,7 +754,7 @@
     "impact": "High",
     "date": "05-21-2026",
     "time": "1:30am",
-    "forecast": "16.2K",
+    "forecast": "16.7K",
     "previous": "17.9K",
     "actual": null
   },
@@ -861,10 +861,10 @@
     "title": "Flash Manufacturing PMI",
     "country": "GBP",
     "currency": null,
-    "impact": "High",
+    "impact": "Medium",
     "date": "05-21-2026",
     "time": "8:30am",
-    "forecast": "52.8",
+    "forecast": "52.9",
     "previous": "53.6",
     "actual": null
   },
@@ -872,7 +872,7 @@
     "title": "Flash Services PMI",
     "country": "GBP",
     "currency": null,
-    "impact": "High",
+    "impact": "Medium",
     "date": "05-21-2026",
     "time": "8:30am",
     "forecast": "51.7",
@@ -941,7 +941,7 @@
     "impact": "Medium",
     "date": "05-21-2026",
     "time": "12:30pm",
-    "forecast": "17.8",
+    "forecast": "17.6",
     "previous": "26.7",
     "actual": null
   },
@@ -985,7 +985,7 @@
     "impact": "Medium",
     "date": "05-21-2026",
     "time": "1:45pm",
-    "forecast": "53.7",
+    "forecast": "53.8",
     "previous": "54.0",
     "actual": null
   },
@@ -1018,7 +1018,7 @@
     "impact": "Low",
     "date": "05-21-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "96B",
     "previous": "85B",
     "actual": null
   },
@@ -1128,7 +1128,7 @@
     "impact": "Low",
     "date": "05-22-2026",
     "time": "6:00am",
-    "forecast": "20.8B",
+    "forecast": "20.7B",
     "previous": "12.6B",
     "actual": null
   },
@@ -1216,7 +1216,7 @@
     "impact": "Low",
     "date": "05-22-2026",
     "time": "12:30pm",
-    "forecast": "2.8%",
+    "forecast": "2.7%",
     "previous": "12.0%",
     "actual": null
   },
@@ -1238,7 +1238,7 @@
     "impact": "Medium",
     "date": "05-22-2026",
     "time": "2:00pm",
-    "forecast": "48.3",
+    "forecast": "48.2",
     "previous": "48.2",
     "actual": null
   },
