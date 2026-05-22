@@ -880,25 +880,25 @@
     "actual": null
   },
   {
-    "title": "EU Economic Forecasts",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "05-21-2026",
-    "time": "9:00am",
-    "forecast": "",
-    "previous": "",
-    "actual": null
-  },
-  {
     "title": "10-y Bond Auction",
     "country": "GBP",
     "currency": null,
     "impact": "Low",
     "date": "05-21-2026",
-    "time": "9:33am",
+    "time": "9:03am",
     "forecast": "",
     "previous": "4.91|3.5",
+    "actual": null
+  },
+  {
+    "title": "EU Economic Forecasts",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "05-21-2026",
+    "time": "9:30am",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -1006,7 +1006,7 @@
     "currency": null,
     "impact": "Low",
     "date": "05-21-2026",
-    "time": "2:00pm",
+    "time": "2:02pm",
     "forecast": "-21",
     "previous": "-21",
     "actual": null
@@ -1130,17 +1130,6 @@
     "time": "6:00am",
     "forecast": "20.7B",
     "previous": "12.6B",
-    "actual": null
-  },
-  {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "05-22-2026",
-    "time": "6:02am",
-    "forecast": "",
-    "previous": "-7.3%",
     "actual": null
   },
   {
