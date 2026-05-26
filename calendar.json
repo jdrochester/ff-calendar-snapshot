@@ -82,20 +82,9 @@
     "currency": null,
     "impact": "Low",
     "date": "05-26-2026",
-    "time": "5:00am",
+    "time": "8:46am",
     "forecast": "1.7%",
     "previous": "1.7%",
-    "actual": null
-  },
-  {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "05-26-2026",
-    "time": "6:02am",
-    "forecast": "",
-    "previous": "-7.3%",
     "actual": null
   },
   {
@@ -138,7 +127,7 @@
     "impact": "Low",
     "date": "05-26-2026",
     "time": "1:00pm",
-    "forecast": "1.0%",
+    "forecast": "0.9%",
     "previous": "0.9%",
     "actual": null
   },
@@ -160,7 +149,7 @@
     "impact": "Low",
     "date": "05-26-2026",
     "time": "11:50pm",
-    "forecast": "3.0%",
+    "forecast": "3.2%",
     "previous": "3.1%",
     "actual": null
   },
@@ -358,7 +347,7 @@
     "impact": "Low",
     "date": "05-27-2026",
     "time": "2:00pm",
-    "forecast": "5",
+    "forecast": "4",
     "previous": "3",
     "actual": null
   },
@@ -369,6 +358,17 @@
     "impact": "Low",
     "date": "05-27-2026",
     "time": "7:55pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "RBNZ Gov Breman Speaks",
+    "country": "NZD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "05-27-2026",
+    "time": "8:10pm",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -402,7 +402,7 @@
     "impact": "Low",
     "date": "05-28-2026",
     "time": "1:30am",
-    "forecast": "-0.3%",
+    "forecast": "-0.5%",
     "previous": "1.6%",
     "actual": null
   },
@@ -462,6 +462,17 @@
     "actual": null
   },
   {
+    "title": "ECB President Lagarde Speaks",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Medium",
+    "date": "05-28-2026",
+    "time": "7:20am",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "MPC Member Breeden Speaks",
     "country": "GBP",
     "currency": null,
@@ -480,7 +491,7 @@
     "date": "05-28-2026",
     "time": "9:33am",
     "forecast": "",
-    "previous": "",
+    "previous": "3.77|1.7",
     "actual": null
   },
   {
@@ -512,7 +523,7 @@
     "impact": "Low",
     "date": "05-28-2026",
     "time": "12:30pm",
-    "forecast": "-1.9B",
+    "forecast": "-3.9B",
     "previous": "-0.7B",
     "actual": null
   },
@@ -534,7 +545,7 @@
     "impact": "High",
     "date": "05-28-2026",
     "time": "12:30pm",
-    "forecast": "2.1%",
+    "forecast": "2.0%",
     "previous": "0.7%",
     "actual": null
   },
@@ -556,7 +567,7 @@
     "impact": "Medium",
     "date": "05-28-2026",
     "time": "12:30pm",
-    "forecast": "210K",
+    "forecast": "211K",
     "previous": "209K",
     "actual": null
   },
@@ -578,7 +589,7 @@
     "impact": "Low",
     "date": "05-28-2026",
     "time": "12:30pm",
-    "forecast": "3.3%",
+    "forecast": "4.0%",
     "previous": "0.8%",
     "actual": null
   },
@@ -660,6 +671,17 @@
     "actual": null
   },
   {
+    "title": "BOC Gov Macklem Speaks",
+    "country": "CAD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "05-28-2026",
+    "time": "3:00pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "BOC Press Conference",
     "country": "CAD",
     "currency": null,
@@ -679,6 +701,17 @@
     "time": "4:00pm",
     "forecast": "",
     "previous": "-7.9M",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Barkin Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "05-28-2026",
+    "time": "7:00pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -710,7 +743,7 @@
     "impact": "Low",
     "date": "05-28-2026",
     "time": "11:50pm",
-    "forecast": "-0.3%",
+    "forecast": "-0.4%",
     "previous": "-0.5%",
     "actual": null
   },
@@ -754,7 +787,7 @@
     "impact": "Low",
     "date": "05-29-2026",
     "time": "5:00am",
-    "forecast": "32.5",
+    "forecast": "32.3",
     "previous": "32.2",
     "actual": null
   },
@@ -776,7 +809,7 @@
     "impact": "Low",
     "date": "05-29-2026",
     "time": "6:00am",
-    "forecast": "",
+    "forecast": "1.2%",
     "previous": "3.6%",
     "actual": null
   },
@@ -787,7 +820,7 @@
     "impact": "Medium",
     "date": "05-29-2026",
     "time": "6:29am",
-    "forecast": "0.2%",
+    "forecast": "0.1%",
     "previous": "0.6%",
     "actual": null
   },
@@ -798,7 +831,7 @@
     "impact": "Low",
     "date": "05-29-2026",
     "time": "6:45am",
-    "forecast": "0.0%",
+    "forecast": "-0.1%",
     "previous": "0.7%",
     "actual": null
   },
@@ -853,7 +886,7 @@
     "impact": "Low",
     "date": "05-29-2026",
     "time": "7:00am",
-    "forecast": "3.4%",
+    "forecast": "3.3%",
     "previous": "3.2%",
     "actual": null
   },
@@ -897,7 +930,7 @@
     "impact": "Low",
     "date": "05-29-2026",
     "time": "9:00am",
-    "forecast": "0.2%",
+    "forecast": "0.1%",
     "previous": "1.2%",
     "actual": null
   },
@@ -930,7 +963,7 @@
     "impact": "Low",
     "date": "05-29-2026",
     "time": "12:30pm",
-    "forecast": "-88.6B",
+    "forecast": "-86.5B",
     "previous": "-87.9B",
     "actual": null
   },
@@ -941,7 +974,7 @@
     "impact": "Low",
     "date": "05-29-2026",
     "time": "12:30pm",
-    "forecast": "0.5%",
+    "forecast": "0.6%",
     "previous": "1.4%",
     "actual": null
   },
@@ -974,8 +1007,19 @@
     "impact": "Low",
     "date": "05-29-2026",
     "time": "1:45pm",
-    "forecast": "51.3",
+    "forecast": "50.6",
     "previous": "49.2",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Daly Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "05-29-2026",
+    "time": "4:40pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -996,7 +1040,7 @@
     "impact": "Low",
     "date": "05-31-2026",
     "time": "1:30am",
-    "forecast": "",
+    "forecast": "50.2",
     "previous": "50.3",
     "actual": null
   },
@@ -1007,7 +1051,7 @@
     "impact": "Low",
     "date": "05-31-2026",
     "time": "1:30am",
-    "forecast": "",
+    "forecast": "49.5",
     "previous": "49.4",
     "actual": null
   }
