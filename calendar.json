@@ -489,7 +489,7 @@
     "currency": null,
     "impact": "Low",
     "date": "05-28-2026",
-    "time": "9:33am",
+    "time": "9:09am",
     "forecast": "",
     "previous": "3.77|1.7",
     "actual": null
@@ -693,6 +693,28 @@
     "actual": null
   },
   {
+    "title": "FOMC Member Musalem Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "05-28-2026",
+    "time": "5:10pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "Treasury Sec Bessent Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "05-28-2026",
+    "time": "6:00pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "FOMC Member Barkin Speaks",
     "country": "USD",
     "currency": null,
@@ -756,17 +778,6 @@
     "time": "1:00am",
     "forecast": "",
     "previous": "-10.6",
-    "actual": null
-  },
-  {
-    "title": "Private Sector Credit m/m",
-    "country": "AUD",
-    "currency": null,
-    "impact": "Low",
-    "date": "05-29-2026",
-    "time": "1:30am",
-    "forecast": "0.6%",
-    "previous": "0.7%",
     "actual": null
   },
   {
