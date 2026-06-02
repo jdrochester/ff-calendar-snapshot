@@ -369,19 +369,8 @@
     "impact": "Low",
     "date": "06-02-2026",
     "time": "1:30am",
-    "forecast": "-22.8B",
+    "forecast": "-23.1B",
     "previous": "-21.1B",
-    "actual": null
-  },
-  {
-    "title": "Private Sector Credit m/m",
-    "country": "AUD",
-    "currency": null,
-    "impact": "Low",
-    "date": "06-02-2026",
-    "time": "1:30am",
-    "forecast": "0.6%",
-    "previous": "0.7%",
     "actual": null
   },
   {
@@ -435,7 +424,7 @@
     "impact": "Low",
     "date": "06-02-2026",
     "time": "7:00am",
-    "forecast": "",
+    "forecast": "-56.8K",
     "previous": "-62.7K",
     "actual": null
   },
@@ -490,7 +479,7 @@
     "impact": "Medium",
     "date": "06-02-2026",
     "time": "9:00am",
-    "forecast": "3.3%",
+    "forecast": "3.2%",
     "previous": "3.0%",
     "actual": null
   },
@@ -545,7 +534,7 @@
     "impact": "Low",
     "date": "06-02-2026",
     "time": "2:10pm",
-    "forecast": "",
+    "forecast": "44.5",
     "previous": "42.6",
     "actual": null
   },
@@ -611,7 +600,7 @@
     "impact": "Low",
     "date": "06-02-2026",
     "time": "10:45pm",
-    "forecast": "-1.2%",
+    "forecast": "-1.7%",
     "previous": "3.7%",
     "actual": null
   },
@@ -638,13 +627,35 @@
     "actual": null
   },
   {
+    "title": "Private Sector Credit m/m",
+    "country": "AUD",
+    "currency": null,
+    "impact": "Low",
+    "date": "06-03-2026",
+    "time": "1:50am",
+    "forecast": "0.6%",
+    "previous": "0.7%",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Goolsbee Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "06-03-2026",
+    "time": "3:00am",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "Spanish Services PMI",
     "country": "EUR",
     "currency": null,
     "impact": "Low",
     "date": "06-03-2026",
     "time": "7:15am",
-    "forecast": "48.3",
+    "forecast": "48.2",
     "previous": "47.9",
     "actual": null
   },
@@ -655,7 +666,7 @@
     "impact": "Low",
     "date": "06-03-2026",
     "time": "7:45am",
-    "forecast": "49.3",
+    "forecast": "49.2",
     "previous": "49.8",
     "actual": null
   },
@@ -666,7 +677,7 @@
     "impact": "Low",
     "date": "06-03-2026",
     "time": "7:50am",
-    "forecast": "42.9",
+    "forecast": "43.0",
     "previous": "42.9",
     "actual": null
   },
@@ -721,7 +732,7 @@
     "impact": "Low",
     "date": "06-03-2026",
     "time": "9:00am",
-    "forecast": "0.5%",
+    "forecast": "0.6%",
     "previous": "3.4%",
     "actual": null
   },
@@ -743,7 +754,7 @@
     "impact": "Low",
     "date": "06-03-2026",
     "time": "12:30pm",
-    "forecast": "0.7%",
+    "forecast": "0.3%",
     "previous": "-0.1%",
     "actual": null
   },
@@ -765,7 +776,7 @@
     "impact": "Low",
     "date": "06-03-2026",
     "time": "1:45pm",
-    "forecast": "50.9",
+    "forecast": "51.0",
     "previous": "50.9",
     "actual": null
   },
@@ -776,7 +787,7 @@
     "impact": "High",
     "date": "06-03-2026",
     "time": "2:00pm",
-    "forecast": "53.8",
+    "forecast": "53.7",
     "previous": "53.6",
     "actual": null
   },
@@ -798,7 +809,7 @@
     "impact": "Low",
     "date": "06-03-2026",
     "time": "2:00pm",
-    "forecast": "",
+    "forecast": "4.6%",
     "previous": "1.5%",
     "actual": null
   },
@@ -853,7 +864,7 @@
     "impact": "Low",
     "date": "06-04-2026",
     "time": "1:30am",
-    "forecast": "-1.61B",
+    "forecast": "1.23B",
     "previous": "-1.84B",
     "actual": null
   },
@@ -908,7 +919,7 @@
     "impact": "Low",
     "date": "06-04-2026",
     "time": "8:30am",
-    "forecast": "40.1",
+    "forecast": "40.4",
     "previous": "39.7",
     "actual": null
   },
@@ -952,7 +963,7 @@
     "impact": "Medium",
     "date": "06-04-2026",
     "time": "12:30pm",
-    "forecast": "211K",
+    "forecast": "214K",
     "previous": "215K",
     "actual": null
   },
@@ -974,7 +985,7 @@
     "impact": "Low",
     "date": "06-04-2026",
     "time": "12:30pm",
-    "forecast": "0.7%",
+    "forecast": "0.5%",
     "previous": "0.8%",
     "actual": null
   },
@@ -1029,7 +1040,7 @@
     "impact": "Low",
     "date": "06-04-2026",
     "time": "11:30pm",
-    "forecast": "3.2%",
+    "forecast": "3.1%",
     "previous": "2.7%",
     "actual": null
   },
@@ -1040,7 +1051,7 @@
     "impact": "Low",
     "date": "06-04-2026",
     "time": "11:30pm",
-    "forecast": "-1.4%",
+    "forecast": "-1.5%",
     "previous": "-2.9%",
     "actual": null
   },
@@ -1062,7 +1073,7 @@
     "impact": "Low",
     "date": "06-05-2026",
     "time": "5:00am",
-    "forecast": "114.3%",
+    "forecast": "114.4%",
     "previous": "114.5%",
     "actual": null
   },
@@ -1073,7 +1084,7 @@
     "impact": "Low",
     "date": "06-05-2026",
     "time": "6:00am",
-    "forecast": "0.2%",
+    "forecast": "0.0%",
     "previous": "-0.1%",
     "actual": null
   },
@@ -1095,7 +1106,7 @@
     "impact": "Low",
     "date": "06-05-2026",
     "time": "6:45am",
-    "forecast": "-6.5B",
+    "forecast": "-6.2B",
     "previous": "-6.9B",
     "actual": null
   },
@@ -1128,7 +1139,7 @@
     "impact": "Low",
     "date": "06-05-2026",
     "time": "9:00am",
-    "forecast": "0.2%",
+    "forecast": "0.4%",
     "previous": "0.8%",
     "actual": null
   },
@@ -1150,7 +1161,7 @@
     "impact": "High",
     "date": "06-05-2026",
     "time": "12:30pm",
-    "forecast": "10.2K",
+    "forecast": "10.0K",
     "previous": "-17.7K",
     "actual": null
   },
@@ -1183,7 +1194,7 @@
     "impact": "High",
     "date": "06-05-2026",
     "time": "12:30pm",
-    "forecast": "95K",
+    "forecast": "85K",
     "previous": "115K",
     "actual": null
   },
@@ -1238,7 +1249,7 @@
     "impact": "Low",
     "date": "06-05-2026",
     "time": "7:00pm",
-    "forecast": "18.1B",
+    "forecast": "17.8B",
     "previous": "24.9B",
     "actual": null
   },
