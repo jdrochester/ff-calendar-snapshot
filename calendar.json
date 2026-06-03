@@ -489,7 +489,7 @@
     "currency": null,
     "impact": "Low",
     "date": "06-02-2026",
-    "time": "9:33am",
+    "time": "9:00am",
     "forecast": "",
     "previous": "5.03|3.4",
     "actual": null
@@ -533,13 +533,13 @@
     "currency": null,
     "impact": "Low",
     "date": "06-02-2026",
-    "time": "2:10pm",
+    "time": "2:02pm",
     "forecast": "44.5",
     "previous": "42.6",
     "actual": null
   },
   {
-    "title": "Wards Total Vehicle Sales",
+    "title": "Omdia Total Vehicle Sales",
     "country": "USD",
     "currency": null,
     "impact": "Low",
@@ -547,17 +547,6 @@
     "time": "2:15pm",
     "forecast": "16.0M",
     "previous": "15.9M",
-    "actual": null
-  },
-  {
-    "title": "GDT Price Index",
-    "country": "NZD",
-    "currency": null,
-    "impact": "Low",
-    "date": "06-02-2026",
-    "time": "2:50pm",
-    "forecast": "",
-    "previous": "0.6%",
     "actual": null
   },
   {
@@ -569,6 +558,17 @@
     "time": "3:00pm",
     "forecast": "",
     "previous": "",
+    "actual": null
+  },
+  {
+    "title": "GDT Price Index",
+    "country": "NZD",
+    "currency": null,
+    "impact": "Low",
+    "date": "06-02-2026",
+    "time": "3:05pm",
+    "forecast": "",
+    "previous": "0.6%",
     "actual": null
   },
   {
@@ -600,7 +600,7 @@
     "impact": "Low",
     "date": "06-02-2026",
     "time": "10:45pm",
-    "forecast": "-1.7%",
+    "forecast": "-1.2%",
     "previous": "3.7%",
     "actual": null
   },
@@ -627,17 +627,6 @@
     "actual": null
   },
   {
-    "title": "Private Sector Credit m/m",
-    "country": "AUD",
-    "currency": null,
-    "impact": "Low",
-    "date": "06-03-2026",
-    "time": "1:50am",
-    "forecast": "0.6%",
-    "previous": "0.7%",
-    "actual": null
-  },
-  {
     "title": "FOMC Member Goolsbee Speaks",
     "country": "USD",
     "currency": null,
@@ -646,6 +635,17 @@
     "time": "3:00am",
     "forecast": "",
     "previous": "",
+    "actual": null
+  },
+  {
+    "title": "Private Sector Credit m/m",
+    "country": "AUD",
+    "currency": null,
+    "impact": "Low",
+    "date": "06-03-2026",
+    "time": "6:19am",
+    "forecast": "0.6%",
+    "previous": "0.7%",
     "actual": null
   },
   {
@@ -677,7 +677,7 @@
     "impact": "Low",
     "date": "06-03-2026",
     "time": "7:50am",
-    "forecast": "43.0",
+    "forecast": "42.9",
     "previous": "42.9",
     "actual": null
   },
@@ -743,7 +743,7 @@
     "impact": "High",
     "date": "06-03-2026",
     "time": "12:15pm",
-    "forecast": "116K",
+    "forecast": "118K",
     "previous": "109K",
     "actual": null
   },
@@ -820,7 +820,7 @@
     "impact": "Low",
     "date": "06-03-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "-2.9M",
     "previous": "-3.3M",
     "actual": null
   },
@@ -1007,7 +1007,7 @@
     "impact": "Low",
     "date": "06-04-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "99B",
     "previous": "92B",
     "actual": null
   },
@@ -1161,7 +1161,7 @@
     "impact": "High",
     "date": "06-05-2026",
     "time": "12:30pm",
-    "forecast": "10.0K",
+    "forecast": "10.1K",
     "previous": "-17.7K",
     "actual": null
   },
