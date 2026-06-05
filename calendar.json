@@ -924,6 +924,17 @@
     "actual": null
   },
   {
+    "title": "French 10-y Bond Auction",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "06-04-2026",
+    "time": "8:50am",
+    "forecast": "",
+    "previous": "3.61|2.0",
+    "actual": null
+  },
+  {
     "title": "Retail Sales m/m",
     "country": "EUR",
     "currency": null,
@@ -932,17 +943,6 @@
     "time": "9:00am",
     "forecast": "-0.3%",
     "previous": "-0.1%",
-    "actual": null
-  },
-  {
-    "title": "French 10-y Bond Auction",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "06-04-2026",
-    "time": "9:18am",
-    "forecast": "",
-    "previous": "3.61|2.0",
     "actual": null
   },
   {
@@ -998,6 +998,17 @@
     "time": "12:30pm",
     "forecast": "2.4%",
     "previous": "2.3%",
+    "actual": null
+  },
+  {
+    "title": "Treasury Sec Bessent Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "06-04-2026",
+    "time": "2:00pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -1062,6 +1073,17 @@
     "impact": "Low",
     "date": "06-04-2026",
     "time": "5:10pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "06-04-2026",
+    "time": "7:00pm",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -1194,7 +1216,7 @@
     "impact": "High",
     "date": "06-05-2026",
     "time": "12:30pm",
-    "forecast": "10.1K",
+    "forecast": "10.6K",
     "previous": "-17.7K",
     "actual": null
   },
