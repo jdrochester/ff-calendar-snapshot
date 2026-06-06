@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "ticker": "JPM",
+    "date": "2026-07-21",
+    "time": "time-not-supplied",
+    "eps_estimate": "$5.39"
+  }
+]
