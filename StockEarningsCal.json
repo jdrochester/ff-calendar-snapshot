@@ -4,5 +4,17 @@
     "date": "2026-07-21",
     "time": "time-not-supplied",
     "eps_estimate": "$5.39"
+  },
+  {
+    "ticker": "GOOGL",
+    "date": "2026-07-22",
+    "time": "time-not-supplied",
+    "eps_estimate": "$2.85"
+  },
+  {
+    "ticker": "TSLA",
+    "date": "2026-07-22",
+    "time": "time-not-supplied",
+    "eps_estimate": "$0.28"
   }
 ]
