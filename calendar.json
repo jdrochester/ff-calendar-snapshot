@@ -127,7 +127,7 @@
     "impact": "Low",
     "date": "06-08-2026",
     "time": "11:01pm",
-    "forecast": "0.6%",
+    "forecast": "0.8%",
     "previous": "-3.4%",
     "actual": null
   },
@@ -165,25 +165,25 @@
     "actual": null
   },
   {
-    "title": "Trade Balance",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "06-09-2026",
-    "time": "2:03am",
-    "forecast": "637B",
-    "previous": "586B",
-    "actual": null
-  },
-  {
     "title": "USD-Denominated Trade Balance",
     "country": "CNY",
     "currency": null,
     "impact": "Low",
     "date": "06-09-2026",
-    "time": "2:04am",
-    "forecast": "88.7B",
+    "time": "2:32am",
+    "forecast": "92.1B",
     "previous": "84.8B",
+    "actual": null
+  },
+  {
+    "title": "Trade Balance",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "06-09-2026",
+    "time": "2:33am",
+    "forecast": "625B",
+    "previous": "586B",
     "actual": null
   },
   {
@@ -193,7 +193,7 @@
     "impact": "Low",
     "date": "06-09-2026",
     "time": "6:00am",
-    "forecast": "0.1%",
+    "forecast": "0.4%",
     "previous": "-0.7%",
     "actual": null
   },
@@ -204,7 +204,7 @@
     "impact": "Low",
     "date": "06-09-2026",
     "time": "6:00am",
-    "forecast": "14.2B",
+    "forecast": "15.4B",
     "previous": "14.3B",
     "actual": null
   },
@@ -248,7 +248,7 @@
     "impact": "Low",
     "date": "06-09-2026",
     "time": "12:30pm",
-    "forecast": "1.9B",
+    "forecast": "2.5B",
     "previous": "1.8B",
     "actual": null
   },
@@ -259,7 +259,7 @@
     "impact": "Low",
     "date": "06-09-2026",
     "time": "12:30pm",
-    "forecast": "-55.2B",
+    "forecast": "-56.2B",
     "previous": "-60.3B",
     "actual": null
   },
@@ -270,7 +270,7 @@
     "impact": "Low",
     "date": "06-09-2026",
     "time": "2:00pm",
-    "forecast": "4.08M",
+    "forecast": "4.07M",
     "previous": "4.02M",
     "actual": null
   },
@@ -303,7 +303,7 @@
     "impact": "Low",
     "date": "06-09-2026",
     "time": "11:50pm",
-    "forecast": "5.7%",
+    "forecast": "5.6%",
     "previous": "4.9%",
     "actual": null
   },
@@ -347,7 +347,7 @@
     "impact": "Low",
     "date": "06-10-2026",
     "time": "8:00am",
-    "forecast": "0.1%",
+    "forecast": "0.0%",
     "previous": "0.7%",
     "actual": null
   },
@@ -369,7 +369,7 @@
     "impact": "High",
     "date": "06-10-2026",
     "time": "12:30pm",
-    "forecast": "0.5%",
+    "forecast": "0.3%",
     "previous": "0.4%",
     "actual": null
   },
@@ -391,7 +391,7 @@
     "impact": "High",
     "date": "06-10-2026",
     "time": "12:30pm",
-    "forecast": "0.3%",
+    "forecast": "0.5%",
     "previous": "0.6%",
     "actual": null
   },
@@ -446,7 +446,7 @@
     "impact": "Low",
     "date": "06-10-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "-5.1M",
     "previous": "-8.0M",
     "actual": null
   },
@@ -468,7 +468,7 @@
     "impact": "Low",
     "date": "06-10-2026",
     "time": "6:00pm",
-    "forecast": "",
+    "forecast": "-280.9B",
     "previous": "215.0B",
     "actual": null
   },
@@ -479,7 +479,7 @@
     "impact": "Low",
     "date": "06-10-2026",
     "time": "11:01pm",
-    "forecast": "",
+    "forecast": "-32%",
     "previous": "-34%",
     "actual": null
   },
@@ -490,7 +490,7 @@
     "impact": "Low",
     "date": "06-10-2026",
     "time": "11:50pm",
-    "forecast": "",
+    "forecast": "4.2",
     "previous": "3.8",
     "actual": null
   },
@@ -523,7 +523,7 @@
     "impact": "Low",
     "date": "06-11-2026",
     "time": "8:03am",
-    "forecast": "540B",
+    "forecast": "450B",
     "previous": "-10B",
     "actual": null
   },
@@ -567,7 +567,7 @@
     "impact": "Low",
     "date": "06-11-2026",
     "time": "12:30pm",
-    "forecast": "",
+    "forecast": "-3.7%",
     "previous": "10.3%",
     "actual": null
   },
@@ -600,7 +600,7 @@
     "impact": "Medium",
     "date": "06-11-2026",
     "time": "12:30pm",
-    "forecast": "",
+    "forecast": "220K",
     "previous": "225K",
     "actual": null
   },
@@ -666,7 +666,7 @@
     "impact": "Low",
     "date": "06-12-2026",
     "time": "4:30am",
-    "forecast": "",
+    "forecast": "0.9%",
     "previous": "0.8%",
     "actual": null
   },
@@ -677,7 +677,7 @@
     "impact": "Low",
     "date": "06-12-2026",
     "time": "6:00am",
-    "forecast": "",
+    "forecast": "-0.2%",
     "previous": "-0.2%",
     "actual": null
   },
@@ -688,7 +688,7 @@
     "impact": "High",
     "date": "06-12-2026",
     "time": "6:00am",
-    "forecast": "",
+    "forecast": "-0.1%",
     "previous": "0.3%",
     "actual": null
   },
@@ -699,7 +699,7 @@
     "impact": "Low",
     "date": "06-12-2026",
     "time": "6:00am",
-    "forecast": "",
+    "forecast": "-0.7%",
     "previous": "1.5%",
     "actual": null
   },
@@ -710,7 +710,7 @@
     "impact": "Low",
     "date": "06-12-2026",
     "time": "6:00am",
-    "forecast": "",
+    "forecast": "-22.5B",
     "previous": "-27.2B",
     "actual": null
   },
@@ -721,7 +721,7 @@
     "impact": "Low",
     "date": "06-12-2026",
     "time": "6:00am",
-    "forecast": "",
+    "forecast": "0.8%",
     "previous": "0.8%",
     "actual": null
   },
@@ -732,7 +732,7 @@
     "impact": "Low",
     "date": "06-12-2026",
     "time": "6:00am",
-    "forecast": "",
+    "forecast": "0.1%",
     "previous": "-0.2%",
     "actual": null
   },
@@ -743,7 +743,7 @@
     "impact": "Low",
     "date": "06-12-2026",
     "time": "6:00am",
-    "forecast": "",
+    "forecast": "-0.2%",
     "previous": "1.2%",
     "actual": null
   },
@@ -754,7 +754,7 @@
     "impact": "Low",
     "date": "06-12-2026",
     "time": "6:45am",
-    "forecast": "",
+    "forecast": "0.1%",
     "previous": "0.1%",
     "actual": null
   },
@@ -787,7 +787,7 @@
     "impact": "Low",
     "date": "06-12-2026",
     "time": "12:30pm",
-    "forecast": "",
+    "forecast": "78.6%",
     "previous": "78.5%",
     "actual": null
   },
@@ -809,7 +809,7 @@
     "impact": "Medium",
     "date": "06-12-2026",
     "time": "2:00pm",
-    "forecast": "46.6",
+    "forecast": "46.1",
     "previous": "48.2",
     "actual": null
   },
