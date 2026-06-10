@@ -325,7 +325,7 @@
     "impact": "Low",
     "date": "06-10-2026",
     "time": "1:30am",
-    "forecast": "3.8%",
+    "forecast": "3.9%",
     "previous": "2.8%",
     "actual": null
   },
@@ -446,7 +446,7 @@
     "impact": "Low",
     "date": "06-10-2026",
     "time": "2:30pm",
-    "forecast": "-5.1M",
+    "forecast": "-3.0M",
     "previous": "-8.0M",
     "actual": null
   },
@@ -468,7 +468,7 @@
     "impact": "Low",
     "date": "06-10-2026",
     "time": "6:00pm",
-    "forecast": "-280.9B",
+    "forecast": "-282.9B",
     "previous": "215.0B",
     "actual": null
   },
@@ -622,7 +622,7 @@
     "impact": "Low",
     "date": "06-11-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "101B",
     "previous": "95B",
     "actual": null
   },
@@ -778,17 +778,6 @@
     "time": "9:15am",
     "forecast": "",
     "previous": "",
-    "actual": null
-  },
-  {
-    "title": "Capacity Utilization Rate",
-    "country": "CAD",
-    "currency": null,
-    "impact": "Low",
-    "date": "06-12-2026",
-    "time": "12:30pm",
-    "forecast": "78.6%",
-    "previous": "78.5%",
     "actual": null
   },
   {
