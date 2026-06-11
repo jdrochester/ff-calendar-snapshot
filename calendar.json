@@ -357,7 +357,7 @@
     "currency": null,
     "impact": "Low",
     "date": "06-10-2026",
-    "time": "9:42am",
+    "time": "9:35am",
     "forecast": "",
     "previous": "3.16|1.5",
     "actual": null
@@ -467,7 +467,7 @@
     "currency": null,
     "impact": "Low",
     "date": "06-10-2026",
-    "time": "6:00pm",
+    "time": "5:59pm",
     "forecast": "-282.9B",
     "previous": "215.0B",
     "actual": null
@@ -503,28 +503,6 @@
     "time": "1:00am",
     "forecast": "",
     "previous": "5.6%",
-    "actual": null
-  },
-  {
-    "title": "M2 Money Supply y/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "06-11-2026",
-    "time": "8:03am",
-    "forecast": "8.6%",
-    "previous": "8.6%",
-    "actual": null
-  },
-  {
-    "title": "New Loans",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "06-11-2026",
-    "time": "8:03am",
-    "forecast": "450B",
-    "previous": "-10B",
     "actual": null
   },
   {
@@ -756,6 +734,28 @@
     "time": "6:45am",
     "forecast": "0.1%",
     "previous": "0.1%",
+    "actual": null
+  },
+  {
+    "title": "M2 Money Supply y/y",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "06-12-2026",
+    "time": "8:03am",
+    "forecast": "8.6%",
+    "previous": "8.6%",
+    "actual": null
+  },
+  {
+    "title": "New Loans",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "06-12-2026",
+    "time": "8:03am",
+    "forecast": "450B",
+    "previous": "-10B",
     "actual": null
   },
   {
