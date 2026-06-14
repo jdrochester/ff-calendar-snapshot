@@ -16,5 +16,17 @@
     "date": "2026-07-22",
     "time": "time-not-supplied",
     "eps_estimate": "$0.27"
+  },
+  {
+    "ticker": "MSFT",
+    "date": "2026-07-29",
+    "time": "time-not-supplied",
+    "eps_estimate": "$4.21"
+  },
+  {
+    "ticker": "META",
+    "date": "2026-07-29",
+    "time": "time-not-supplied",
+    "eps_estimate": "$7.11"
   }
 ]
