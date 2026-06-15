@@ -82,7 +82,7 @@
     "currency": null,
     "impact": "Medium",
     "date": "06-15-2026",
-    "time": "7:15am",
+    "time": "7:30am",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -96,6 +96,17 @@
     "time": "8:00am",
     "forecast": "5.19B",
     "previous": "4.71B",
+    "actual": null
+  },
+  {
+    "title": "G7 Meetings",
+    "country": "All",
+    "currency": null,
+    "impact": "Low",
+    "date": "06-15-2026",
+    "time": "8:45am",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -336,6 +347,17 @@
     "impact": "High",
     "date": "06-16-2026",
     "time": "5:30am",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "G7 Meetings",
+    "country": "All",
+    "currency": null,
+    "impact": "Low",
+    "date": "06-16-2026",
+    "time": "8:45am",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -583,6 +605,17 @@
     "actual": null
   },
   {
+    "title": "G7 Meetings",
+    "country": "All",
+    "currency": null,
+    "impact": "Low",
+    "date": "06-17-2026",
+    "time": "8:45am",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "Final Core CPI y/y",
     "country": "EUR",
     "currency": null,
@@ -635,6 +668,17 @@
     "time": "12:30pm",
     "forecast": "0.5%",
     "previous": "0.5%",
+    "actual": null
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "06-17-2026",
+    "time": "1:30pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
