@@ -682,17 +682,6 @@
     "actual": null
   },
   {
-    "title": "President Trump Speaks",
-    "country": "USD",
-    "currency": null,
-    "impact": "Medium",
-    "date": "06-17-2026",
-    "time": "1:30pm",
-    "forecast": "",
-    "previous": "",
-    "actual": null
-  },
-  {
     "title": "Business Inventories m/m",
     "country": "USD",
     "currency": null,
@@ -723,6 +712,17 @@
     "time": "2:30pm",
     "forecast": "-3.6M",
     "previous": "-7.2M",
+    "actual": null
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "06-17-2026",
+    "time": "2:45pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
