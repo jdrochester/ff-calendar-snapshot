@@ -27,7 +27,7 @@
     "ticker": "META",
     "date": "2026-07-29",
     "time": "time-not-supplied",
-    "eps_estimate": "$7.11"
+    "eps_estimate": "$7.10"
   },
   {
     "ticker": "AAPL",
@@ -40,5 +40,11 @@
     "date": "2026-07-30",
     "time": "time-not-supplied",
     "eps_estimate": "$1.82"
+  },
+  {
+    "ticker": "BRK.B",
+    "date": "2026-08-07",
+    "time": "time-not-supplied",
+    "eps_estimate": "$5.53"
   }
 ]
