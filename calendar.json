@@ -33,6 +33,17 @@
     "actual": null
   },
   {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "06-22-2026",
+    "time": "9:06am",
+    "forecast": "",
+    "previous": "-10.3%",
+    "actual": null
+  },
+  {
     "title": "German Buba President Nagel Speaks",
     "country": "EUR",
     "currency": null,
@@ -126,7 +137,7 @@
     "currency": null,
     "impact": "Low",
     "date": "06-22-2026",
-    "time": "2:00pm",
+    "time": "2:04pm",
     "forecast": "-18",
     "previous": "-19",
     "actual": null
@@ -138,6 +149,17 @@
     "impact": "Medium",
     "date": "06-22-2026",
     "time": "3:25pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Goolsbee Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "06-22-2026",
+    "time": "9:30pm",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -187,24 +209,13 @@
     "actual": null
   },
   {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "06-23-2026",
-    "time": "6:02am",
-    "forecast": "",
-    "previous": "-10.3%",
-    "actual": null
-  },
-  {
     "title": "French Flash Manufacturing PMI",
     "country": "EUR",
     "currency": null,
     "impact": "Medium",
     "date": "06-23-2026",
     "time": "7:15am",
-    "forecast": "50.1",
+    "forecast": "50.2",
     "previous": "48.9",
     "actual": null
   },
@@ -215,7 +226,7 @@
     "impact": "Medium",
     "date": "06-23-2026",
     "time": "7:15am",
-    "forecast": "45.7",
+    "forecast": "45.9",
     "previous": "42.9",
     "actual": null
   },
@@ -226,7 +237,7 @@
     "impact": "Medium",
     "date": "06-23-2026",
     "time": "7:30am",
-    "forecast": "50.2",
+    "forecast": "50.3",
     "previous": "49.9",
     "actual": null
   },
@@ -281,7 +292,7 @@
     "impact": "Medium",
     "date": "06-23-2026",
     "time": "8:30am",
-    "forecast": "50.0",
+    "forecast": "50.1",
     "previous": "47.9",
     "actual": null
   },
@@ -358,7 +369,7 @@
     "impact": "Medium",
     "date": "06-23-2026",
     "time": "1:45pm",
-    "forecast": "51.0",
+    "forecast": "51.1",
     "previous": "50.9",
     "actual": null
   },
@@ -545,7 +556,7 @@
     "impact": "Low",
     "date": "06-24-2026",
     "time": "12:30pm",
-    "forecast": "-219B",
+    "forecast": "-206B",
     "previous": "-191B",
     "actual": null
   },
@@ -578,7 +589,7 @@
     "impact": "Low",
     "date": "06-24-2026",
     "time": "2:00pm",
-    "forecast": "637K",
+    "forecast": "638K",
     "previous": "622K",
     "actual": null
   },
@@ -589,7 +600,7 @@
     "impact": "Low",
     "date": "06-24-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "-5.1M",
     "previous": "-8.3M",
     "actual": null
   },
@@ -644,7 +655,7 @@
     "impact": "High",
     "date": "06-25-2026",
     "time": "1:30am",
-    "forecast": "30.3K",
+    "forecast": "31.2K",
     "previous": "-18.6K",
     "actual": null
   },
@@ -666,7 +677,7 @@
     "impact": "Low",
     "date": "06-25-2026",
     "time": "1:30am",
-    "forecast": "0.6%",
+    "forecast": "0.5%",
     "previous": "-1.1%",
     "actual": null
   },
@@ -678,7 +689,7 @@
     "date": "06-25-2026",
     "time": "1:35am",
     "forecast": "",
-    "previous": "",
+    "previous": "-4",
     "actual": null
   },
   {
@@ -688,7 +699,7 @@
     "impact": "Low",
     "date": "06-25-2026",
     "time": "6:00am",
-    "forecast": "-27.6",
+    "forecast": "-27.8",
     "previous": "-29.8",
     "actual": null
   },
@@ -754,8 +765,8 @@
     "impact": "Medium",
     "date": "06-25-2026",
     "time": "12:30pm",
-    "forecast": "226K",
-    "previous": "229K",
+    "forecast": "225K",
+    "previous": "226K",
     "actual": null
   },
   {
@@ -776,7 +787,7 @@
     "impact": "Low",
     "date": "06-25-2026",
     "time": "12:30pm",
-    "forecast": "-4.9%",
+    "forecast": "-5.0%",
     "previous": "7.9%",
     "actual": null
   },
@@ -820,7 +831,7 @@
     "impact": "Low",
     "date": "06-25-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "67B",
     "previous": "73B",
     "actual": null
   },
@@ -886,7 +897,7 @@
     "impact": "Low",
     "date": "06-26-2026",
     "time": "12:30pm",
-    "forecast": "-85.4B",
+    "forecast": "-85.0B",
     "previous": "-82.4B",
     "actual": null
   },
