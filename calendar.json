@@ -533,7 +533,7 @@
     "currency": null,
     "impact": "Low",
     "date": "06-24-2026",
-    "time": "9:42am",
+    "time": "9:40am",
     "forecast": "",
     "previous": "3.06|1.7",
     "actual": null
@@ -572,6 +572,17 @@
     "actual": null
   },
   {
+    "title": "Belgian NBB Business Climate",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "06-24-2026",
+    "time": "12:38pm",
+    "forecast": "-12.0",
+    "previous": "-13.3",
+    "actual": null
+  },
+  {
     "title": "SNB Quarterly Bulletin",
     "country": "CHF",
     "currency": null,
@@ -580,17 +591,6 @@
     "time": "1:00pm",
     "forecast": "",
     "previous": "",
-    "actual": null
-  },
-  {
-    "title": "Belgian NBB Business Climate",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "06-24-2026",
-    "time": "1:00pm",
-    "forecast": "-12.0",
-    "previous": "-13.3",
     "actual": null
   },
   {
@@ -660,6 +660,17 @@
     "actual": null
   },
   {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "06-25-2026",
+    "time": "12:30am",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "Employment Change",
     "country": "AUD",
     "currency": null,
@@ -698,7 +709,7 @@
     "currency": null,
     "impact": "Low",
     "date": "06-25-2026",
-    "time": "1:35am",
+    "time": "3:50am",
     "forecast": "",
     "previous": "-4",
     "actual": null
