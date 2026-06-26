@@ -836,12 +836,23 @@
     "actual": null
   },
   {
+    "title": "FOMC Member Bowman Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "06-25-2026",
+    "time": "12:45pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "CB Leading Index m/m",
     "country": "CNY",
     "currency": null,
     "impact": "Low",
     "date": "06-25-2026",
-    "time": "1:00pm",
+    "time": "1:04pm",
     "forecast": "",
     "previous": "-0.8%",
     "actual": null
@@ -909,7 +920,7 @@
     "date": "06-26-2026",
     "time": "9:33am",
     "forecast": "",
-    "previous": "",
+    "previous": "3.77|1.6",
     "actual": null
   },
   {
@@ -954,17 +965,6 @@
     "time": "2:00pm",
     "forecast": "",
     "previous": "4.6%",
-    "actual": null
-  },
-  {
-    "title": "FOMC Member Williams Speaks",
-    "country": "USD",
-    "currency": null,
-    "impact": "Low",
-    "date": "06-26-2026",
-    "time": "2:30pm",
-    "forecast": "",
-    "previous": "",
     "actual": null
   },
   {
