@@ -918,7 +918,7 @@
     "currency": null,
     "impact": "Low",
     "date": "06-26-2026",
-    "time": "9:33am",
+    "time": "9:06am",
     "forecast": "",
     "previous": "3.77|1.6",
     "actual": null
@@ -974,6 +974,17 @@
     "impact": "Low",
     "date": "06-26-2026",
     "time": "3:30pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "06-26-2026",
+    "time": "5:30pm",
     "forecast": "",
     "previous": "",
     "actual": null
