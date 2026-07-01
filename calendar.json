@@ -798,8 +798,19 @@
     "impact": "Low",
     "date": "07-01-2026",
     "time": "2:30pm",
-    "forecast": "-4.8M",
+    "forecast": "-2.9M",
     "previous": "-6.1M",
+    "actual": null
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "07-01-2026",
+    "time": "7:15pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -985,7 +996,7 @@
     "impact": "High",
     "date": "07-02-2026",
     "time": "12:30pm",
-    "forecast": "110K",
+    "forecast": "114K",
     "previous": "172K",
     "actual": null
   },
@@ -1040,7 +1051,7 @@
     "impact": "Low",
     "date": "07-02-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "81B",
     "previous": "76B",
     "actual": null
   },
