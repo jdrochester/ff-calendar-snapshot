@@ -924,6 +924,28 @@
     "actual": null
   },
   {
+    "title": "Spanish 10-y Bond Auction",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "07-02-2026",
+    "time": "8:41am",
+    "forecast": "",
+    "previous": "3.38|1.9",
+    "actual": null
+  },
+  {
+    "title": "French 10-y Bond Auction",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "07-02-2026",
+    "time": "8:56am",
+    "forecast": "",
+    "previous": "3.80|2.4",
+    "actual": null
+  },
+  {
     "title": "Unemployment Rate",
     "country": "EUR",
     "currency": null,
@@ -935,34 +957,12 @@
     "actual": null
   },
   {
-    "title": "Spanish 10-y Bond Auction",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "07-02-2026",
-    "time": "9:03am",
-    "forecast": "",
-    "previous": "3.38|1.9",
-    "actual": null
-  },
-  {
-    "title": "French 10-y Bond Auction",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "07-02-2026",
-    "time": "9:18am",
-    "forecast": "",
-    "previous": "3.80|2.4",
-    "actual": null
-  },
-  {
     "title": "10-y Bond Auction",
     "country": "GBP",
     "currency": null,
     "impact": "Low",
     "date": "07-02-2026",
-    "time": "9:33am",
+    "time": "9:03am",
     "forecast": "",
     "previous": "4.86|3.5",
     "actual": null
