@@ -171,7 +171,7 @@
     "impact": "Low",
     "date": "07-06-2026",
     "time": "11:30pm",
-    "forecast": "-2.2%",
+    "forecast": "-2.3%",
     "previous": "-0.5%",
     "actual": null
   },
@@ -204,7 +204,7 @@
     "impact": "Low",
     "date": "07-07-2026",
     "time": "6:00am",
-    "forecast": "0.4%",
+    "forecast": "0.1%",
     "previous": "0.4%",
     "actual": null
   },
@@ -214,8 +214,8 @@
     "currency": null,
     "impact": "Low",
     "date": "07-07-2026",
-    "time": "6:00am",
-    "forecast": "0.2%",
+    "time": "6:03am",
+    "forecast": "0.1%",
     "previous": "-0.1%",
     "actual": null
   },
@@ -226,7 +226,7 @@
     "impact": "Low",
     "date": "07-07-2026",
     "time": "6:45am",
-    "forecast": "-5.2B",
+    "forecast": "-5.9B",
     "previous": "-5.6B",
     "actual": null
   },
@@ -286,6 +286,17 @@
     "actual": null
   },
   {
+    "title": "FOMC Member Bowman Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "07-07-2026",
+    "time": "11:00am",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "ADP Weekly Employment Change",
     "country": "USD",
     "currency": null,
@@ -314,7 +325,7 @@
     "impact": "Low",
     "date": "07-07-2026",
     "time": "12:30pm",
-    "forecast": "2.4B",
+    "forecast": "2.8B",
     "previous": "2.7B",
     "actual": null
   },
@@ -325,7 +336,7 @@
     "impact": "Low",
     "date": "07-07-2026",
     "time": "12:30pm",
-    "forecast": "-78.5B",
+    "forecast": "-78.3B",
     "previous": "-55.9B",
     "actual": null
   },
@@ -446,7 +457,7 @@
     "impact": "Low",
     "date": "07-08-2026",
     "time": "5:00am",
-    "forecast": "44.6",
+    "forecast": "44.3",
     "previous": "43.6",
     "actual": null
   },
@@ -523,7 +534,7 @@
     "impact": "Low",
     "date": "07-08-2026",
     "time": "7:00pm",
-    "forecast": "17.6B",
+    "forecast": "16.9B",
     "previous": "20.7B",
     "actual": null
   },
@@ -545,7 +556,7 @@
     "impact": "Low",
     "date": "07-08-2026",
     "time": "11:01pm",
-    "forecast": "-32%",
+    "forecast": "-31%",
     "previous": "-35%",
     "actual": null
   },
@@ -578,7 +589,7 @@
     "impact": "Low",
     "date": "07-09-2026",
     "time": "1:30am",
-    "forecast": "4.2%",
+    "forecast": "4.1%",
     "previous": "3.9%",
     "actual": null
   },
@@ -589,7 +600,7 @@
     "impact": "Low",
     "date": "07-09-2026",
     "time": "6:00am",
-    "forecast": "14.2B",
+    "forecast": "14.9B",
     "previous": "14.5B",
     "actual": null
   },
@@ -655,7 +666,7 @@
     "impact": "Low",
     "date": "07-09-2026",
     "time": "2:00pm",
-    "forecast": "4.20M",
+    "forecast": "4.19M",
     "previous": "4.17M",
     "actual": null
   },
@@ -754,7 +765,7 @@
     "impact": "Low",
     "date": "07-10-2026",
     "time": "8:00am",
-    "forecast": "-0.2%",
+    "forecast": "-0.1%",
     "previous": "0.5%",
     "actual": null
   },
@@ -776,7 +787,7 @@
     "impact": "High",
     "date": "07-10-2026",
     "time": "12:30pm",
-    "forecast": "10.0K",
+    "forecast": "11.2K",
     "previous": "87.8K",
     "actual": null
   },
@@ -798,7 +809,7 @@
     "impact": "Low",
     "date": "07-10-2026",
     "time": "12:30pm",
-    "forecast": "0.5%",
+    "forecast": "1.0%",
     "previous": "-7.6%",
     "actual": null
   },
