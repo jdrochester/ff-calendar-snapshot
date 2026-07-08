@@ -209,7 +209,7 @@
     "actual": null
   },
   {
-    "title": "Halifax HPI m/m",
+    "title": "Lloyds HPI m/m",
     "country": "GBP",
     "currency": null,
     "impact": "Low",
@@ -315,7 +315,7 @@
     "date": "07-07-2026",
     "time": "12:15pm",
     "forecast": "",
-    "previous": "",
+    "previous": "24.3K",
     "actual": null
   },
   {
@@ -357,7 +357,7 @@
     "currency": null,
     "impact": "Low",
     "date": "07-07-2026",
-    "time": "2:10pm",
+    "time": "2:04pm",
     "forecast": "45.0",
     "previous": "42.5",
     "actual": null
@@ -368,7 +368,7 @@
     "currency": null,
     "impact": "Low",
     "date": "07-07-2026",
-    "time": "2:50pm",
+    "time": "3:16pm",
     "forecast": "",
     "previous": "-2.8%",
     "actual": null
@@ -501,8 +501,19 @@
     "impact": "Low",
     "date": "07-08-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "-1.9M",
     "previous": "-3.8M",
+    "actual": null
+  },
+  {
+    "title": "SNB Chairman Schlegel Speaks",
+    "country": "CHF",
+    "currency": null,
+    "impact": "Medium",
+    "date": "07-08-2026",
+    "time": "4:40pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -677,7 +688,7 @@
     "impact": "Low",
     "date": "07-09-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "60B",
     "previous": "87B",
     "actual": null
   },
