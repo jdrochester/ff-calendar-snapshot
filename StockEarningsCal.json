@@ -8,7 +8,7 @@
   {
     "ticker": "GOOGL",
     "date": "2026-07-22",
-    "time": "time-not-supplied",
+    "time": "time-after-hours",
     "eps_estimate": "$2.86"
   },
   {
@@ -20,7 +20,7 @@
   {
     "ticker": "MSFT",
     "date": "2026-07-29",
-    "time": "time-not-supplied",
+    "time": "time-after-hours",
     "eps_estimate": "$4.21"
   },
   {
@@ -45,6 +45,6 @@
     "ticker": "BRK.B",
     "date": "2026-08-07",
     "time": "time-not-supplied",
-    "eps_estimate": "$5.53"
+    "eps_estimate": "$5.24"
   }
 ]
