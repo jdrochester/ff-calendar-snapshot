@@ -46,5 +46,11 @@
     "date": "2026-08-07",
     "time": "time-not-supplied",
     "eps_estimate": "$5.24"
+  },
+  {
+    "ticker": "NVDA",
+    "date": "2026-08-26",
+    "time": "time-not-supplied",
+    "eps_estimate": "$2.01"
   }
 ]
