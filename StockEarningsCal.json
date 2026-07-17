@@ -9,7 +9,7 @@
     "ticker": "TSLA",
     "date": "2026-07-22",
     "time": "time-after-hours",
-    "eps_estimate": "$0.28"
+    "eps_estimate": "$0.29"
   },
   {
     "ticker": "MSFT",
@@ -20,7 +20,7 @@
   {
     "ticker": "META",
     "date": "2026-07-29",
-    "time": "time-not-supplied",
+    "time": "time-after-hours",
     "eps_estimate": "$7.09"
   },
   {
