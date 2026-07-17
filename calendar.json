@@ -797,7 +797,7 @@
     "currency": null,
     "impact": "Low",
     "date": "07-16-2026",
-    "time": "9:33am",
+    "time": "9:02am",
     "forecast": "",
     "previous": "4.93|3.3",
     "actual": null
@@ -919,17 +919,6 @@
     "impact": "Low",
     "date": "07-16-2026",
     "time": "5:25pm",
-    "forecast": "",
-    "previous": "",
-    "actual": null
-  },
-  {
-    "title": "Treasury Currency Report",
-    "country": "USD",
-    "currency": null,
-    "impact": "Low",
-    "date": "07-16-2026",
-    "time": "8:00pm",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -1086,6 +1075,17 @@
     "time": "2:00pm",
     "forecast": "",
     "previous": "4.6%",
+    "actual": null
+  },
+  {
+    "title": "Treasury Currency Report",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "07-17-2026",
+    "time": "8:30pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   }
 ]
