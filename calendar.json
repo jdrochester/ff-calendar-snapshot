@@ -1076,16 +1076,5 @@
     "forecast": "",
     "previous": "4.6%",
     "actual": null
-  },
-  {
-    "title": "Treasury Currency Report",
-    "country": "USD",
-    "currency": null,
-    "impact": "Low",
-    "date": "07-17-2026",
-    "time": "8:30pm",
-    "forecast": "",
-    "previous": "",
-    "actual": null
   }
 ]
