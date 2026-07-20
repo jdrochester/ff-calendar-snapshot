@@ -46,5 +46,11 @@
     "date": "2026-08-26",
     "time": "time-not-supplied",
     "eps_estimate": "$2.01"
+  },
+  {
+    "ticker": "AVGO",
+    "date": "2026-09-03",
+    "time": "time-not-supplied",
+    "eps_estimate": "$2.84"
   }
 ]
