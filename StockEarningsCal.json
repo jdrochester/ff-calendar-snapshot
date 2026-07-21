@@ -3,7 +3,7 @@
     "ticker": "GOOGL",
     "date": "2026-07-22",
     "time": "time-after-hours",
-    "eps_estimate": "$2.86"
+    "eps_estimate": "$2.87"
   },
   {
     "ticker": "TSLA",
@@ -32,7 +32,7 @@
   {
     "ticker": "AMZN",
     "date": "2026-07-30",
-    "time": "time-not-supplied",
+    "time": "time-after-hours",
     "eps_estimate": "$1.82"
   },
   {
