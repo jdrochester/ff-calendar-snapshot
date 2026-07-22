@@ -187,17 +187,6 @@
     "actual": null
   },
   {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "07-21-2026",
-    "time": "6:02am",
-    "forecast": "",
-    "previous": "-8.6%",
-    "actual": null
-  },
-  {
     "title": "ZEW Economic Sentiment",
     "country": "EUR",
     "currency": null,
@@ -247,7 +236,7 @@
     "currency": null,
     "impact": "Low",
     "date": "07-21-2026",
-    "time": "2:50pm",
+    "time": "3:16pm",
     "forecast": "",
     "previous": "-4.9%",
     "actual": null
@@ -291,7 +280,7 @@
     "currency": null,
     "impact": "Low",
     "date": "07-22-2026",
-    "time": "3:00am",
+    "time": "3:03am",
     "forecast": "",
     "previous": "5.1%",
     "actual": null
@@ -352,6 +341,17 @@
     "actual": null
   },
   {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "07-22-2026",
+    "time": "6:02am",
+    "forecast": "",
+    "previous": "-8.6%",
+    "actual": null
+  },
+  {
     "title": "HPI y/y",
     "country": "GBP",
     "currency": null,
@@ -369,8 +369,19 @@
     "impact": "Low",
     "date": "07-22-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "-2.0M",
     "previous": "-1.7M",
+    "actual": null
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "07-22-2026",
+    "time": "7:00pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -501,7 +512,7 @@
     "impact": "Low",
     "date": "07-23-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "29B",
     "previous": "41B",
     "actual": null
   },
