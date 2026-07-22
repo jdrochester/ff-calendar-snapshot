@@ -21,7 +21,7 @@
     "ticker": "META",
     "date": "2026-07-29",
     "time": "time-after-hours",
-    "eps_estimate": "$7.09"
+    "eps_estimate": "$7.13"
   },
   {
     "ticker": "AAPL",
@@ -51,6 +51,6 @@
     "ticker": "AVGO",
     "date": "2026-09-03",
     "time": "time-not-supplied",
-    "eps_estimate": "$2.84"
+    "eps_estimate": "$2.83"
   }
 ]
