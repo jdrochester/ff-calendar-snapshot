@@ -1,17 +1,5 @@
 [
   {
-    "ticker": "GOOGL",
-    "date": "2026-07-22",
-    "time": "time-after-hours",
-    "eps_estimate": "$2.87"
-  },
-  {
-    "ticker": "TSLA",
-    "date": "2026-07-22",
-    "time": "time-after-hours",
-    "eps_estimate": "$0.31"
-  },
-  {
     "ticker": "MSFT",
     "date": "2026-07-29",
     "time": "time-after-hours",
