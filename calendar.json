@@ -341,17 +341,6 @@
     "actual": null
   },
   {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "07-22-2026",
-    "time": "6:02am",
-    "forecast": "",
-    "previous": "-8.6%",
-    "actual": null
-  },
-  {
     "title": "HPI y/y",
     "country": "GBP",
     "currency": null,
@@ -404,6 +393,17 @@
     "time": "1:30am",
     "forecast": "4.4%",
     "previous": "4.4%",
+    "actual": null
+  },
+  {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "07-23-2026",
+    "time": "6:02am",
+    "forecast": "",
+    "previous": "-8.6%",
     "actual": null
   },
   {
