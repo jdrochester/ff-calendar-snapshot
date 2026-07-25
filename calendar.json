@@ -768,5 +768,16 @@
     "forecast": "609K",
     "previous": "580K",
     "actual": null
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "07-25-2026",
+    "time": "12:55am",
+    "forecast": "",
+    "previous": "",
+    "actual": null
   }
 ]
