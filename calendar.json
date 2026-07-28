@@ -88,13 +88,24 @@
     "actual": null
   },
   {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "07-27-2026",
+    "time": "6:50pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "BRC Shop Price Index y/y",
     "country": "GBP",
     "currency": null,
     "impact": "Low",
     "date": "07-27-2026",
     "time": "11:01pm",
-    "forecast": "1.2%",
+    "forecast": "1.1%",
     "previous": "1.2%",
     "actual": null
   },
@@ -127,7 +138,7 @@
     "impact": "Low",
     "date": "07-28-2026",
     "time": "7:00am",
-    "forecast": "10.7%",
+    "forecast": "10.1%",
     "previous": "10.8%",
     "actual": null
   },
@@ -137,7 +148,7 @@
     "currency": null,
     "impact": "Low",
     "date": "07-28-2026",
-    "time": "10:03am",
+    "time": "10:00am",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -160,7 +171,7 @@
     "impact": "Low",
     "date": "07-28-2026",
     "time": "12:30pm",
-    "forecast": "-98.0B",
+    "forecast": "-100.3B",
     "previous": "-105.8B",
     "actual": null
   },
@@ -171,7 +182,7 @@
     "impact": "Low",
     "date": "07-28-2026",
     "time": "12:30pm",
-    "forecast": "0.2%",
+    "forecast": "0.4%",
     "previous": "0.3%",
     "actual": null
   },
@@ -182,7 +193,7 @@
     "impact": "Low",
     "date": "07-28-2026",
     "time": "1:00pm",
-    "forecast": "0.2%",
+    "forecast": "0.1%",
     "previous": "-0.1%",
     "actual": null
   },
@@ -193,7 +204,7 @@
     "impact": "Low",
     "date": "07-28-2026",
     "time": "1:00pm",
-    "forecast": "0.8%",
+    "forecast": "1.3%",
     "previous": "1.1%",
     "actual": null
   },
@@ -204,7 +215,7 @@
     "impact": "Medium",
     "date": "07-28-2026",
     "time": "2:00pm",
-    "forecast": "92.1",
+    "forecast": "92.4",
     "previous": "91.2",
     "actual": null
   },
@@ -215,7 +226,7 @@
     "impact": "Low",
     "date": "07-28-2026",
     "time": "2:00pm",
-    "forecast": "",
+    "forecast": "7",
     "previous": "4",
     "actual": null
   },
@@ -259,7 +270,7 @@
     "impact": "High",
     "date": "07-29-2026",
     "time": "1:30am",
-    "forecast": "0.4%",
+    "forecast": "0.3%",
     "previous": "0.4%",
     "actual": null
   },
@@ -270,7 +281,7 @@
     "impact": "Low",
     "date": "07-29-2026",
     "time": "6:00am",
-    "forecast": "-0.8%",
+    "forecast": "-0.7%",
     "previous": "0.7%",
     "actual": null
   },
@@ -303,7 +314,7 @@
     "impact": "Low",
     "date": "07-29-2026",
     "time": "8:30am",
-    "forecast": "56K",
+    "forecast": "57K",
     "previous": "56K",
     "actual": null
   },
@@ -336,7 +347,7 @@
     "impact": "Low",
     "date": "07-29-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "-1.7M",
     "previous": "2.0M",
     "actual": null
   },
@@ -413,7 +424,7 @@
     "impact": "Low",
     "date": "07-30-2026",
     "time": "1:30am",
-    "forecast": "-0.5%",
+    "forecast": "-0.7%",
     "previous": "-1.1%",
     "actual": null
   },
@@ -490,7 +501,7 @@
     "impact": "Low",
     "date": "07-30-2026",
     "time": "7:00am",
-    "forecast": "100.7",
+    "forecast": "100.9",
     "previous": "101.2",
     "actual": null
   },
@@ -501,7 +512,7 @@
     "impact": "Low",
     "date": "07-30-2026",
     "time": "7:00am",
-    "forecast": "3.1%",
+    "forecast": "3.2%",
     "previous": "3.2%",
     "actual": null
   },
@@ -545,7 +556,7 @@
     "impact": "Low",
     "date": "07-30-2026",
     "time": "9:00am",
-    "forecast": "5.1%",
+    "forecast": "5.0%",
     "previous": "5.0%",
     "actual": null
   },
@@ -579,7 +590,7 @@
     "date": "07-30-2026",
     "time": "9:33am",
     "forecast": "",
-    "previous": "",
+    "previous": "3.63|1.7",
     "actual": null
   },
   {
@@ -627,13 +638,24 @@
     "actual": null
   },
   {
+    "title": "BOE Gov Bailey Speaks",
+    "country": "GBP",
+    "currency": null,
+    "impact": "High",
+    "date": "07-30-2026",
+    "time": "11:30am",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "Advance GDP q/q",
     "country": "USD",
     "currency": null,
     "impact": "High",
     "date": "07-30-2026",
     "time": "12:30pm",
-    "forecast": "2.3%",
+    "forecast": "2.0%",
     "previous": "2.0%",
     "actual": null
   },
@@ -644,7 +666,7 @@
     "impact": "High",
     "date": "07-30-2026",
     "time": "12:30pm",
-    "forecast": "0.1%",
+    "forecast": "0.2%",
     "previous": "0.3%",
     "actual": null
   },
@@ -655,7 +677,7 @@
     "impact": "Medium",
     "date": "07-30-2026",
     "time": "12:30pm",
-    "forecast": "3.7%",
+    "forecast": "4.1%",
     "previous": "3.6%",
     "actual": null
   },
@@ -666,7 +688,7 @@
     "impact": "Medium",
     "date": "07-30-2026",
     "time": "12:30pm",
-    "forecast": "206K",
+    "forecast": "201K",
     "previous": "187K",
     "actual": null
   },
@@ -732,7 +754,7 @@
     "impact": "Low",
     "date": "07-30-2026",
     "time": "11:50pm",
-    "forecast": "0.7%",
+    "forecast": "1.0%",
     "previous": "0.5%",
     "actual": null
   },
@@ -743,7 +765,7 @@
     "impact": "Low",
     "date": "07-30-2026",
     "time": "11:50pm",
-    "forecast": "2.8%",
+    "forecast": "3.1%",
     "previous": "5.3%",
     "actual": null
   },
@@ -754,7 +776,7 @@
     "impact": "Low",
     "date": "07-31-2026",
     "time": "1:30am",
-    "forecast": "0.3%",
+    "forecast": "0.5%",
     "previous": "0.4%",
     "actual": null
   },
@@ -776,7 +798,7 @@
     "impact": "Low",
     "date": "07-31-2026",
     "time": "1:30am",
-    "forecast": "49.9",
+    "forecast": "50.1",
     "previous": "50.3",
     "actual": null
   },
@@ -831,7 +853,7 @@
     "impact": "Low",
     "date": "07-31-2026",
     "time": "5:00am",
-    "forecast": "13.2%",
+    "forecast": "12.7%",
     "previous": "33.9%",
     "actual": null
   },
@@ -853,7 +875,7 @@
     "impact": "Low",
     "date": "07-31-2026",
     "time": "6:00am",
-    "forecast": "",
+    "forecast": "0.1%",
     "previous": "0.0%",
     "actual": null
   },
@@ -864,7 +886,7 @@
     "impact": "Low",
     "date": "07-31-2026",
     "time": "6:30am",
-    "forecast": "3.2%",
+    "forecast": "3.1%",
     "previous": "3.5%",
     "actual": null
   },
@@ -919,7 +941,7 @@
     "impact": "Low",
     "date": "07-31-2026",
     "time": "9:00am",
-    "forecast": "0.1%",
+    "forecast": "0.3%",
     "previous": "0.0%",
     "actual": null
   },
@@ -963,7 +985,7 @@
     "impact": "Low",
     "date": "07-31-2026",
     "time": "1:45pm",
-    "forecast": "57.5",
+    "forecast": "55.9",
     "previous": "56.7",
     "actual": null
   },
@@ -974,7 +996,7 @@
     "impact": "Medium",
     "date": "07-31-2026",
     "time": "2:00pm",
-    "forecast": "54.2",
+    "forecast": "53.9",
     "previous": "54.4",
     "actual": null
   },
