@@ -347,7 +347,7 @@
     "impact": "Low",
     "date": "07-29-2026",
     "time": "2:30pm",
-    "forecast": "-1.7M",
+    "forecast": "0.7M",
     "previous": "2.0M",
     "actual": null
   },
@@ -655,7 +655,7 @@
     "impact": "High",
     "date": "07-30-2026",
     "time": "12:30pm",
-    "forecast": "2.0%",
+    "forecast": "2.1%",
     "previous": "2.0%",
     "actual": null
   },
@@ -721,7 +721,7 @@
     "impact": "Low",
     "date": "07-30-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "37B",
     "previous": "32B",
     "actual": null
   },
