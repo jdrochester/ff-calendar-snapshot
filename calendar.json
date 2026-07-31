@@ -588,7 +588,7 @@
     "currency": null,
     "impact": "Low",
     "date": "07-30-2026",
-    "time": "9:33am",
+    "time": "9:06am",
     "forecast": "",
     "previous": "3.63|1.7",
     "actual": null
@@ -643,7 +643,7 @@
     "currency": null,
     "impact": "High",
     "date": "07-30-2026",
-    "time": "11:30am",
+    "time": "12:00pm",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -814,12 +814,23 @@
     "actual": null
   },
   {
+    "title": "BOJ Outlook Report",
+    "country": "JPY",
+    "currency": null,
+    "impact": "High",
+    "date": "07-31-2026",
+    "time": "3:11am",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "BOJ Policy Rate",
     "country": "JPY",
     "currency": null,
     "impact": "High",
     "date": "07-31-2026",
-    "time": "2:30am",
+    "time": "3:11am",
     "forecast": "<1.00%",
     "previous": "<1.00%",
     "actual": null
@@ -830,18 +841,7 @@
     "currency": null,
     "impact": "High",
     "date": "07-31-2026",
-    "time": "2:30am",
-    "forecast": "",
-    "previous": "",
-    "actual": null
-  },
-  {
-    "title": "BOJ Outlook Report",
-    "country": "JPY",
-    "currency": null,
-    "impact": "High",
-    "date": "07-31-2026",
-    "time": "2:31am",
+    "time": "3:11am",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -855,17 +855,6 @@
     "time": "5:00am",
     "forecast": "12.7%",
     "previous": "33.9%",
-    "actual": null
-  },
-  {
-    "title": "BOJ Press Conference",
-    "country": "JPY",
-    "currency": null,
-    "impact": "High",
-    "date": "07-31-2026",
-    "time": "5:30am",
-    "forecast": "",
-    "previous": "",
     "actual": null
   },
   {
@@ -888,6 +877,17 @@
     "time": "6:30am",
     "forecast": "3.1%",
     "previous": "3.5%",
+    "actual": null
+  },
+  {
+    "title": "BOJ Press Conference",
+    "country": "JPY",
+    "currency": null,
+    "impact": "High",
+    "date": "07-31-2026",
+    "time": "6:30am",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
