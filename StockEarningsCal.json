@@ -1,17 +1,5 @@
 [
   {
-    "ticker": "AAPL",
-    "date": "2026-07-30",
-    "time": "time-after-hours",
-    "eps_estimate": "$1.88"
-  },
-  {
-    "ticker": "AMZN",
-    "date": "2026-07-30",
-    "time": "time-after-hours",
-    "eps_estimate": "$1.82"
-  },
-  {
     "ticker": "BRK.B",
     "date": "2026-08-07",
     "time": "time-not-supplied",
