@@ -748,23 +748,12 @@
     "actual": null
   },
   {
-    "title": "Retail Sales m/m",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "08-06-2026",
-    "time": "9:00am",
-    "forecast": "0.1%",
-    "previous": "0.2%",
-    "actual": null
-  },
-  {
     "title": "Spanish 10-y Bond Auction",
     "country": "EUR",
     "currency": null,
     "impact": "Low",
     "date": "08-06-2026",
-    "time": "9:03am",
+    "time": "8:41am",
     "forecast": "",
     "previous": "3.40|1.8",
     "actual": null
@@ -775,9 +764,20 @@
     "currency": null,
     "impact": "Low",
     "date": "08-06-2026",
-    "time": "9:18am",
+    "time": "8:57am",
     "forecast": "",
     "previous": "3.68|3.3",
+    "actual": null
+  },
+  {
+    "title": "Retail Sales m/m",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "08-06-2026",
+    "time": "9:00am",
+    "forecast": "0.1%",
+    "previous": "0.2%",
     "actual": null
   },
   {
@@ -874,7 +874,7 @@
     "currency": null,
     "impact": "Low",
     "date": "08-07-2026",
-    "time": "2:03am",
+    "time": "2:38am",
     "forecast": "735B",
     "previous": "859B",
     "actual": null
@@ -885,7 +885,7 @@
     "currency": null,
     "impact": "Low",
     "date": "08-07-2026",
-    "time": "2:04am",
+    "time": "2:38am",
     "forecast": "108.6B",
     "previous": "125.6B",
     "actual": null
