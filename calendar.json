@@ -181,9 +181,9 @@
     "currency": null,
     "impact": "Low",
     "date": "08-11-2026",
-    "time": "12:15pm",
+    "time": "12:14pm",
     "forecast": "",
-    "previous": "",
+    "previous": "15.0K",
     "actual": null
   },
   {
@@ -192,9 +192,9 @@
     "currency": null,
     "impact": "Low",
     "date": "08-11-2026",
-    "time": "12:16pm",
+    "time": "12:15pm",
     "forecast": "",
-    "previous": "15.0K",
+    "previous": "11.0K",
     "actual": null
   },
   {
@@ -325,7 +325,7 @@
     "impact": "Low",
     "date": "08-12-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "-1.7M",
     "previous": "2.5M",
     "actual": null
   },
@@ -347,7 +347,7 @@
     "impact": "Low",
     "date": "08-12-2026",
     "time": "6:00pm",
-    "forecast": "-361.2B",
+    "forecast": "-348.3B",
     "previous": "-120.3B",
     "actual": null
   },
@@ -402,7 +402,7 @@
     "impact": "High",
     "date": "08-13-2026",
     "time": "6:00am",
-    "forecast": "-0.1%",
+    "forecast": "0.0%",
     "previous": "0.1%",
     "actual": null
   },
@@ -523,7 +523,7 @@
     "impact": "Low",
     "date": "08-13-2026",
     "time": "8:03am",
-    "forecast": "50B",
+    "forecast": "-50B",
     "previous": "1610B",
     "actual": null
   },
@@ -578,7 +578,7 @@
     "impact": "Medium",
     "date": "08-13-2026",
     "time": "12:30pm",
-    "forecast": "203K",
+    "forecast": "202K",
     "previous": "199K",
     "actual": null
   },
@@ -633,7 +633,7 @@
     "impact": "Low",
     "date": "08-13-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "31B",
     "previous": "33B",
     "actual": null
   },
