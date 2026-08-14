@@ -484,17 +484,6 @@
     "actual": null
   },
   {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "08-13-2026",
-    "time": "6:02am",
-    "forecast": "",
-    "previous": "-5.0%",
-    "actual": null
-  },
-  {
     "title": "PPI m/m",
     "country": "CHF",
     "currency": null,
@@ -503,28 +492,6 @@
     "time": "6:30am",
     "forecast": "-0.2%",
     "previous": "-0.3%",
-    "actual": null
-  },
-  {
-    "title": "M2 Money Supply y/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "08-13-2026",
-    "time": "8:03am",
-    "forecast": "7.9%",
-    "previous": "8.0%",
-    "actual": null
-  },
-  {
-    "title": "New Loans",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "08-13-2026",
-    "time": "8:03am",
-    "forecast": "-50B",
-    "previous": "1610B",
     "actual": null
   },
   {
@@ -610,7 +577,7 @@
     "currency": null,
     "impact": "Low",
     "date": "08-13-2026",
-    "time": "2:00pm",
+    "time": "2:29pm",
     "forecast": "",
     "previous": "4.44%",
     "actual": null
@@ -649,6 +616,17 @@
     "actual": null
   },
   {
+    "title": "FOMC Member Goolsbee Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "08-13-2026",
+    "time": "10:00pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "BusinessNZ Manufacturing Index",
     "country": "NZD",
     "currency": null,
@@ -671,17 +649,6 @@
     "actual": null
   },
   {
-    "title": "RBA Gov Bullock Speaks",
-    "country": "AUD",
-    "currency": null,
-    "impact": "Medium",
-    "date": "08-13-2026",
-    "time": "11:30pm",
-    "forecast": "",
-    "previous": "",
-    "actual": null
-  },
-  {
     "title": "German WPI m/m",
     "country": "EUR",
     "currency": null,
@@ -690,6 +657,17 @@
     "time": "6:00am",
     "forecast": "-0.2%",
     "previous": "-0.7%",
+    "actual": null
+  },
+  {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "08-14-2026",
+    "time": "6:02am",
+    "forecast": "",
+    "previous": "-5.0%",
     "actual": null
   },
   {
@@ -734,6 +712,28 @@
     "time": "9:00am",
     "forecast": "-2.2B",
     "previous": "-5.0B",
+    "actual": null
+  },
+  {
+    "title": "M2 Money Supply y/y",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "08-14-2026",
+    "time": "9:03am",
+    "forecast": "7.9%",
+    "previous": "8.0%",
+    "actual": null
+  },
+  {
+    "title": "New Loans",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "08-14-2026",
+    "time": "9:03am",
+    "forecast": "-50B",
+    "previous": "1610B",
     "actual": null
   },
   {
