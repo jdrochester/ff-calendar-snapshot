@@ -660,17 +660,6 @@
     "actual": null
   },
   {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "08-14-2026",
-    "time": "6:02am",
-    "forecast": "",
-    "previous": "-5.0%",
-    "actual": null
-  },
-  {
     "title": "French Final CPI m/m",
     "country": "EUR",
     "currency": null,
@@ -679,6 +668,28 @@
     "time": "6:45am",
     "forecast": "0.6%",
     "previous": "0.6%",
+    "actual": null
+  },
+  {
+    "title": "M2 Money Supply y/y",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "08-14-2026",
+    "time": "8:01am",
+    "forecast": "7.9%",
+    "previous": "8.0%",
+    "actual": null
+  },
+  {
+    "title": "New Loans",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "08-14-2026",
+    "time": "8:02am",
+    "forecast": "-50B",
+    "previous": "1610B",
     "actual": null
   },
   {
@@ -712,28 +723,6 @@
     "time": "9:00am",
     "forecast": "-2.2B",
     "previous": "-5.0B",
-    "actual": null
-  },
-  {
-    "title": "M2 Money Supply y/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "08-14-2026",
-    "time": "9:03am",
-    "forecast": "7.9%",
-    "previous": "8.0%",
-    "actual": null
-  },
-  {
-    "title": "New Loans",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "08-14-2026",
-    "time": "9:03am",
-    "forecast": "-50B",
-    "previous": "1610B",
     "actual": null
   },
   {
@@ -811,6 +800,17 @@
     "time": "2:00pm",
     "forecast": "0.2%",
     "previous": "0.3%",
+    "actual": null
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "08-14-2026",
+    "time": "7:00pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   }
 ]
