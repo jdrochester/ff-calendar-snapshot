@@ -286,17 +286,6 @@
     "actual": null
   },
   {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "08-18-2026",
-    "time": "6:02am",
-    "forecast": "",
-    "previous": "-5.0%",
-    "actual": null
-  },
-  {
     "title": "ZEW Economic Sentiment",
     "country": "EUR",
     "currency": null,
@@ -324,7 +313,7 @@
     "currency": null,
     "impact": "Low",
     "date": "08-18-2026",
-    "time": "9:33am",
+    "time": "9:02am",
     "forecast": "",
     "previous": "5.04|3.1",
     "actual": null
@@ -423,7 +412,7 @@
     "currency": null,
     "impact": "Low",
     "date": "08-18-2026",
-    "time": "2:50pm",
+    "time": "3:31pm",
     "forecast": "",
     "previous": "0.1%",
     "actual": null
@@ -616,13 +605,24 @@
     "actual": null
   },
   {
+    "title": "ECB President Lagarde Speaks",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Medium",
+    "date": "08-19-2026",
+    "time": "10:15am",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "Crude Oil Inventories",
     "country": "USD",
     "currency": null,
     "impact": "Low",
     "date": "08-19-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "0.2M",
     "previous": "17.4M",
     "actual": null
   },
@@ -633,6 +633,17 @@
     "impact": "High",
     "date": "08-19-2026",
     "time": "6:00pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "08-19-2026",
+    "time": "6:30pm",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -809,7 +820,7 @@
     "impact": "Low",
     "date": "08-20-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "15B",
     "previous": "36B",
     "actual": null
   },
@@ -910,6 +921,17 @@
     "time": "6:00am",
     "forecast": "0.0B",
     "previous": "16.0B",
+    "actual": null
+  },
+  {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "08-21-2026",
+    "time": "6:02am",
+    "forecast": "",
+    "previous": "-5.0%",
     "actual": null
   },
   {
