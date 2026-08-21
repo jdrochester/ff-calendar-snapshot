@@ -825,6 +825,17 @@
     "actual": null
   },
   {
+    "title": "FOMC Member Musalem Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "08-20-2026",
+    "time": "3:10pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "Trade Balance",
     "country": "NZD",
     "currency": null,
@@ -921,17 +932,6 @@
     "time": "6:00am",
     "forecast": "0.0B",
     "previous": "16.0B",
-    "actual": null
-  },
-  {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "08-21-2026",
-    "time": "6:02am",
-    "forecast": "",
-    "previous": "-5.0%",
     "actual": null
   },
   {
@@ -1075,6 +1075,17 @@
     "time": "2:00pm",
     "forecast": "-16",
     "previous": "-16",
+    "actual": null
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "08-21-2026",
+    "time": "11:00pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   }
 ]
