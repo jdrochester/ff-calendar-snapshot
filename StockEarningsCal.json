@@ -1,11 +1,5 @@
 [
   {
-    "ticker": "NVDA",
-    "date": "2026-08-26",
-    "time": "time-after-hours",
-    "eps_estimate": "$2.09"
-  },
-  {
     "ticker": "AVGO",
     "date": "2026-09-02",
     "time": "time-after-hours",
