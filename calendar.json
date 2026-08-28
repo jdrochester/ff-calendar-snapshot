@@ -665,7 +665,7 @@
     "currency": null,
     "impact": "Low",
     "date": "08-28-2026",
-    "time": "9:33am",
+    "time": "9:09am",
     "forecast": "",
     "previous": "4.00|1.7",
     "actual": null
@@ -679,6 +679,17 @@
     "time": "12:30pm",
     "forecast": "0.2%",
     "previous": "0.3%",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Hammack Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "08-28-2026",
+    "time": "1:00pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -734,6 +745,17 @@
     "time": "2:00pm",
     "forecast": "",
     "previous": "4.3%",
+    "actual": null
+  },
+  {
+    "title": "MPC Member Mann Speaks",
+    "country": "GBP",
+    "currency": null,
+    "impact": "Low",
+    "date": "08-28-2026",
+    "time": "2:30pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
