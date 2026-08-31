@@ -942,7 +942,7 @@
     "date": "09-03-2026",
     "time": "9:03am",
     "forecast": "",
-    "previous": "",
+    "previous": "3.54|2.4",
     "actual": null
   },
   {
@@ -953,7 +953,7 @@
     "date": "09-03-2026",
     "time": "9:18am",
     "forecast": "",
-    "previous": "",
+    "previous": "3.86|3.7",
     "actual": null
   },
   {
@@ -1075,6 +1075,28 @@
     "time": "2:30pm",
     "forecast": "",
     "previous": "15B",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Hammack Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "09-03-2026",
+    "time": "7:00pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Goolsbee Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "09-03-2026",
+    "time": "7:05pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
