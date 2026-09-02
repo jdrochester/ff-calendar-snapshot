@@ -440,6 +440,17 @@
     "actual": null
   },
   {
+    "title": "German Buba President Nagel Speaks",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "09-01-2026",
+    "time": "12:30pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "FOMC Member Barr Speaks",
     "country": "USD",
     "currency": null,
@@ -522,7 +533,7 @@
     "currency": null,
     "impact": "Low",
     "date": "09-01-2026",
-    "time": "2:10pm",
+    "time": "2:04pm",
     "forecast": "46.2",
     "previous": "45.1",
     "actual": null
@@ -539,17 +550,6 @@
     "actual": null
   },
   {
-    "title": "GDT Price Index",
-    "country": "NZD",
-    "currency": null,
-    "impact": "Low",
-    "date": "09-01-2026",
-    "time": "2:50pm",
-    "forecast": "",
-    "previous": "2.3%",
-    "actual": null
-  },
-  {
     "title": "G20 Meetings",
     "country": "All",
     "currency": null,
@@ -558,6 +558,17 @@
     "time": "3:15pm",
     "forecast": "",
     "previous": "",
+    "actual": null
+  },
+  {
+    "title": "GDT Price Index",
+    "country": "NZD",
+    "currency": null,
+    "impact": "Low",
+    "date": "09-01-2026",
+    "time": "3:25pm",
+    "forecast": "",
+    "previous": "2.3%",
     "actual": null
   },
   {
@@ -591,17 +602,6 @@
     "time": "11:50pm",
     "forecast": "-13.5%",
     "previous": "-13.8%",
-    "actual": null
-  },
-  {
-    "title": "German Buba President Nagel Speaks",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "09-02-2026",
-    "time": "12:30am",
-    "forecast": "",
-    "previous": "",
     "actual": null
   },
   {
@@ -688,7 +688,7 @@
     "impact": "Medium",
     "date": "09-02-2026",
     "time": "12:15pm",
-    "forecast": "48K",
+    "forecast": "47K",
     "previous": "44K",
     "actual": null
   },
@@ -743,7 +743,7 @@
     "impact": "Low",
     "date": "09-02-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "-0.4M",
     "previous": "0.1M",
     "actual": null
   },
@@ -1084,7 +1084,7 @@
     "impact": "Low",
     "date": "09-03-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "30B",
     "previous": "15B",
     "actual": null
   },
