@@ -776,7 +776,7 @@
     "impact": "Low",
     "date": "09-02-2026",
     "time": "10:45pm",
-    "forecast": "-2.2%",
+    "forecast": "-2.1%",
     "previous": "-2.0%",
     "actual": null
   },
@@ -809,7 +809,7 @@
     "impact": "Low",
     "date": "09-03-2026",
     "time": "1:30am",
-    "forecast": "1.50B",
+    "forecast": "1.52B",
     "previous": "1.93B",
     "actual": null
   },
@@ -864,7 +864,7 @@
     "impact": "Low",
     "date": "09-03-2026",
     "time": "7:00am",
-    "forecast": "1.5%",
+    "forecast": "1.7%",
     "previous": "0.7%",
     "actual": null
   },
@@ -1105,7 +1105,7 @@
     "currency": null,
     "impact": "Low",
     "date": "09-03-2026",
-    "time": "7:05pm",
+    "time": "7:55pm",
     "forecast": "",
     "previous": "",
     "actual": null
