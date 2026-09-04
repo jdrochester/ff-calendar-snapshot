@@ -935,23 +935,12 @@
     "actual": null
   },
   {
-    "title": "PPI m/m",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "09-03-2026",
-    "time": "9:00am",
-    "forecast": "1.2%",
-    "previous": "-0.3%",
-    "actual": null
-  },
-  {
     "title": "Spanish 10-y Bond Auction",
     "country": "EUR",
     "currency": null,
     "impact": "Low",
     "date": "09-03-2026",
-    "time": "9:03am",
+    "time": "8:43am",
     "forecast": "",
     "previous": "3.54|2.4",
     "actual": null
@@ -962,9 +951,20 @@
     "currency": null,
     "impact": "Low",
     "date": "09-03-2026",
-    "time": "9:18am",
+    "time": "8:57am",
     "forecast": "",
     "previous": "3.86|3.7",
+    "actual": null
+  },
+  {
+    "title": "PPI m/m",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "09-03-2026",
+    "time": "9:00am",
+    "forecast": "1.2%",
+    "previous": "-0.3%",
     "actual": null
   },
   {
@@ -1086,6 +1086,17 @@
     "time": "2:30pm",
     "forecast": "30B",
     "previous": "15B",
+    "actual": null
+  },
+  {
+    "title": "MPC Member Pill Speaks",
+    "country": "GBP",
+    "currency": null,
+    "impact": "Low",
+    "date": "09-03-2026",
+    "time": "3:00pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
