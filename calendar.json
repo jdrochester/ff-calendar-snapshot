@@ -308,6 +308,17 @@
     "actual": null
   },
   {
+    "title": "Monetary Policy Report Hearings",
+    "country": "GBP",
+    "currency": null,
+    "impact": "Medium",
+    "date": "09-08-2026",
+    "time": "1:15pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "Consumer Credit m/m",
     "country": "USD",
     "currency": null,
@@ -336,7 +347,7 @@
     "impact": "Low",
     "date": "09-09-2026",
     "time": "1:30am",
-    "forecast": "0.9%",
+    "forecast": "0.8%",
     "previous": "0.5%",
     "actual": null
   },
@@ -404,6 +415,17 @@
     "time": "12:16pm",
     "forecast": "",
     "previous": "11.8K",
+    "actual": null
+  },
+  {
+    "title": "ECB President Lagarde Speaks",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Medium",
+    "date": "09-09-2026",
+    "time": "5:00pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -789,6 +811,17 @@
     "time": "12:30pm",
     "forecast": "3.4%",
     "previous": "3.4%",
+    "actual": null
+  },
+  {
+    "title": "ECB President Lagarde Speaks",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Medium",
+    "date": "09-11-2026",
+    "time": "2:00pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
