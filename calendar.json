@@ -390,7 +390,7 @@
     "currency": null,
     "impact": "Low",
     "date": "09-09-2026",
-    "time": "9:42am",
+    "time": "9:33am",
     "forecast": "",
     "previous": "3.26|1.1",
     "actual": null
@@ -401,9 +401,9 @@
     "currency": null,
     "impact": "Low",
     "date": "09-09-2026",
-    "time": "12:15pm",
+    "time": "12:14pm",
     "forecast": "",
-    "previous": "",
+    "previous": "11.8K",
     "actual": null
   },
   {
@@ -412,9 +412,9 @@
     "currency": null,
     "impact": "Low",
     "date": "09-09-2026",
-    "time": "12:16pm",
+    "time": "12:15pm",
     "forecast": "",
-    "previous": "11.8K",
+    "previous": "10.0K",
     "actual": null
   },
   {
@@ -481,6 +481,17 @@
     "time": "1:00am",
     "forecast": "",
     "previous": "4.9%",
+    "actual": null
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "09-10-2026",
+    "time": "1:15am",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -600,7 +611,7 @@
     "impact": "Low",
     "date": "09-10-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "35B",
     "previous": "30B",
     "actual": null
   },
@@ -611,7 +622,7 @@
     "impact": "Low",
     "date": "09-10-2026",
     "time": "4:00pm",
-    "forecast": "",
+    "forecast": "-1.4M",
     "previous": "-4.5M",
     "actual": null
   },
