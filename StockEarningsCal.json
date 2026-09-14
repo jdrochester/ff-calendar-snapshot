@@ -10,5 +10,17 @@
     "date": "2026-10-28",
     "time": "time-not-supplied",
     "eps_estimate": "$0.26"
+  },
+  {
+    "ticker": "AAPL",
+    "date": "2026-10-29",
+    "time": "time-not-supplied",
+    "eps_estimate": "$1.98"
+  },
+  {
+    "ticker": "AMZN",
+    "date": "2026-10-29",
+    "time": "time-not-supplied",
+    "eps_estimate": "$2.03"
   }
 ]
