@@ -385,12 +385,23 @@
     "actual": null
   },
   {
+    "title": "Treasury Sec Bessent Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "09-15-2026",
+    "time": "2:00pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "GDT Price Index",
     "country": "NZD",
     "currency": null,
     "impact": "Low",
     "date": "09-15-2026",
-    "time": "2:50pm",
+    "time": "3:39pm",
     "forecast": "",
     "previous": "0.9%",
     "actual": null
@@ -412,7 +423,7 @@
     "currency": null,
     "impact": "Low",
     "date": "09-15-2026",
-    "time": "9:00pm",
+    "time": "9:04pm",
     "forecast": "",
     "previous": "80.4",
     "actual": null
@@ -567,7 +578,7 @@
     "impact": "Low",
     "date": "09-16-2026",
     "time": "12:30pm",
-    "forecast": "-4.5%",
+    "forecast": "-4.7%",
     "previous": "18.5%",
     "actual": null
   },
@@ -578,7 +589,7 @@
     "impact": "Medium",
     "date": "09-16-2026",
     "time": "12:30pm",
-    "forecast": "0.5%",
+    "forecast": "0.6%",
     "previous": "-0.3%",
     "actual": null
   },
@@ -633,7 +644,7 @@
     "impact": "Low",
     "date": "09-16-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "-1.6M",
     "previous": "-0.4M",
     "actual": null
   },
@@ -864,7 +875,7 @@
     "impact": "Medium",
     "date": "09-17-2026",
     "time": "12:30pm",
-    "forecast": "208K",
+    "forecast": "207K",
     "previous": "206K",
     "actual": null
   },
@@ -886,7 +897,7 @@
     "impact": "Low",
     "date": "09-17-2026",
     "time": "12:30pm",
-    "forecast": "1.31M",
+    "forecast": "1.32M",
     "previous": "1.24M",
     "actual": null
   },
@@ -919,7 +930,7 @@
     "impact": "Low",
     "date": "09-17-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "49B",
     "previous": "40B",
     "actual": null
   },
@@ -1045,7 +1056,7 @@
     "actual": null
   },
   {
-    "title": "Eurogroup Meetings",
+    "title": "ECOFIN Meetings",
     "country": "EUR",
     "currency": null,
     "impact": "Low",
@@ -1056,7 +1067,7 @@
     "actual": null
   },
   {
-    "title": "ECOFIN Meetings",
+    "title": "Eurogroup Meetings",
     "country": "EUR",
     "currency": null,
     "impact": "Low",
