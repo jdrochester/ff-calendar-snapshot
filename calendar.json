@@ -748,6 +748,17 @@
     "actual": null
   },
   {
+    "title": "Spanish 10-y Bond Auction",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "09-17-2026",
+    "time": "8:37am",
+    "forecast": "",
+    "previous": "3.74|2.3",
+    "actual": null
+  },
+  {
     "title": "Final Core CPI y/y",
     "country": "EUR",
     "currency": null,
@@ -767,17 +778,6 @@
     "time": "9:00am",
     "forecast": "3.3%",
     "previous": "3.3%",
-    "actual": null
-  },
-  {
-    "title": "Spanish 10-y Bond Auction",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "09-17-2026",
-    "time": "9:03am",
-    "forecast": "",
-    "previous": "3.74|2.3",
     "actual": null
   },
   {
@@ -833,6 +833,17 @@
     "time": "12:30pm",
     "forecast": "0.0%",
     "previous": "0.6%",
+    "actual": null
+  },
+  {
+    "title": "NHPI m/m",
+    "country": "CAD",
+    "currency": null,
+    "impact": "Low",
+    "date": "09-17-2026",
+    "time": "12:30pm",
+    "forecast": "",
+    "previous": "-0.1%",
     "actual": null
   },
   {
@@ -946,17 +957,6 @@
     "actual": null
   },
   {
-    "title": "GfK Consumer Confidence",
-    "country": "GBP",
-    "currency": null,
-    "impact": "Low",
-    "date": "09-17-2026",
-    "time": "11:01pm",
-    "forecast": "-16",
-    "previous": "-14",
-    "actual": null
-  },
-  {
     "title": "RBA Gov Bullock Speaks",
     "country": "AUD",
     "currency": null,
@@ -984,7 +984,7 @@
     "currency": null,
     "impact": "High",
     "date": "09-18-2026",
-    "time": "2:30am",
+    "time": "2:54am",
     "forecast": "<1.25%",
     "previous": "<1.00%",
     "actual": null
@@ -995,18 +995,7 @@
     "currency": null,
     "impact": "High",
     "date": "09-18-2026",
-    "time": "2:30am",
-    "forecast": "",
-    "previous": "",
-    "actual": null
-  },
-  {
-    "title": "BOJ Press Conference",
-    "country": "JPY",
-    "currency": null,
-    "impact": "High",
-    "date": "09-18-2026",
-    "time": "5:30am",
+    "time": "2:54am",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -1034,14 +1023,14 @@
     "actual": null
   },
   {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
+    "title": "BOJ Press Conference",
+    "country": "JPY",
     "currency": null,
-    "impact": "Low",
+    "impact": "High",
     "date": "09-18-2026",
-    "time": "6:02am",
+    "time": "6:30am",
     "forecast": "",
-    "previous": "-6.2%",
+    "previous": "",
     "actual": null
   },
   {
