@@ -40,5 +40,11 @@
     "date": "2026-11-04",
     "time": "time-not-supplied",
     "eps_estimate": "$6.39"
+  },
+  {
+    "ticker": "BRK.B",
+    "date": "2026-11-06",
+    "time": "time-not-supplied",
+    "eps_estimate": "$5.66"
   }
 ]
