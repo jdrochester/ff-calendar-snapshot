@@ -165,6 +165,17 @@
     "actual": null
   },
   {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "09-22-2026",
+    "time": "1:55pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "Consumer Confidence",
     "country": "EUR",
     "currency": null,
@@ -413,8 +424,19 @@
     "impact": "Low",
     "date": "09-23-2026",
     "time": "2:30pm",
-    "forecast": "-0.6M",
+    "forecast": "-0.7M",
     "previous": "-0.6M",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Goolsbee Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "09-23-2026",
+    "time": "4:00pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -688,7 +710,7 @@
     "impact": "Low",
     "date": "09-24-2026",
     "time": "2:30pm",
-    "forecast": "52B",
+    "forecast": "50B",
     "previous": "44B",
     "actual": null
   },
@@ -800,6 +822,17 @@
     "time": "12:30pm",
     "forecast": "-0.3%",
     "previous": "1.1%",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Schmid Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "09-25-2026",
+    "time": "1:20pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
