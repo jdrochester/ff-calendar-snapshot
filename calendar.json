@@ -704,6 +704,17 @@
     "actual": null
   },
   {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "09-24-2026",
+    "time": "2:15pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "Natural Gas Storage",
     "country": "USD",
     "currency": null,
@@ -732,6 +743,17 @@
     "impact": "Holiday",
     "date": "09-24-2026",
     "time": "11:01pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "09-24-2026",
+    "time": "11:55pm",
     "forecast": "",
     "previous": "",
     "actual": null
