@@ -187,25 +187,25 @@
     "actual": null
   },
   {
-    "title": "Italian 10-y Bond Auction",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "09-29-2026",
-    "time": "9:33am",
-    "forecast": "",
-    "previous": "4.10|1.6",
-    "actual": null
-  },
-  {
     "title": "10-y Bond Auction",
     "country": "GBP",
     "currency": null,
     "impact": "Low",
     "date": "09-29-2026",
-    "time": "9:33am",
+    "time": "9:02am",
     "forecast": "",
     "previous": "5.16|3.6",
+    "actual": null
+  },
+  {
+    "title": "Italian 10-y Bond Auction",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "09-29-2026",
+    "time": "9:04am",
+    "forecast": "",
+    "previous": "4.10|1.6",
     "actual": null
   },
   {
@@ -550,17 +550,6 @@
     "actual": null
   },
   {
-    "title": "German Retail Sales m/m",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "09-30-2026",
-    "time": "6:00am",
-    "forecast": "1.6%",
-    "previous": "-3.4%",
-    "actual": null
-  },
-  {
     "title": "Current Account",
     "country": "GBP",
     "currency": null,
@@ -591,6 +580,17 @@
     "time": "6:00am",
     "forecast": "1.7%",
     "previous": "1.7%",
+    "actual": null
+  },
+  {
+    "title": "German Retail Sales m/m",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "09-30-2026",
+    "time": "6:04am",
+    "forecast": "1.6%",
+    "previous": "-3.4%",
     "actual": null
   },
   {
@@ -633,7 +633,7 @@
     "impact": "Low",
     "date": "09-30-2026",
     "time": "7:55am",
-    "forecast": "0K",
+    "forecast": "1K",
     "previous": "4K",
     "actual": null
   },
@@ -687,7 +687,7 @@
     "currency": null,
     "impact": "Low",
     "date": "09-30-2026",
-    "time": "9:42am",
+    "time": "9:32am",
     "forecast": "",
     "previous": "3.39|1.5",
     "actual": null
@@ -831,7 +831,7 @@
     "impact": "Low",
     "date": "09-30-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "-0.7M",
     "previous": "3.0M",
     "actual": null
   },
@@ -853,6 +853,17 @@
     "impact": "Low",
     "date": "09-30-2026",
     "time": "7:25pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "09-30-2026",
+    "time": "7:30pm",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -1029,7 +1040,7 @@
     "impact": "Low",
     "date": "10-01-2026",
     "time": "7:30am",
-    "forecast": "56.4",
+    "forecast": "56.3",
     "previous": "57.1",
     "actual": null
   },
@@ -1315,7 +1326,7 @@
     "impact": "Low",
     "date": "10-01-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "63B",
     "previous": "53B",
     "actual": null
   },
