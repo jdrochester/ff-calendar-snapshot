@@ -894,7 +894,7 @@
     "title": "FOMC Member Kashkari Speaks",
     "country": "USD",
     "currency": null,
-    "impact": "Low",
+    "impact": "Medium",
     "date": "09-30-2026",
     "time": "10:00pm",
     "forecast": "",
@@ -1122,23 +1122,12 @@
     "actual": null
   },
   {
-    "title": "Unemployment Rate",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "10-01-2026",
-    "time": "9:00am",
-    "forecast": "6.4%",
-    "previous": "6.4%",
-    "actual": null
-  },
-  {
     "title": "Spanish 10-y Bond Auction",
     "country": "EUR",
     "currency": null,
     "impact": "Low",
     "date": "10-01-2026",
-    "time": "9:03am",
+    "time": "8:42am",
     "forecast": "",
     "previous": "3.96|1.7",
     "actual": null
@@ -1149,9 +1138,20 @@
     "currency": null,
     "impact": "Low",
     "date": "10-01-2026",
-    "time": "9:18am",
+    "time": "8:57am",
     "forecast": "",
     "previous": "4.23|2.3",
+    "actual": null
+  },
+  {
+    "title": "Unemployment Rate",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "10-01-2026",
+    "time": "9:00am",
+    "forecast": "6.4%",
+    "previous": "6.4%",
     "actual": null
   },
   {
@@ -1502,7 +1502,7 @@
     "impact": "High",
     "date": "10-02-2026",
     "time": "12:30pm",
-    "forecast": "90K",
+    "forecast": "89K",
     "previous": "162K",
     "actual": null
   },
