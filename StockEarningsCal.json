@@ -9,7 +9,7 @@
     "ticker": "TSLA",
     "date": "2026-10-28",
     "time": "time-not-supplied",
-    "eps_estimate": "$0.25"
+    "eps_estimate": "$0.24"
   },
   {
     "ticker": "AAPL",
@@ -33,7 +33,7 @@
     "ticker": "MSFT",
     "date": "2026-11-04",
     "time": "time-not-supplied",
-    "eps_estimate": "$4.69"
+    "eps_estimate": "$4.70"
   },
   {
     "ticker": "META",
