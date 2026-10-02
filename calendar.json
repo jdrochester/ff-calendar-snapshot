@@ -1386,23 +1386,23 @@
     "actual": null
   },
   {
-    "title": "FOMC Member Logan Speaks",
-    "country": "USD",
-    "currency": null,
-    "impact": "Low",
-    "date": "10-01-2026",
-    "time": "10:45pm",
-    "forecast": "",
-    "previous": "",
-    "actual": null
-  },
-  {
     "title": "Bank Holiday",
     "country": "CNY",
     "currency": null,
     "impact": "Holiday",
     "date": "10-01-2026",
     "time": "11:01pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Logan Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "10-01-2026",
+    "time": "11:20pm",
     "forecast": "",
     "previous": "",
     "actual": null
