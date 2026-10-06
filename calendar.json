@@ -248,7 +248,7 @@
     "impact": "Low",
     "date": "10-06-2026",
     "time": "6:00am",
-    "forecast": "-1.0%",
+    "forecast": "-0.9%",
     "previous": "2.5%",
     "actual": null
   },
@@ -308,17 +308,6 @@
     "actual": null
   },
   {
-    "title": "MPC Member Mann Speaks",
-    "country": "GBP",
-    "currency": null,
-    "impact": "Low",
-    "date": "10-06-2026",
-    "time": "8:30am",
-    "forecast": "",
-    "previous": "",
-    "actual": null
-  },
-  {
     "title": "Housing Equity Withdrawal q/q",
     "country": "GBP",
     "currency": null,
@@ -330,13 +319,24 @@
     "actual": null
   },
   {
+    "title": "MPC Member Mann Speaks",
+    "country": "GBP",
+    "currency": null,
+    "impact": "Low",
+    "date": "10-06-2026",
+    "time": "8:30am",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "Retail Sales m/m",
     "country": "EUR",
     "currency": null,
     "impact": "Low",
     "date": "10-06-2026",
     "time": "9:00am",
-    "forecast": "0.3%",
+    "forecast": "0.2%",
     "previous": "-0.6%",
     "actual": null
   },
@@ -369,7 +369,7 @@
     "impact": "Low",
     "date": "10-06-2026",
     "time": "12:30pm",
-    "forecast": "1.3B",
+    "forecast": "1.5B",
     "previous": "0.8B",
     "actual": null
   },
@@ -380,7 +380,7 @@
     "impact": "Low",
     "date": "10-06-2026",
     "time": "12:30pm",
-    "forecast": "-95.2B",
+    "forecast": "-100.8B",
     "previous": "-88.6B",
     "actual": null
   },
@@ -429,6 +429,17 @@
     "actual": null
   },
   {
+    "title": "FOMC Member Schmid Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "10-06-2026",
+    "time": "5:15pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "API Weekly Statistical Bulletin",
     "country": "USD",
     "currency": null,
@@ -468,7 +479,7 @@
     "impact": "Low",
     "date": "10-07-2026",
     "time": "5:00am",
-    "forecast": "118.1%",
+    "forecast": "118.3%",
     "previous": "117.9%",
     "actual": null
   },
@@ -556,7 +567,7 @@
     "impact": "Low",
     "date": "10-07-2026",
     "time": "7:00pm",
-    "forecast": "15.4B",
+    "forecast": "14.4B",
     "previous": "18.1B",
     "actual": null
   },
@@ -578,7 +589,7 @@
     "impact": "Low",
     "date": "10-07-2026",
     "time": "11:50pm",
-    "forecast": "2.10T",
+    "forecast": "2.13T",
     "previous": "2.52T",
     "actual": null
   },
@@ -611,7 +622,7 @@
     "impact": "Low",
     "date": "10-08-2026",
     "time": "5:00am",
-    "forecast": "46.6",
+    "forecast": "46.7",
     "previous": "46.4",
     "actual": null
   },
@@ -642,6 +653,17 @@
     "country": "GBP",
     "currency": null,
     "impact": "Low",
+    "date": "10-08-2026",
+    "time": "8:30am",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Waller Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
     "date": "10-08-2026",
     "time": "8:30am",
     "forecast": "",
@@ -688,6 +710,17 @@
     "impact": "Low",
     "date": "10-08-2026",
     "time": "11:30am",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "BOE Gov Bailey Speaks",
+    "country": "GBP",
+    "currency": null,
+    "impact": "High",
+    "date": "10-08-2026",
+    "time": "12:15pm",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -820,7 +853,7 @@
     "impact": "High",
     "date": "10-09-2026",
     "time": "12:30pm",
-    "forecast": "9.0K",
+    "forecast": "6.2K",
     "previous": "-41.7K",
     "actual": null
   },
