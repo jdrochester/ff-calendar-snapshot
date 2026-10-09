@@ -12,6 +12,12 @@
     "eps_estimate": "$0.24"
   },
   {
+    "ticker": "GOOGL",
+    "date": "2026-10-28",
+    "time": "time-after-hours",
+    "eps_estimate": "$2.95"
+  },
+  {
     "ticker": "AAPL",
     "date": "2026-10-29",
     "time": "time-not-supplied",
@@ -22,12 +28,6 @@
     "date": "2026-10-29",
     "time": "time-not-supplied",
     "eps_estimate": "$2.02"
-  },
-  {
-    "ticker": "GOOGL",
-    "date": "2026-11-04",
-    "time": "time-not-supplied",
-    "eps_estimate": "$2.95"
   },
   {
     "ticker": "MSFT",
