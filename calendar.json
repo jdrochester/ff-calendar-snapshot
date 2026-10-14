@@ -297,12 +297,23 @@
     "actual": null
   },
   {
+    "title": "ECB President Lagarde Speaks",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Medium",
+    "date": "10-14-2026",
+    "time": "2:10am",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "Trade Balance",
     "country": "CNY",
     "currency": null,
     "impact": "Low",
     "date": "10-14-2026",
-    "time": "2:03am",
+    "time": "2:31am",
     "forecast": "790B",
     "previous": "809B",
     "actual": null
@@ -313,20 +324,9 @@
     "currency": null,
     "impact": "Low",
     "date": "10-14-2026",
-    "time": "2:04am",
+    "time": "2:31am",
     "forecast": "116.8B",
     "previous": "119.1B",
-    "actual": null
-  },
-  {
-    "title": "ECB President Lagarde Speaks",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Medium",
-    "date": "10-14-2026",
-    "time": "2:10am",
-    "forecast": "",
-    "previous": "",
     "actual": null
   },
   {
@@ -385,12 +385,23 @@
     "actual": null
   },
   {
+    "title": "ECB President Lagarde Speaks",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Medium",
+    "date": "10-14-2026",
+    "time": "8:30am",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "M2 Money Supply y/y",
     "country": "CNY",
     "currency": null,
     "impact": "Low",
     "date": "10-14-2026",
-    "time": "8:03am",
+    "time": "9:03am",
     "forecast": "7.4%",
     "previous": "7.5%",
     "actual": null
@@ -401,20 +412,9 @@
     "currency": null,
     "impact": "Low",
     "date": "10-14-2026",
-    "time": "8:03am",
+    "time": "9:03am",
     "forecast": "1025B",
     "previous": "60B",
-    "actual": null
-  },
-  {
-    "title": "ECB President Lagarde Speaks",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Medium",
-    "date": "10-14-2026",
-    "time": "8:30am",
-    "forecast": "",
-    "previous": "",
     "actual": null
   },
   {
@@ -545,6 +545,17 @@
     "impact": "Low",
     "date": "10-14-2026",
     "time": "6:00pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Goolsbee Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "10-14-2026",
+    "time": "7:00pm",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -1095,7 +1106,7 @@
     "impact": "Low",
     "date": "10-16-2026",
     "time": "12:30pm",
-    "forecast": "",
+    "forecast": "23.59B",
     "previous": "20.65B",
     "actual": null
   },
