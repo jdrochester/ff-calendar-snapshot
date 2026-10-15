@@ -1,9 +1,15 @@
 [
   {
+    "ticker": "META",
+    "date": "2026-10-21",
+    "time": "time-after-hours",
+    "eps_estimate": "$6.39"
+  },
+  {
     "ticker": "TSLA",
     "date": "2026-10-21",
     "time": "time-after-hours",
-    "eps_estimate": "$0.22"
+    "eps_estimate": "$0.21"
   },
   {
     "ticker": "GOOGL",
