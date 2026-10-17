@@ -3,7 +3,7 @@
     "ticker": "META",
     "date": "2026-10-21",
     "time": "time-after-hours",
-    "eps_estimate": "$6.35"
+    "eps_estimate": "$6.67"
   },
   {
     "ticker": "TSLA",
@@ -45,6 +45,6 @@
     "ticker": "NVDA",
     "date": "2026-11-18",
     "time": "time-not-supplied",
-    "eps_estimate": "$2.47"
+    "eps_estimate": "$2.48"
   }
 ]
