@@ -143,17 +143,6 @@
     "actual": null
   },
   {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "10-19-2026",
-    "time": "6:02am",
-    "forecast": "",
-    "previous": "-5.3%",
-    "actual": null
-  },
-  {
     "title": "CPI m/m",
     "country": "CAD",
     "currency": null,
@@ -327,6 +316,17 @@
     "time": "9:00am",
     "forecast": "23.6",
     "previous": "25.8",
+    "actual": null
+  },
+  {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "10-20-2026",
+    "time": "9:10am",
+    "forecast": "",
+    "previous": "-5.3%",
     "actual": null
   },
   {
