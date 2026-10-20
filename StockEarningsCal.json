@@ -3,13 +3,13 @@
     "ticker": "META",
     "date": "2026-10-21",
     "time": "time-after-hours",
-    "eps_estimate": "$6.67"
+    "eps_estimate": "$6.54"
   },
   {
     "ticker": "TSLA",
     "date": "2026-10-21",
     "time": "time-after-hours",
-    "eps_estimate": "$0.21"
+    "eps_estimate": "$0.22"
   },
   {
     "ticker": "GOOGL",
@@ -26,14 +26,14 @@
   {
     "ticker": "AMZN",
     "date": "2026-10-29",
-    "time": "time-not-supplied",
-    "eps_estimate": "$2.02"
+    "time": "time-after-hours",
+    "eps_estimate": "$2.01"
   },
   {
     "ticker": "AAPL",
     "date": "2026-11-02",
     "time": "time-after-hours",
-    "eps_estimate": "$1.99"
+    "eps_estimate": "$2"
   },
   {
     "ticker": "BRK.B",
@@ -45,6 +45,6 @@
     "ticker": "NVDA",
     "date": "2026-11-18",
     "time": "time-not-supplied",
-    "eps_estimate": "$2.48"
+    "eps_estimate": "$2.49"
   }
 ]
