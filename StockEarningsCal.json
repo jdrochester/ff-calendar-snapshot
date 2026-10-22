@@ -1,17 +1,5 @@
 [
   {
-    "ticker": "META",
-    "date": "2026-10-21",
-    "time": "time-after-hours",
-    "eps_estimate": "$6.54"
-  },
-  {
-    "ticker": "TSLA",
-    "date": "2026-10-21",
-    "time": "time-after-hours",
-    "eps_estimate": "$0.22"
-  },
-  {
     "ticker": "GOOGL",
     "date": "2026-10-28",
     "time": "time-after-hours",
@@ -27,7 +15,7 @@
     "ticker": "AMZN",
     "date": "2026-10-29",
     "time": "time-after-hours",
-    "eps_estimate": "$2.01"
+    "eps_estimate": "$2.02"
   },
   {
     "ticker": "AAPL",
