@@ -424,7 +424,7 @@
     "impact": "Low",
     "date": "10-28-2026",
     "time": "2:30pm",
-    "forecast": "-0.3M",
+    "forecast": "0.1M",
     "previous": "-3.1M",
     "actual": null
   },
@@ -578,7 +578,7 @@
     "impact": "Medium",
     "date": "10-29-2026",
     "time": "12:30pm",
-    "forecast": "3.3%",
+    "forecast": "3.2%",
     "previous": "6.2%",
     "actual": null
   },
@@ -666,7 +666,7 @@
     "impact": "Low",
     "date": "10-29-2026",
     "time": "2:30pm",
-    "forecast": "",
+    "forecast": "75B",
     "previous": "77B",
     "actual": null
   },
@@ -853,7 +853,7 @@
     "impact": "Low",
     "date": "10-30-2026",
     "time": "7:00am",
-    "forecast": "-0.1%",
+    "forecast": "-0.2%",
     "previous": "-0.2%",
     "actual": null
   },
