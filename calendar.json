@@ -55,17 +55,6 @@
     "actual": null
   },
   {
-    "title": "ANZ Job Advertisements m/m",
-    "country": "AUD",
-    "currency": null,
-    "impact": "Low",
-    "date": "11-02-2026",
-    "time": "12:45am",
-    "forecast": "",
-    "previous": "2.2%",
-    "actual": null
-  },
-  {
     "title": "RatingDog Manufacturing PMI",
     "country": "CNY",
     "currency": null,
@@ -104,7 +93,7 @@
     "currency": null,
     "impact": "Low",
     "date": "11-02-2026",
-    "time": "7:30am",
+    "time": "7:33am",
     "forecast": "3.0%",
     "previous": "3.2%",
     "actual": null
@@ -226,7 +215,7 @@
     "impact": "Medium",
     "date": "11-02-2026",
     "time": "3:00pm",
-    "forecast": "54.7",
+    "forecast": "54.5",
     "previous": "54.5",
     "actual": null
   },
@@ -237,7 +226,7 @@
     "impact": "Low",
     "date": "11-02-2026",
     "time": "3:00pm",
-    "forecast": "0.3%",
+    "forecast": "0.4%",
     "previous": "0.9%",
     "actual": null
   },
