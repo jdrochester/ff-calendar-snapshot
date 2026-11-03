@@ -1,11 +1,5 @@
 [
   {
-    "ticker": "AAPL",
-    "date": "2026-11-02",
-    "time": "time-after-hours",
-    "eps_estimate": "$1.98"
-  },
-  {
     "ticker": "BRK.B",
     "date": "2026-11-06",
     "time": "time-not-supplied",
