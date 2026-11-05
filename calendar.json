@@ -792,23 +792,12 @@
     "actual": null
   },
   {
-    "title": "PPI m/m",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "11-05-2026",
-    "time": "10:00am",
-    "forecast": "2.5%",
-    "previous": "1.9%",
-    "actual": null
-  },
-  {
     "title": "Spanish 10-y Bond Auction",
     "country": "EUR",
     "currency": null,
     "impact": "Low",
     "date": "11-05-2026",
-    "time": "10:03am",
+    "time": "9:39am",
     "forecast": "",
     "previous": "4.18|1.6",
     "actual": null
@@ -819,9 +808,20 @@
     "currency": null,
     "impact": "Low",
     "date": "11-05-2026",
-    "time": "10:18am",
+    "time": "9:55am",
     "forecast": "",
     "previous": "4.93|2.0",
+    "actual": null
+  },
+  {
+    "title": "PPI m/m",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "11-05-2026",
+    "time": "10:00am",
+    "forecast": "2.5%",
+    "previous": "1.9%",
     "actual": null
   },
   {
