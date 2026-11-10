@@ -66,6 +66,17 @@
     "actual": null
   },
   {
+    "title": "G7 Meetings",
+    "country": "All",
+    "currency": null,
+    "impact": "Low",
+    "date": "11-09-2026",
+    "time": "9:45am",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "ECOFIN Meetings",
     "country": "EUR",
     "currency": null,
@@ -220,25 +231,25 @@
     "actual": null
   },
   {
-    "title": "Trade Balance",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "11-10-2026",
-    "time": "3:03am",
-    "forecast": "859B",
-    "previous": "906B",
-    "actual": null
-  },
-  {
     "title": "USD-Denominated Trade Balance",
     "country": "CNY",
     "currency": null,
     "impact": "Low",
     "date": "11-10-2026",
-    "time": "3:04am",
+    "time": "2:32am",
     "forecast": "126.5B",
     "previous": "133.5B",
+    "actual": null
+  },
+  {
+    "title": "Trade Balance",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "11-10-2026",
+    "time": "2:33am",
+    "forecast": "855B",
+    "previous": "906B",
     "actual": null
   },
   {
@@ -259,7 +270,7 @@
     "impact": "Low",
     "date": "11-10-2026",
     "time": "5:00am",
-    "forecast": "46.9",
+    "forecast": "47.1",
     "previous": "47.0",
     "actual": null
   },
@@ -286,25 +297,25 @@
     "actual": null
   },
   {
-    "title": "M2 Money Supply y/y",
-    "country": "CNY",
+    "title": "G7 Meetings",
+    "country": "All",
     "currency": null,
     "impact": "Low",
     "date": "11-10-2026",
-    "time": "9:03am",
-    "forecast": "7.3%",
-    "previous": "7.2%",
+    "time": "9:45am",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
-    "title": "New Loans",
-    "country": "CNY",
+    "title": "30-y Bond Auction",
+    "country": "GBP",
     "currency": null,
     "impact": "Low",
     "date": "11-10-2026",
-    "time": "9:03am",
-    "forecast": "80B",
-    "previous": "1080B",
+    "time": "10:02am",
+    "forecast": "",
+    "previous": "5.52|3.8",
     "actual": null
   },
   {
@@ -314,19 +325,8 @@
     "impact": "Low",
     "date": "11-10-2026",
     "time": "11:00am",
-    "forecast": "97.7",
+    "forecast": "98.0",
     "previous": "97.9",
-    "actual": null
-  },
-  {
-    "title": "30-y Bond Auction",
-    "country": "GBP",
-    "currency": null,
-    "impact": "Low",
-    "date": "11-10-2026",
-    "time": "11:32am",
-    "forecast": "",
-    "previous": "5.52|3.8",
     "actual": null
   },
   {
@@ -533,7 +533,7 @@
     "currency": null,
     "impact": "Low",
     "date": "11-11-2026",
-    "time": "8:20am",
+    "time": "8:15am",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -547,6 +547,39 @@
     "time": "9:00am",
     "forecast": "0.7%",
     "previous": "-1.3%",
+    "actual": null
+  },
+  {
+    "title": "M2 Money Supply y/y",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "11-11-2026",
+    "time": "9:03am",
+    "forecast": "7.2%",
+    "previous": "7.2%",
+    "actual": null
+  },
+  {
+    "title": "New Loans",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "11-11-2026",
+    "time": "9:03am",
+    "forecast": "80B",
+    "previous": "1080B",
+    "actual": null
+  },
+  {
+    "title": "ECB President Lagarde Speaks",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Medium",
+    "date": "11-11-2026",
+    "time": "9:45am",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -622,7 +655,7 @@
     "impact": "Low",
     "date": "11-12-2026",
     "time": "12:01am",
-    "forecast": "-32%",
+    "forecast": "-33%",
     "previous": "-32%",
     "actual": null
   },
@@ -710,7 +743,7 @@
     "impact": "Low",
     "date": "11-12-2026",
     "time": "7:00am",
-    "forecast": "-0.3%",
+    "forecast": "0.4%",
     "previous": "1.7%",
     "actual": null
   },
@@ -726,24 +759,13 @@
     "actual": null
   },
   {
-    "title": "EU Economic Forecasts",
-    "country": "EUR",
-    "currency": null,
-    "impact": "Low",
-    "date": "11-12-2026",
-    "time": "10:00am",
-    "forecast": "",
-    "previous": "",
-    "actual": null
-  },
-  {
     "title": "Building Permits m/m",
     "country": "CAD",
     "currency": null,
     "impact": "Low",
     "date": "11-12-2026",
     "time": "1:30pm",
-    "forecast": "-3.9%",
+    "forecast": "-4.0%",
     "previous": "8.8%",
     "actual": null
   },
@@ -764,7 +786,7 @@
     "currency": null,
     "impact": "Low",
     "date": "11-12-2026",
-    "time": "2:00pm",
+    "time": "1:30pm",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -776,7 +798,7 @@
     "impact": "Low",
     "date": "11-12-2026",
     "time": "3:00pm",
-    "forecast": "3.86M",
+    "forecast": "3.89M",
     "previous": "3.99M",
     "actual": null
   },
@@ -819,7 +841,7 @@
     "currency": null,
     "impact": "Low",
     "date": "11-12-2026",
-    "time": "4:30pm",
+    "time": "4:15pm",
     "forecast": "",
     "previous": "",
     "actual": null
@@ -833,6 +855,17 @@
     "time": "5:00pm",
     "forecast": "",
     "previous": "-0.9M",
+    "actual": null
+  },
+  {
+    "title": "German Buba President Nagel Speaks",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "11-12-2026",
+    "time": "5:30pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -875,7 +908,7 @@
     "impact": "Low",
     "date": "11-12-2026",
     "time": "7:00pm",
-    "forecast": "",
+    "forecast": "-286.3B",
     "previous": "-26.9B",
     "actual": null
   },
@@ -952,7 +985,7 @@
     "impact": "Low",
     "date": "11-13-2026",
     "time": "9:00am",
-    "forecast": "1.85B",
+    "forecast": "2.84B",
     "previous": "1.77B",
     "actual": null
   },
@@ -1073,6 +1106,17 @@
     "impact": "Low",
     "date": "11-13-2026",
     "time": "3:50pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
+    "title": "German Buba President Nagel Speaks",
+    "country": "EUR",
+    "currency": null,
+    "impact": "Low",
+    "date": "11-13-2026",
+    "time": "4:00pm",
     "forecast": "",
     "previous": "",
     "actual": null
