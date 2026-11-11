@@ -346,9 +346,9 @@
     "currency": null,
     "impact": "Low",
     "date": "11-10-2026",
-    "time": "1:15pm",
+    "time": "1:14pm",
     "forecast": "",
-    "previous": "",
+    "previous": "16.8K",
     "actual": null
   },
   {
@@ -357,9 +357,9 @@
     "currency": null,
     "impact": "Low",
     "date": "11-10-2026",
-    "time": "1:16pm",
+    "time": "1:15pm",
     "forecast": "",
-    "previous": "16.8K",
+    "previous": "19.5K",
     "actual": null
   },
   {
@@ -550,28 +550,6 @@
     "actual": null
   },
   {
-    "title": "M2 Money Supply y/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "11-11-2026",
-    "time": "9:03am",
-    "forecast": "7.2%",
-    "previous": "7.2%",
-    "actual": null
-  },
-  {
-    "title": "New Loans",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "11-11-2026",
-    "time": "9:03am",
-    "forecast": "80B",
-    "previous": "1080B",
-    "actual": null
-  },
-  {
     "title": "ECB President Lagarde Speaks",
     "country": "EUR",
     "currency": null,
@@ -588,7 +566,7 @@
     "currency": null,
     "impact": "Low",
     "date": "11-11-2026",
-    "time": "10:34am",
+    "time": "10:35am",
     "forecast": "",
     "previous": "3.80|1.4",
     "actual": null
@@ -759,6 +737,28 @@
     "actual": null
   },
   {
+    "title": "M2 Money Supply y/y",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "11-12-2026",
+    "time": "9:03am",
+    "forecast": "7.2%",
+    "previous": "7.2%",
+    "actual": null
+  },
+  {
+    "title": "New Loans",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "11-12-2026",
+    "time": "9:03am",
+    "forecast": "80B",
+    "previous": "1080B",
+    "actual": null
+  },
+  {
     "title": "Building Permits m/m",
     "country": "CAD",
     "currency": null,
@@ -853,7 +853,7 @@
     "impact": "Low",
     "date": "11-12-2026",
     "time": "5:00pm",
-    "forecast": "",
+    "forecast": "-0.6M",
     "previous": "-0.9M",
     "actual": null
   },
@@ -908,7 +908,7 @@
     "impact": "Low",
     "date": "11-12-2026",
     "time": "7:00pm",
-    "forecast": "-286.3B",
+    "forecast": "-298.6B",
     "previous": "-26.9B",
     "actual": null
   },
@@ -1089,13 +1089,24 @@
     "actual": null
   },
   {
+    "title": "FOMC Member Logan Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "11-13-2026",
+    "time": "2:40pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "Natural Gas Storage",
     "country": "USD",
     "currency": null,
     "impact": "Low",
     "date": "11-13-2026",
     "time": "3:30pm",
-    "forecast": "",
+    "forecast": "65B",
     "previous": "77B",
     "actual": null
   },
