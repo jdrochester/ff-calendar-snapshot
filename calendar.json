@@ -242,6 +242,17 @@
     "actual": null
   },
   {
+    "title": "FOMC Member Hammack Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "11-16-2026",
+    "time": "7:15pm",
+    "forecast": "",
+    "previous": "",
+    "actual": null
+  },
+  {
     "title": "RBNZ Financial Stability Report",
     "country": "NZD",
     "currency": null,
@@ -685,7 +696,7 @@
     "title": "BOE Gov Bailey Speaks",
     "country": "GBP",
     "currency": null,
-    "impact": "High",
+    "impact": "Medium",
     "date": "11-18-2026",
     "time": "7:30am",
     "forecast": "",
@@ -1235,7 +1246,7 @@
     "title": "FOMC Member Waller Speaks",
     "country": "USD",
     "currency": null,
-    "impact": "Medium",
+    "impact": "Low",
     "date": "11-20-2026",
     "time": "1:25pm",
     "forecast": "",
