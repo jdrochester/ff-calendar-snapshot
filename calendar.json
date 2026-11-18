@@ -528,6 +528,17 @@
     "actual": null
   },
   {
+    "title": "GDT Price Index",
+    "country": "NZD",
+    "currency": null,
+    "impact": "Low",
+    "date": "11-17-2026",
+    "time": "2:29pm",
+    "forecast": "",
+    "previous": "3.0%",
+    "actual": null
+  },
+  {
     "title": "FOMC Member Hammack Speaks",
     "country": "USD",
     "currency": null,
@@ -558,17 +569,6 @@
     "time": "3:00pm",
     "forecast": "29",
     "previous": "29",
-    "actual": null
-  },
-  {
-    "title": "GDT Price Index",
-    "country": "NZD",
-    "currency": null,
-    "impact": "Low",
-    "date": "11-17-2026",
-    "time": "3:50pm",
-    "forecast": "",
-    "previous": "3.0%",
     "actual": null
   },
   {
@@ -621,7 +621,7 @@
     "currency": null,
     "impact": "Low",
     "date": "11-17-2026",
-    "time": "11:30pm",
+    "time": "11:39pm",
     "forecast": "",
     "previous": "-0.1%",
     "actual": null
@@ -712,17 +712,6 @@
     "time": "7:00am",
     "forecast": "4.1%",
     "previous": "3.9%",
-    "actual": null
-  },
-  {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "11-18-2026",
-    "time": "7:02am",
-    "forecast": "",
-    "previous": "-4.3%",
     "actual": null
   },
   {
@@ -842,7 +831,7 @@
     "impact": "Low",
     "date": "11-18-2026",
     "time": "3:00pm",
-    "forecast": "-2.1%",
+    "forecast": "-2.0%",
     "previous": "-7.3%",
     "actual": null
   },
@@ -853,7 +842,7 @@
     "impact": "Low",
     "date": "11-18-2026",
     "time": "3:30pm",
-    "forecast": "",
+    "forecast": "0.4M",
     "previous": "4.7M",
     "actual": null
   },
@@ -990,6 +979,17 @@
     "actual": null
   },
   {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "11-19-2026",
+    "time": "7:02am",
+    "forecast": "",
+    "previous": "-4.3%",
+    "actual": null
+  },
+  {
     "title": "Current Account",
     "country": "EUR",
     "currency": null,
@@ -1040,7 +1040,7 @@
     "impact": "Low",
     "date": "11-19-2026",
     "time": "1:30pm",
-    "forecast": "1.2%",
+    "forecast": "0.4%",
     "previous": "2.0%",
     "actual": null
   },
@@ -1051,7 +1051,7 @@
     "impact": "Low",
     "date": "11-19-2026",
     "time": "1:30pm",
-    "forecast": "2.0%",
+    "forecast": "0.9%",
     "previous": "4.8%",
     "actual": null
   },
@@ -1073,7 +1073,7 @@
     "impact": "Medium",
     "date": "11-19-2026",
     "time": "1:30pm",
-    "forecast": "19.2",
+    "forecast": "20.6",
     "previous": "20.9",
     "actual": null
   },
@@ -1084,7 +1084,7 @@
     "impact": "Medium",
     "date": "11-19-2026",
     "time": "1:30pm",
-    "forecast": "199K",
+    "forecast": "198K",
     "previous": "200K",
     "actual": null
   },
@@ -1139,7 +1139,7 @@
     "impact": "Low",
     "date": "11-19-2026",
     "time": "3:30pm",
-    "forecast": "",
+    "forecast": "25B",
     "previous": "61B",
     "actual": null
   },
@@ -1348,7 +1348,7 @@
     "impact": "Medium",
     "date": "11-20-2026",
     "time": "3:00pm",
-    "forecast": "52.1",
+    "forecast": "51.7",
     "previous": "51.0",
     "actual": null
   },
