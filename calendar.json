@@ -979,17 +979,6 @@
     "actual": null
   },
   {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "11-19-2026",
-    "time": "7:02am",
-    "forecast": "",
-    "previous": "-4.3%",
-    "actual": null
-  },
-  {
     "title": "Current Account",
     "country": "EUR",
     "currency": null,
@@ -1273,6 +1262,17 @@
     "time": "7:00am",
     "forecast": "18.0B",
     "previous": "24.5B",
+    "actual": null
+  },
+  {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "currency": null,
+    "impact": "Low",
+    "date": "11-20-2026",
+    "time": "7:02am",
+    "forecast": "",
+    "previous": "-4.3%",
     "actual": null
   },
   {
