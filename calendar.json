@@ -374,6 +374,17 @@
     "actual": null
   },
   {
+    "title": "HMRC Payrolls Change",
+    "country": "GBP",
+    "currency": null,
+    "impact": "Low",
+    "date": "11-17-2026",
+    "time": "7:00am",
+    "forecast": "9K",
+    "previous": "13K",
+    "actual": null
+  },
+  {
     "title": "Unemployment Rate",
     "country": "GBP",
     "currency": null,
@@ -1350,6 +1361,17 @@
     "time": "3:00pm",
     "forecast": "",
     "previous": "4.3%",
+    "actual": null
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Medium",
+    "date": "11-20-2026",
+    "time": "5:00pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
