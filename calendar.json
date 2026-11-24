@@ -209,24 +209,13 @@
     "actual": null
   },
   {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "currency": null,
-    "impact": "Low",
-    "date": "11-24-2026",
-    "time": "7:02am",
-    "forecast": "",
-    "previous": "-4.3%",
-    "actual": null
-  },
-  {
     "title": "German ifo Business Climate",
     "country": "EUR",
     "currency": null,
     "impact": "Low",
     "date": "11-24-2026",
     "time": "9:00am",
-    "forecast": "90.6",
+    "forecast": "90.5",
     "previous": "90.2",
     "actual": null
   },
@@ -237,7 +226,7 @@
     "impact": "Low",
     "date": "11-24-2026",
     "time": "11:00am",
-    "forecast": "-24",
+    "forecast": "-27",
     "previous": "-10",
     "actual": null
   },
@@ -281,7 +270,7 @@
     "impact": "Low",
     "date": "11-24-2026",
     "time": "2:00pm",
-    "forecast": "-9.3",
+    "forecast": "-9.4",
     "previous": "-9.8",
     "actual": null
   },
@@ -314,7 +303,7 @@
     "impact": "Medium",
     "date": "11-24-2026",
     "time": "3:00pm",
-    "forecast": "92.1",
+    "forecast": "92.4",
     "previous": "91.7",
     "actual": null
   },
@@ -325,7 +314,7 @@
     "impact": "Low",
     "date": "11-24-2026",
     "time": "3:00pm",
-    "forecast": "-3",
+    "forecast": "-2",
     "previous": "-2",
     "actual": null
   },
@@ -380,7 +369,7 @@
     "impact": "High",
     "date": "11-25-2026",
     "time": "12:30am",
-    "forecast": "4.8%",
+    "forecast": "4.7%",
     "previous": "4.3%",
     "actual": null
   },
@@ -484,17 +473,6 @@
     "actual": null
   },
   {
-    "title": "Unemployment Claims",
-    "country": "USD",
-    "currency": null,
-    "impact": "Medium",
-    "date": "11-25-2026",
-    "time": "1:30pm",
-    "forecast": "201K",
-    "previous": "203K",
-    "actual": null
-  },
-  {
     "title": "Core Durable Goods Orders m/m",
     "country": "USD",
     "currency": null,
@@ -512,7 +490,7 @@
     "impact": "Low",
     "date": "11-25-2026",
     "time": "1:30pm",
-    "forecast": "0.5%",
+    "forecast": "0.7%",
     "previous": "1.8%",
     "actual": null
   },
@@ -539,13 +517,24 @@
     "actual": null
   },
   {
+    "title": "Unemployment Claims",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "11-25-2026",
+    "time": "1:30pm",
+    "forecast": "201K",
+    "previous": "203K",
+    "actual": null
+  },
+  {
     "title": "New Home Sales",
     "country": "USD",
     "currency": null,
     "impact": "Low",
     "date": "11-25-2026",
     "time": "3:00pm",
-    "forecast": "649K",
+    "forecast": "650K",
     "previous": "676K",
     "actual": null
   },
@@ -567,7 +556,7 @@
     "impact": "Low",
     "date": "11-25-2026",
     "time": "5:00pm",
-    "forecast": "",
+    "forecast": "-19B",
     "previous": "20B",
     "actual": null
   },
@@ -589,7 +578,7 @@
     "impact": "Low",
     "date": "11-26-2026",
     "time": "12:30am",
-    "forecast": "4.4%",
+    "forecast": "4.5%",
     "previous": "-3.6%",
     "actual": null
   },
@@ -699,7 +688,7 @@
     "impact": "Medium",
     "date": "11-26-2026",
     "time": "11:30pm",
-    "forecast": "2.9%",
+    "forecast": "3.0%",
     "previous": "2.6%",
     "actual": null
   },
@@ -710,7 +699,7 @@
     "impact": "Low",
     "date": "11-27-2026",
     "time": "7:45am",
-    "forecast": "0.2%",
+    "forecast": "0.1%",
     "previous": "-0.5%",
     "actual": null
   },
@@ -732,7 +721,7 @@
     "impact": "Low",
     "date": "11-27-2026",
     "time": "7:45am",
-    "forecast": "-0.1%",
+    "forecast": "-0.2%",
     "previous": "0.4%",
     "actual": null
   },
@@ -754,7 +743,7 @@
     "impact": "Low",
     "date": "11-27-2026",
     "time": "8:00am",
-    "forecast": "4.8%",
+    "forecast": "4.7%",
     "previous": "4.9%",
     "actual": null
   },
@@ -798,7 +787,7 @@
     "impact": "Low",
     "date": "11-27-2026",
     "time": "1:30pm",
-    "forecast": "9.6B",
+    "forecast": "9.5B",
     "previous": "8.8B",
     "actual": null
   },
@@ -809,7 +798,7 @@
     "impact": "Low",
     "date": "11-27-2026",
     "time": "1:30pm",
-    "forecast": "-134.4B",
+    "forecast": "-135.9B",
     "previous": "-134.9B",
     "actual": null
   },
@@ -820,7 +809,7 @@
     "impact": "Low",
     "date": "11-27-2026",
     "time": "1:30pm",
-    "forecast": "0.7%",
+    "forecast": "0.5%",
     "previous": "0.6%",
     "actual": null
   }
