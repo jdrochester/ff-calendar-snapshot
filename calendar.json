@@ -258,7 +258,7 @@
     "currency": null,
     "impact": "Low",
     "date": "11-24-2026",
-    "time": "2:00pm",
+    "time": "1:51pm",
     "forecast": "",
     "previous": "-0.1%",
     "actual": null
@@ -434,9 +434,20 @@
     "currency": null,
     "impact": "Low",
     "date": "11-25-2026",
-    "time": "10:42am",
+    "time": "10:32am",
     "forecast": "",
     "previous": "3.37|1.1",
+    "actual": null
+  },
+  {
+    "title": "FOMC Member Bowman Speaks",
+    "country": "USD",
+    "currency": null,
+    "impact": "Low",
+    "date": "11-25-2026",
+    "time": "12:25pm",
+    "forecast": "",
+    "previous": "",
     "actual": null
   },
   {
@@ -545,7 +556,7 @@
     "impact": "Low",
     "date": "11-25-2026",
     "time": "3:30pm",
-    "forecast": "",
+    "forecast": "2.0M",
     "previous": "3.4M",
     "actual": null
   },
@@ -766,7 +777,7 @@
     "date": "11-27-2026",
     "time": "10:33am",
     "forecast": "",
-    "previous": "",
+    "previous": "4.49|1.6",
     "actual": null
   },
   {
