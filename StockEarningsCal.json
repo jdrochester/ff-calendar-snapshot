@@ -4,5 +4,11 @@
     "date": "2026-12-09",
     "time": "time-after-hours",
     "eps_estimate": "$3.45"
+  },
+  {
+    "ticker": "JPM",
+    "date": "2027-01-12",
+    "time": "time-not-supplied",
+    "eps_estimate": "$5.94"
   }
 ]
